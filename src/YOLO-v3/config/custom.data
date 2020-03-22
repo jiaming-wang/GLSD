@@ -1,0 +1,4 @@
+classes= 6
+train=data/custom/train.txt
+valid=data/custom/val.txt
+names=data/custom/classes.names
