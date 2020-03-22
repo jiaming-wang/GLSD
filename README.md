@@ -2,7 +2,7 @@
 
 
 
-ImageNet, VOC2007, [SeaShips](http://www.lmars.whu.edu.cn/prof_web/shaozhenfeng/datasets/SeaShips(7000).zip) (first ship database), 
+ImageNet, VOC2007, [SeaShips](http://www.lmars.whu.edu.cn/prof_web/shaozhenfeng/datasets/SeaShips(7000).zip) (first large-scale ship database), 
 
 
 If you find this work useful, please consider citing it.
