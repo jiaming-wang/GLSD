@@ -16,5 +16,4 @@ If you find this work useful, please consider citing it.
 	pages={2593--2604},
 	year={2018}
 }
-
 ```
