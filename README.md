@@ -11,6 +11,8 @@ Table 1. Comparison among GLSD and object detection datasets.
 |[SeaShips](http://www.lmars.whu.edu.cn/prof_web/shaozhenfeng/datasets/SeaShips(7000).zip) (first large-scale ship database)|6|40077|31455|1,920 × 1,080|
 |GLSD|10|-|-|random|
 
+See more details of [ports information](https://github.com/jiaming-wang/GLSD/blob/master/Ports%20list.md) in GLSD.
+
 If you find this work useful, please consider citing it.
 ```
 @article{shao2018seaships,
