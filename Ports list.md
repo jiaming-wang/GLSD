@@ -1,7 +1,7 @@
 # Ports list (Updating)
 
 |Index |Port name |Country| Number|
-|:-----|:---------|:------|:------|
+|:----:|:--------:|:-----:|:-----:|
 |1|ANGRA DO HEROISMO|The Atlantic islands||
 |2|BAHIA BLANCA|Argentina||
 |3|BUENOS AIRES|Argentina||
