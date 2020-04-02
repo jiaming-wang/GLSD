@@ -25,7 +25,6 @@ class voc2coco:
                         "general cargo ship",  "bulk cargo carrier")
  
         self.num_classes = len(self.classes)
-        # assert 'VOCdevkit' in devkit_path, 'VOC地址不存在: {}'.format(devkit_path)
         self.data_path = os.path.join(devkit_path)
         self.annotaions_path = os.path.join(self.data_path, 'Annotations')
         self.image_set_path = os.path.join(self.data_path, 'ImageSets')
@@ -174,7 +173,6 @@ class voc2coco:
                            "categories": self.categories_msg}
             self._save_json_file('voc_' + img_set, result_json)
 def demo():
-    # 转换pascal地址是'./VOC2007/VOCdevkit/VOC2007/ImageSets/Main/trainval.txt'
     converter = voc2coco('/home/wjmecho/workdir/GLSD/SeaShips(7000)/')
     converter.voc_to_coco_converter()
 if __name__ == "__main__":
