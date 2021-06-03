@@ -14,18 +14,18 @@ Table 2. The definition of categories in GLSD.
 |Categories|Definition|
 |:---:|:---:|
 |Ore carrier | Ships with small stowage factors|
-|Bulk cargo carrier & Ships with large stowage factors |
-|General cargo ship & Ships that transporting machinery, equipment, building materials, daily necessities, etc. |
-|Container ship & Ships that specialize in the transport of containerized goods |
-|Fishing boat & Ships for catching and harvesting aquatic animals and plants |
-|Passenger ship & Vessels used to transport passengers or pedestrians |
-|Sailing boat & Boats propelled partly or entirely by sails |
-|Barge & Ships for cargo transportation between inland ports |
-|War ship & Naval ships that are built and primarily intended for naval warfare |
-|Oil carrier & Ships designed for the bulk transport of oil or its products|
-|Tug & Tug maneuvers other vessels by pushing or pulling them either by direct contact or by means of a tow line|
-|Canoe & Lightweight narrow vessel, typically pointed at both ends and open on top |
-|Speed boat & Small boats with a powerful engine that travels very fast  |
+|Bulk cargo carrier | Ships with large stowage factors |
+|General cargo ship | Ships that transporting machinery, equipment, building materials, daily necessities, etc. |
+|Container ship | Ships that specialize in the transport of containerized goods |
+|Fishing boat | Ships for catching and harvesting aquatic animals and plants |
+|Passenger ship | Vessels used to transport passengers or pedestrians |
+|Sailing boat | Boats propelled partly or entirely by sails |
+|Barge | Ships for cargo transportation between inland ports |
+|War ship | Naval ships that are built and primarily intended for naval warfare |
+|Oil carrier | Ships designed for the bulk transport of oil or its products|
+|Tug | Tug maneuvers other vessels by pushing or pulling them either by direct contact or by means of a tow line|
+|Canoe | Lightweight narrow vessel, typically pointed at both ends and open on top |
+|Speed boat | Small boats with a powerful engine that travels very fast  |
 
 See more details of [ports information](https://github.com/jiaming-wang/GLSD/blob/master/Ports%20list.md) in GLSD.
 
