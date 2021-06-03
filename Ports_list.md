@@ -1,3425 +1,3404 @@
-# Ports list (Updating)
+# Ports list
 
 |Index |Port name |Country| Number|
 |:----:|:--------:|:-----:|:-----:|
-|1|ANGRA DO HEROISMO|The Atlantic islands||
-|2|BAHIA BLANCA|Argentina||
-|3|BUENOS AIRES|Argentina||
-|4|CAMPANA|Argentina||
-|5|CORNODORO RIVADAVIA|Argentina||
-|6|CONCEPCION|Argentina||
-|7|DIAMANTE|Argentina||
-|8|IBICUY|Argentina||
-|9|LA PLATA|Argentina||
-|10|MAR DEL PLATA|Argentina||
-|11|NOCOCHEA|Argentina||
-|12|PUERTO ACEVEDO|Argentina||
-|13|PUERTO DESEADO|Argentina||
-|14|PUERTO MADRYN|Argentina||
-|15|PUNTA COLORADA|Argentina||
-|16|PUNTA QUILLA|Argentina||
-|17|QUEQUEN|Argentina||
-|18|RAMALLO|Argentina||
-|19|RECALADA|Argentina||
-|20|RIO GALLEGOS|Argentina||
-|21|RIO GRANDE,AR|Argentina||
-|22|SAN ANTONIO ESTE|Argentina||
-|23|SAN FERNANDO,AR|Argentina||
-|24|SAN LPRENZ0|Argentina||
-|25|SAN NICOLAS|Argentina||
-|26|SAN PEDRO,AR|Argentina||
-|27|SAN SEBASTIAN BAY|Argentina||
-|28|SANTA CRUZ(ARG.)|Argentina||
-|29|SANTA FE|Argentina||
-|30|USHUAIA|Argentina||
-|31|VILLA CONSTITUCION|Argentina||
-|32|ZARATE|Argentina||
-|33|ANGRA DOS REIS|Brazil||
-|34|ARACAJU|Brazil||
-|35|ARACATI|Brazil||
-|36|ARATU|Brazil||
-|37|AREIA BRANCA|Brazil||
-|38|BARAO DE TEFFE|Brazil||
-|39|BELEM|Brazil||
-|40|CABEDELLO|Brazil||
-|41|FLORIANOPOLIS|Brazil||
-|42|FORTALEZA|Brazil||
-|43|ILHEUS|Brazil||
-|44|IMBITUBA|Brazil||
-|45|ITAJAI|Brazil||
-|46|ITAQUI|Brazil||
-|47|JOAO PESSOA|Brazil||
-|48|MACAPA|Brazil||
-|49|MACEIO|Brazil||
-|50|MANAUS|Brazil||
-|51|NATAL|Brazil||
-|52|NITEROI|Brazil||
-|53|PARANAGUA|Brazil||
-|54|PARNAIBA|Brazil||
-|55|PELOTAS|Brazil||
-|56|PONTA DO UBU|Brazil||
-|57|PORTO ALEGRE|Brazil||
-|58|PORTOCEL|Brazil||
-|59|RECIFE|Brazil||
-|60|RIO DE JANEIRO|Brazil||
-|61|RIO GRANDE|Brazil||
-|62|SALVADOR|Brazil||
-|63|SANTANA|Brazil||
-|64|SANTAREM|Brazil||
-|65|SANTOS|Brazil||
-|66|SAO LUIZ DE MARANHAO|Brazil||
-|67|SAO PAULO|Brazil||
-|68|SAO SEBASTIAO|Brazil||
-|69|SEPETIBA|Brazil||
-|70|TRAMANDAI|Brazil||
-|71|TROMBETAS|Brazil||
-|72|TUBARAO|Brazil||
-|73|VITORIA|Brazil||
-|74|SAN LORENZO|Argentina||
-|75|STANLEY|The falkland islands (malvinas)||
-|76|CAYENNE|French Guiana||
-|77|DEGRAD DE CANNES|French Guiana||
-|78|ASUNCION|Paraguay||
-|79|COLONIA|Uruguay||
-|80|FRAY BENTOS|Uruguay||
-|81|JOSE IGNACIO|Uruguay||
-|82|MALDONADO|Uruguay||
-|83|MONTEVIDEO|Uruguay||
-|84|NUEVA PALMIRA|Uruguay||
-|85|PAYSANDU|Uruguay||
-|86|PUNTA DEL ESTE|Uruguay||
-|87|SAO FRANCISCO DO SUL|Brazil||
-|88|ROSARIO|Argentina||
-|89|ALTAMIRA,BR|Brazil||
-|90|SUAPE|Brazil||
-|91|USAHUAI|Argentina||
-|92|NAVEGANTES|Brazil||
-|93|PECEM|Brazil||
-|94|ITAGUAI|Brazil||
-|95|MONDOZA|Argentina||
-|96|VILA DO CONDE|Brazil||
-|97|PUERTO ZARATE|Argentina||
-|98|CAACUPEMI|Paraguay||
-|99|FENIX|Paraguay||
-|100|TERPORT|Paraguay||
-|101|VILLETA|Paraguay||
-|102|ARGUINEGUIN|The Atlantic islands||
-|103|ARRECIFE|The Atlantic islands||
-|104|FUNGHAL|The Atlantic islands||
-|105|HORTA|The Atlantic islands||
-|106|LA SALINETA|The Atlantic islands||
-|107|MARIGOT|The Atlantic islands||
-|108|PHILIPSBURG|The Atlantic islands||
-|109|PONTA DELGACLA|The Atlantic islands||
-|110|PUERTO DEL ROSARIO|The Atlantic islands||
-|111|SANI.A CRUZ(FLOERS)|The Atlantic islands||
-|112|SANTA CRUA(GRACIOSA)|The Atlantic islands||
-|113|SANTA CRUZ(PALMA)|The Atlantic islands||
-|114|SANTA CRUZ(TENERIFE)|The Atlantic islands||
-|115|ELLINGTON|Fiji||
-|116|LAMBASA|Fiji||
-|117|LAUTOKA|Fiji||
-|118|LEVUKA|Fiji||
-|119|SAVUSAVU BAY|Fiji||
-|120|SUVA|Fiji||
-|121|VATIA POINT|Fiji||
-|122|BANABA|Kiribati||
-|123|CHRISTMAS ISLAND|Kiribati||
-|124|FANNING ISLAND|Kiribati||
-|125|TARAWA ISLAND|Kiribati||
-|126|BABOUILLAT|New caledonia||
-|127|NOUMEA|New caledonia||
-|128|NAURU ISLAND|nauru||
-|129|YAREN|nauru||
-|130|KOROR|palau||
-|131|MAJURO|The Marshall islands||
-|132|PONAPE|The Pacific islands||
-|133|SAIPAN ISLAND|The Pacific islands||
-|134|TINIAN ISLAND|The Pacific islands||
-|135|TRUK ISLAND|The Pacific islands||
-|136|YAP|The federated states of Micronesia countries||
-|137|HAO ISLADN|French Polynesia||
-|138|MAKATEA|French Polynesia||
-|139|MURUROA|French Polynesia||
-|140|PAPEETE|French Polynesia||
-|141|VAITAPE|French Polynesia||
-|142|AITAPE|Papua New Guinea||
-|143|ALOTAU|Papua New Guinea||
-|144|ANEWA BAY|Papua New Guinea||
-|145|BUKA|Papua New Guinea||
-|146|BUNA|Papua New Guinea||
-|147|CAPE HOSKINS|Papua New Guinea||
-|148|DARU|Papua New Guinea||
-|149|FINSHCAVEN|Papua New Guinea||
-|150|GASMATA ISLAND|Papua New Guinea||
-|151|KAVIENG|Papua New Guinea||
-|152|KIETA|Papua New Guinea||
-|153|KIMBE|Papua New Guinea||
-|154|LAE|Papua New Guinea||
-|155|LORENGAU|Papua New Guinea||
-|156|MADANG|Papua New Guinea||
-|157|MOROBE|Papua New Guinea||
-|158|ORO BAY|Papua New Guinea||
-|159|PORT MORESBY|Papua New Guinea||
-|160|RABAUL|Papua New Guinea||
-|161|SALAMAUA|Papua New Guinea||
-|162|SAMARAI|Papua New Guinea||
-|163|WEWAK|Papua New Guinea||
-|164|WOODLARK ISLAND|Papua New Guinea||
-|165|ST.PIERRE|Saint Pierre and cloning||
-|166|ADAMSTOWN|Pitcairn island||
-|167|HILO|In the Pacific islands||
-|168|KAHULUI|In the Pacific islands||
-|169|NAWILIWILI|In the Pacific islands||
-|170|ALLARDYCE HARBOUR|The Solomon islands||
-|171|GIZO|The Solomon islands||
-|172|HONIARA|The Solomon islands||
-|173|NORO|The Solomon islands||
-|174|RINGI COVE|The Solomon islands||
-|175|SHORTLAND ISLAND|The Solomon islands||
-|176|TULAGI|The Solomon islands||
-|177|YANDINA|The Solomon islands||
-|178|NEIAFU|tonga||
-|179|NOMUKA ISLAND|tonga||
-|180|NUKUALOFA|tonga||
-|181|PANGAI|tonga||
-|182|PRAIA|The Atlantic islands||
-|183|KOSRAE|The federated states of Micronesia countries||
-|184|EBEYE|The federated states of Micronesia countries||
-|185|LAS PALMAS|Spain||
-|186|ADRA|Spain||
-|187|AGUILAS|Spain||
-|188|ALCUDIA|Spain||
-|189|ALGECIRAS|Spain||
-|190|ALICANTE|Spain||
-|191|ALMERIA|Spain||
-|192|AVILES|Spain||
-|193|CEUTA|Spain||
-|194|BARCELONA|Spain||
-|195|BILBAO|Spain||
-|196|BLANES|Spain||
-|197|BURELA|Spain||
-|198|BURRIANA|Spain||
-|199|CADIZ|Spain||
-|200|CAPE FINISTRERRE|Spain||
-|201|CARTAGENA,ES|Spain||
-|202|CASTELLON|Spain||
-|203|CASTRO URDIALES|Spain||
-|204|CILERO|Spain||
-|205|CORCUBION|Spain||
-|206|CORUNNA|Spain||
-|207|DENIA|Spain||
-|208|ESCOMBRERAS HARBOUR|Spain||
-|209|FERROL|Spain||
-|210|GANDIA|Spain||
-|211|GARRUCHA|Spain||
-|212|GIJON|Spain||
-|213|HUELVA|Spain||
-|214|IBIZA|Spain||
-|215|JAVEA|Spain||
-|216|LA CALERA|Spain||
-|217|LUARCA|Spain||
-|218|MAHON|Spain||
-|219|MALAGA|Spain||
-|220|MARIN|Spain||
-|221|MAZARRON|Spain||
-|222|MOTRIL|Spain||
-|223|MUROS|Spain||
-|224|PALAMOS|Spain||
-|225|PALMA|Spain||
-|226|PASAJES|Spain||
-|227|PORTUGALETE|Spain||
-|228|PUNTA SALTACABALLO|Spain||
-|229|RIBADEO|Spain||
-|230|RIBADESELLA|Spain||
-|231|ROSAS|Spain||
-|232|ROTA|Spain||
-|233|SAGUNTO|Spain||
-|234|SAN CARLOS|Spain||
-|235|SAN CIPRIAN|Spain||
-|236|SAN ESTEBAN DE PRAVIA|Spain||
-|237|SAN FELIU DE GUIXOLS|Spain||
-|238|SAN FERNANDO|Spain||
-|239|SAN SEBASTIAN|Spain||
-|240|SANTANDER|Spain||
-|241|SEVILLE|Spain||
-|242|SOLLER|Spain||
-|243|TARRAGONA|Spain||
-|244|TORREVIEJA|Spain||
-|245|VALENCIA|Spain||
-|246|VIGO|Spain||
-|247|VILLAGARCIA|Spain||
-|248|VIVERO|Spain||
-|249|FOS|The French||
-|250|GIBRALTAR|Gibraltar||
-|251|ALGHERO|Italy||
-|252|ANZIO|Italy||
-|253|ARBATAX|Italy||
-|254|AUGUSTA|Italy||
-|255|AVOLA|Italy||
-|256|BAGNOLI|Italy||
-|257|BARI|Italy||
-|258|BARLETTA|Italy||
-|259|BRINDISI|Italy||
-|260|CAGLIARI|Italy||
-|261|CARLOFORTE|Italy||
-|262|CASTELLAMMARE DI STABIA|Italy||
-|263|CATANIA|Italy||
-|264|CATANZARO|Italy||
-|265|CHIOGGIA|Italy||
-|266|CIVITAVECCHIA|Italy||
-|267|CROTONE|Italy||
-|268|FIUMICINO|Italy||
-|269|FOLLONICA|Italy||
-|270|FORMIA|Italy||
-|271|GAETA|Italy||
-|272|GALLIPOLI|Italy||
-|273|GELA|Italy||
-|274|IMPERIA|Italy||
-|275|LA MADDALENA|Italy||
-|276|LEGHORN|Italy||
-|277|LICATA|Italy||
-|278|MANFREDONIA|Italy||
-|279|MARINA DI CARRARA|Italy||
-|280|MARSALA|Italy||
-|281|MAZARA DEL VALLO|Italy||
-|282|MELILLI|Italy||
-|283|MESSINA|Italy||
-|284|MOLFETTA|Italy||
-|285|MONFALCONE|Italy||
-|286|MONOPOLI|Italy||
-|287|NAPLES|Italy||
-|288|OLBIA|Italy||
-|289|ORISTANO|Italy||
-|290|ORTONA|Italy||
-|291|PESARO|Italy||
-|292|PESCARA|Italy||
-|293|PIOMBINO|Italy||
-|294|PORTICI|Italy||
-|295|PORTIGLIONE|Italy||
-|296|PORTO AZZURRO|Italy||
-|297|PORTO EMPEDOCLE|Italy||
-|298|PORTO MARGHERA|Italy||
-|299|PORTO SANTO STEFANO|Italy||
-|300|PORTO TORRES|Italy||
-|301|PORTO VESME|Italy||
-|302|PORTOFERRAIO|Italy||
-|303|PORTOSCUSO|Italy||
-|304|POZZUOLI|Italy||
-|305|PRIOLO|Italy||
-|306|RAVENNA|Italy||
-|307|REGGIO|Italy||
-|308|RIO MARINA|Italy||
-|309|SALERNO|Italy||
-|310|SAN REMO|Italy||
-|311|SARROCH|Italy||
-|312|SAVONA|Italy||
-|313|SIRACUSA|Italy||
-|314|TALAMONE|Italy||
-|315|TARANTO|Italy||
-|316|TORRE DEL GRECO|Italy||
-|317|TORRE ANNUNZIATA|Italy||
-|318|TRAPANI|Italy||
-|319|VASTO|Italy||
-|320|VIAREGGIO|Italy||
-|321|MONTE CARLO|Monaco||
-|322|ASHTART TERMINAL|Tunisia||
-|323|BIZERTA|Tunisia||
-|324|DJERBA ISLAND|Tunisia||
-|325|GABES|Tunisia||
-|326|LA GOULETTE|Tunisia||
-|327|LA SKHIRRA|Tunisia||
-|328|SFAX|Tunisia||
-|329|SUSA|Tunisia||
-|330|FIRENZE|Italy||
-|331|LA SPEZIA |Italy||
-|332|GENOVA|Italy||
-|333|BOLOGNA |Italy||
-|334|LIVORNO|Italy||
-|335|TORINO|Italy||
-|336|COMO|Italy||
-|337|MADRID|Spain||
-|338|TENERIFE|Spain||
-|339|GIOIA TAURO|Italy||
-|340|SABADELL|Spain||
-|341|LAVRIO|The Greek||
-|342|SANTA CRUZ DE TENERIFE|Spain||
-|343|POZZALLO|Italy||
-|344|BADAJOZ|Spain||
-|345|ABU AL BUKHOOSH|The united Arab emirates||
-|346|ABU DHABI|The united Arab emirates||
-|347|AJMAN|The united Arab emirates||
-|348|DAS ISLAND|The united Arab emirates||
-|349|DUBAI|The united Arab emirates||
-|350|FATEH TERMINAL|The united Arab emirates||
-|351|FUJAIRAH|The united Arab emirates||
-|352|JEBEL ALI|The united Arab emirates||
-|353|JEBEL DHANNA|The united Arab emirates||
-|354|KHOR FAKKAN|The united Arab emirates||
-|355|MINA SAQR|The united Arab emirates||
-|356|MINA ZAYED|The united Arab emirates||
-|357|MUBARRAS ISLAND|The united Arab emirates||
-|358|RAS AL KHAIMAH|The united Arab emirates||
-|359|SHARJAH|The united Arab emirates||
-|360|UMM AL QUWAIN|The united Arab emirates||
-|361|ALBAJETTY|bahrain||
-|362|MINA SULMAN|bahrain||
-|363|SITRA|bahrain||
-|364|BASRAH|Iraq||
-|365|FAO|Iraq||
-|366|KHOR AL AMAYA|Iraq||
-|367|MINA AL BAKR|Iraq||
-|368|UMM QASAR|Iraq||
-|369|ABADAN|Iran||
-|370|BANDAR ABBAS|Iran||
-|371|BANDAR IMAM KHOMEINI|Iran||
-|372|BANDAR MAHSHAHR|Iran||
-|373|BUSHEHR|Iran||
-|374|CYRUS TERMINAL|Iran||
-|375|JASK|Iran||
-|376|KHARG ISLAND|Iran||
-|377|KHORRAMSHAHR|Iran||
-|378|LAVAN ISLAND|Iran||
-|379|LINGAH|Iran||
-|380|RAS BAHREGAN|Iran||
-|381|KHOR AL MUFATTA|Kuwait||
-|382|KUWAIT|Kuwait||
-|383|MENA AL AHMADI|Kuwait||
-|384|MENA ABDULLA|Kuwait||
-|385|MENA SAUD|Kuwait||
-|386|SHUAIBA|Kuwait||
-|387|SHUWAIKH|Kuwait||
-|388|MINA AL FAHAL|Oman||
-|389|MINA QABOOS|Oman||
-|390|MUTTRAH|Oman||
-|391|SALALAH|Oman||
-|392|DOHA|Qatar||
-|393|HALUL ISLAND|Qatar||
-|394|UMM SAID|Qatar||
-|395|ST.DENIS|Qatar||
-|396|ST.LOUIS|Qatar||
-|397|DAMMAM|Saudi Arabia||
-|398|JUAYMAH TERMINAL|Saudi Arabia||
-|399|JUBAIL|Saudi Arabia||
-|400|RAS AL KHAFJI|Saudi Arabia||
-|401|RAS AL MISHAB|Saudi Arabia||
-|402|RAS TANURA|Saudi Arabia||
-|403|BAHRAIN|bahrain||
-|404|RIYADH|Saudi Arabia||
-|405|PORT RASHID|The united Arab emirates||
-|406|MUSCAT |Oman||
-|407|SOHAR|Oman||
-|408|SHAHID RAJAEE SEZ|Iran||
-|409|AI MANAMAH|bahrain||
-|410|PORT KHALID|The united Arab emirates||
-|411|HAMRIYA|The united Arab emirates||
-|412|NORWUZ TERMINAL|Iran||
-|413|CHABAHAR|Iran||
-|414|TEHRAN|Iran||
-|415|BANDAR ASSALUYEH|Iran||
-|416|AMBRIZ|Angola||
-|417|AMBRIZETE|Angola||
-|418|BENGUELA|Angola||
-|419|CABINDA|Angola||
-|420|LOBITO|Angola||
-|421|LUANDA|Angola||
-|422|MOCAMEDES|Angola||
-|423|NOVO REDONDO|Angola||
-|424|PORTO ALEXANDRE|Angola||
-|425|PORTO AMBAIM|Angola||
-|426|PORTO SALAZAR|Angola||
-|427|COTONOU|benin||
-|428|PORTO NOVO|benin||
-|429|DJENO TERMINAL|The republic of Congo||
-|430|POINTE NOIRE|The republic of Congo||
-|431|ABIDJAN|The ivory coast||
-|432|ASSINIE|The ivory coast||
-|433|FRESCO|The ivory coast||
-|434|GRAND BASSAM|The ivory coast||
-|435|SAN PERDRO|The ivory coast||
-|436|SASSANDRA|The ivory coast||
-|437|TABOU|The ivory coast||
-|438|DOUALA|Cameroon||
-|439|KRIBI|Cameroon||
-|440|TIKO|Cameroon||
-|441|VICTORIA,CM|Cameroon||
-|442|PALMEIRA|Cape Verde,||
-|443|PORTO GRANDE|Cape Verde,||
-|444|DAKHLA|The western Sahara||
-|445|LAAYOUNE|The western Sahara||
-|446|CAP LOPCZ|Gabon||
-|447|GAMBA|Gabon||
-|448|LIBREVILLE|Gabon||
-|449|LUCINA TERMINAL|Gabon||
-|450|OWENDO|Gabon||
-|451|PORT GENTIL|Gabon||
-|452|ACCRA|Ghana||
-|453|ADDA|Ghana||
-|454|AXIM|Ghana||
-|455|CAPE COAST|Ghana||
-|456|KETA|Ghana||
-|457|SEKONDI|Ghana||
-|458|TAKORADI|Ghana||
-|459|TEMA|Ghana||
-|460|WINNEBA|Ghana||
-|461|BANJUL|The Gambia||
-|462|CONAKRY|guinea||
-|463|KAMSAR|guinea||
-|464|VICTORIA,GN|guinea||
-|465|BATA|Equatorial guinea||
-|466|BUTUKU-LUBA|Equatorial guinea||
-|467|MALABO|Equatorial guinea||
-|468|BISSAU|Guinea Bissau||
-|469|BOLAMA|Guinea Bissau||
-|470|BUBAQUE|Guinea Bissau||
-|471|CACHEU|Guinea Bissau||
-|472|BUCHANAN|Liberia||
-|473|CAPE PALMAS|Liberia||
-|474|GRAND BASSA|Liberia||
-|475|GREENVILLE|Liberia||
-|476|MARSHALL|Liberia||
-|477|MONROVIA|Liberia||
-|478|RIVER CESS|Liberia||
-|479|NOUADHIBOU|Mauritania||
-|480|NOUAKCHOTT|Mauritania||
-|481|LUDERITZ|namibia||
-|482|WALVIS BAY|namibia||
-|483|AKASSA|Nigeria||
-|484|APAPA|Nigeria||
-|485|BADAGRI|Nigeria||
-|486|BONNY|Nigeria||
-|487|BRASS|Nigeria||
-|488|BURUTU|Nigeria||
-|489|CALABAR|Nigeria||
-|490|DEGEMA|Nigeria||
-|491|ESCRAVOS|Nigeria||
-|492|FORCADOS|Nigeria||
-|493|KOKO|Nigeria||
-|494|LAGOS|Nigeria||
-|495|OKRIKA|Nigeria||
-|496|OPOBO|Nigeria||
-|497|PENNINGTON TERMINAL|Nigeria||
-|498|PORT HARCOURT|Nigeria||
-|499|QUA IBOE|Nigeria||
-|500|SAPELE|Nigeria||
-|501|WARRI|Nigeria||
-|502|ASCENSION ISLAND|St Helena||
-|503|JAMESTOWN|St Helena||
-|504|FREETOWN|Sierra leone||
-|505|PEPEL|Sierra leone||
-|506|SHERBRO ISLAND|Sierra leone||
-|507|DAKAR|Senegal||
-|508|KALOLACK|Senegal||
-|509|ZIGHINKOR|Senegal||
-|510|PRINCIPE ISLAND|SAO tome and principe||
-|511|SAO TOME|SAO tome and principe||
-|512|KPEME|Togo||
-|513|LOME|Togo||
-|514|BANANA|The democratic republic of Congo||
-|515|BOMA|The democratic republic of Congo||
-|516|MATADI|The democratic republic of Congo||
-|517|TIN CAN|Nigeria||
-|518|NAMIBE|Angola||
-|519|MINDELO|Have to Angle||
-|520|LUBUMBASHI|The democratic republic of Congo||
-|521|BUKAVU|The democratic republic of Congo||
-|522|GOMA|The democratic republic of Congo||
-|523|SAN PEDRO,CI|The ivory coast||
-|524|BAMAKO|Mali||
-|525|BULAWAYO|Zimbabwe||
-|526|MUTARE|Zimbabwe||
-|527|GWERU|Zimbabwe||
-|528|CHINGOLA|In Zambia,||
-|529|SELEBI PIKWE|Botswana||
-|530|COPPERBELT|In Zambia,||
-|531|KABWE|In Zambia,||
-|532|LUANSHYA|In Zambia,||
-|533|CHANGA|In Zambia,||
-|534|EMBBAKASI|Kenya||
-|535|KINSHASA|The democratic republic of Congo||
-|536|PAGO PAGO|American Samoa||
-|537|ABBOT BAY|Australia||
-|538|ADELAIDE|Australia||
-|539|ALBANY,AU|Australia||
-|540|ARDROSSAN,AU|Australia||
-|541|BALLAST HEAD|Australia||
-|542|BARROW ISLAND|Australia||
-|543|BEAUTY POINT|Australia||
-|544|BELL BAY|Australia||
-|545|BOTANY BAY|Australia||
-|546|BOWEN|Australia||
-|547|BRISBANE|Australia||
-|548|BROOME|Australia||
-|549|BUNBURY|Australia||
-|550|BUNDABERG|Australia||
-|551|BURNIE|Australia||
-|552|BUSSELTON|Australia||
-|553|CAIRNS|Australia||
-|554|GAPE CUVIER|Australia||
-|555|CAPE LAMBERT|Australia||
-|556|CARNARVON|Australia||
-|557|CASCADE BAY|Australia||
-|558|COOKTOWN|Australia||
-|559|DAMPIER|Australia||
-|560|DARWIN|Australia||
-|561|DERBY|Australia||
-|562|DEVONPORT|Australia||
-|563|EDEN|Australia||
-|564|EDITHBURGH|Australia||
-|565|ESPERANCE|Australia||
-|566|FREMANTLE|Australia||
-|567|GEELONG|Australia||
-|568|GERALDTON|Australia||
-|569|GLADSTONE|Australia||
-|570|GOVE|Australia||
-|571|GRAFTON|Australia||
-|572|GROOTE EYLANDT|Australia||
-|573|HAY POINT|Australia||
-|574|HOBART|Australia||
-|575|INNISFAIL|Australia||
-|576|KINGSCOTE|Australia||
-|577|KINGSTON,AU|Australia||
-|578|KWINANA|Australia||
-|579|LAUNCESTON|Australia||
-|580|LUCINDA|Australia||
-|581|MACKAY|Australia||
-|582|MACTAN|Australia||
-|583|MARYBOROUGH|Australia||
-|584|MELBOURNE|Australia||
-|585|MOURILYAN|Australia||
-|586|PERTH|Australia||
-|587|PORT ALMA|Australia||
-|588|PORT AUGUSTA|Australia||
-|589|PORT GILES|Australia||
-|590|PORT HEDLAND|Australia||
-|591|PORT HERON|Australia||
-|592|PORT JACKSON|Australia||
-|593|PART KEMBLA|Australia||
-|594|PORT LATTA|Australia||
-|595|PART LINCOLN|Australia||
-|596|PART MACGUARIE|Australia||
-|597|PORT PIRIE|Australia||
-|598|PORT STANVAC|Australia||
-|599|PORT WALCOTT|Australia||
-|600|PORTLAND,AU|Australia||
-|601|RAPID BAY|Australia||
-|602|RISDON|Australia||
-|603|AOCICHAMPTON|Australia||
-|604|STANLEY,AU|Australia||
-|605|STENHOUSE BAY|Australia||
-|606|STRAHAN|Australia||
-|607|SYDNEY|Australia||
-|608|THEVENARD|Australia||
-|609|THURSDAY ISLAND|Australia||
-|610|TOWNSVILLE|Australia||
-|611|URANGAN|Australia||
-|612|USELESS LOOP|Australia||
-|613|WALLAROO|Australia||
-|614|WEIPA|Australia||
-|615|WESTERN PORT|Australia||
-|616|WHYALLA|Australia||
-|617|WYNDHAM|Australia||
-|618|YAMBA|Australia||
-|619|YAMPI SOUND|Australia||
-|620|KINGSTON,NF|Norfolk island||
-|621|ALOFI|niue||
-|622|FUNAFUTI ISALAND|tuvalu||
-|623|LUGANVILLE BAY|vanuatu||
-|624|PORT VILA|vanuatu||
-|625|APIA|Western Samoa||
-|626|HORBART|Australia||
-|627|NEW CASTLE,AU|Australia||
-|628|CHALNA ANCHORAGE|Bangladesh||
-|629|CHITTAGONG|Bangladesh||
-|630|KHULNA|Bangladesh||
-|631|ALLEPPEY|India||
-|632|BEDI|India||
-|633|BELEKERI|India||
-|634|BHAVNAGAR|India||
-|635|BHEEMUNIPATNAM|India||
-|636|BOMBAY|India||
-|637|CALCUTTA|India||
-|638|CALICUT|India||
-|639|CALINGAPATNAM|India||
-|640|CANNANORE|India||
-|641|COCHIN|India||
-|642|COLACHEL|India||
-|643|COONDAPOOR|India||
-|644|CUDDALORE|India||
-|645|DAMAN|India||
-|646|DIU|India||
-|647|DWARKA|India||
-|648|GOPALPUR|India||
-|649|HALDIA|India||
-|650|HONAVAR|India||
-|651|JAFARABAD|India||
-|652|JAKHAU|India||
-|653|KAKINADA|India||
-|654|KANDLA|India||
-|655|KARIKAL|India||
-|656|KARWAR|India||
-|657|MACHILIPATNAM|India||
-|658|MAHE|India||
-|659|MALPE|India||
-|660|MANDAPAM|India||
-|661|MANDVI|India||
-|662|MANGALORE|India||
-|663|MANGROL|India||
-|664|MINICOY ISLAND|India||
-|665|MORMUGAO|India||
-|666|MUNDRA|India||
-|667|NAGAPATTINAM|India||
-|668|NAVLAKHI|India||
-|669|NEW MANGALORE|India||
-|670|NEW TUTICORIN|India||
-|671|PAMBAN|India||
-|672|PANJIM|India||
-|673|PARADIP|India||
-|674|PONDICHERRY|India||
-|675|PORBANDAR|India||
-|676|PORT BALAIR|India||
-|677|PORT OKHA|India||
-|678|PORTO NOVO,IN|India||
-|679|PURI|India||
-|680|QUILON|India||
-|681|RATNAGIRI|India||
-|682|REDI|India||
-|683|SALAYA|India||
-|684|SIKKA|India||
-|685|SURAT|India||
-|686|TELLICHERRY|India||
-|687|TRIVANDRUM|India||
-|688|TUTICORIN|India||
-|689|VENGURLA|India||
-|690|VERAVAL|India||
-|691|VISAKHAPATNAM|India||
-|692|BATTICALOA|Sri Lanka||
-|693|COLOMBO|Sri Lanka||
-|694|GALLE|Sri Lanka||
-|695|JAFFNA|Sri Lanka||
-|696|KALUTARA|Sri Lanka||
-|697|KANKESANTURAI|Sri Lanka||
-|698|KAYTS|Sri Lanka||
-|699|MATARA|Sri Lanka||
-|700|NEGOMBO|Sri Lanka||
-|701|TRINCOMALEE|Sri Lanka||
-|702|ADDU ATOLL|The maldives||
-|703|MALE ISLAND|The maldives||
-|704|GWADAR|Pakistan||
-|705|KARACHI|Pakistan||
-|706|ORMARA|Pakistan||
-|707|PASNI|Pakistan||
-|708|DHAKA|Bangladesh||
-|709|NHAVA SHEVA|India||
-|710|CHENNAI|India||
-|711|ICD HYDERABAD|India||
-|712|LAHORE|Pakistan||
-|713|NEW DELHI|India||
-|714|BANGALORE|India||
-|715|MONGLA|Bangladesh||
-|716|ICD AGRA|India||
-|717|ICD AHMEDABAD|India||
-|718|ICD MULUND|India||
-|719|ICD TUGLAKABAD|India||
-|720|ICD PATPARGANJ|India||
-|721|ICD FARIDABAD|India||
-|722|ICD DADRI|India||
-|723|ICD LUDHIANA|India||
-|724|ICD KANPUR|India||
-|725|ICD MORADABAD|India||
-|726|ICD JAIPUR|India||
-|727|ICD JODHPUR|India||
-|728|ICD NAGPUR|India||
-|729|ICD CHINCHWAD|India||
-|730|ICD DIGHI|India||
-|731|ICD GWALOR|India||
-|732|ICD REWARI|India||
-|733|ICD GHARI HARARU|India||
-|734|ICD SURAJPUR|India||
-|735|ICD KUNDLI|India||
-|736|ICD BARODA|India||
-|737|ICD AURANGABAD|India||
-|738|ICD MALANPUR|India||
-|739|ICD MALIWADA|India||
-|740|ICD MANDIDEEP|India||
-|741|ICD VAPI|India||
-|742|ICD SACHIN|India||
-|743|ICD PUNE PIMPRI|India||
-|744|ICD NASIK|India||
-|745|ICD DHANDRIKALAN|India||
-|746|ICD COIMBATORE|India||
-|747|ICD DASHRATH|India||
-|748|ICD PITHAMPUR|India||
-|749|ICD KANAKPURA|India||
-|750|ICD SABARMATI|India||
-|751|ICD LONI|India||
-|752|PIPAVAV|India||
-|753|ICD GARHI HARSARU|India||
-|754|MADRAS|India||
-|755|QASIM|Pakistan||
-|756|KISH|Iran||
-|757|KABUL|Afghanistan||
-|758|JAWAHARIAL NEHRU|India||
-|759|MARMAGAMO|India||
-|760|ANTWERP|Belgium||
-|761|HAMBURG|Germany||
-|762|FELIXSTOWE|The British||
-|763|SOUTHAMPTON|The British||
-|764|ROTTERDAM|In the Netherlands,||
-|765|LE HAVRE |The French||
-|766|BRUGES|Belgium||
-|767|BRUSSEL|Belgium||
-|768|GHENT|Belgium||
-|769|HEMIKSEM|Belgium||
-|770|LIEGE|Belgium||
-|771|NIEUWPOORT|Belgium||
-|772|OSTEND|Belgium||
-|773|ZEEBRUGGE|Belgium||
-|774|ROSTOCK|Germany||
-|775|STRALSUND|Germany||
-|776|WARNEMUNDE|Germany||
-|777|WISMAR|Germany||
-|778|ALTONA|Germany||
-|779|BONN|Germany||
-|780|BRAKE|Germany||
-|781|BREMEN|Germany||
-|782|BREMERHAVEN|Germany||
-|783|BUNSBUTTEL|Germany||
-|784|BUTZFLETH|Germany||
-|785|COBLENZ|Germany||
-|786|COLOGNE|Germany||
-|787|CUXHAVEN|Germany||
-|788|DUISBURG|Germany||
-|789|DUSSELDORF|Germany||
-|790|ECKERNFORDE|Germany||
-|791|ELSFLETH|Germany||
-|792|EMDEN|Germany||
-|793|FLENSBURG|Germany||
-|794|FRANKFURT|Germany||
-|795|GLUCKSTADT|Germany||
-|796|HEILIGENHAFEN|Germany||
-|797|HOLTENAU|Germany||
-|798|HUSUM|Germany||
-|799|ITZEHOE|Germany||
-|800|KAPPELN|Germany||
-|801|KIEL|Germany||
-|802|KREFELD|Germany||
-|803|LABO|Germany||
-|804|LEER|Germany||
-|805|LUBECK|Germany||
-|806|LUDWIGSHAFEN|Germany||
-|807|MAINZ|Germany||
-|808|MANNHEIM|Germany||
-|809|NEUHAUS|Germany||
-|810|NEUSS|Germany||
-|811|NEUSTADT|Germany||
-|812|NORDENHAM|Germany||
-|813|ORTH|Germany||
-|814|PAPENBURG|Germany||
-|815|RENDSBURG|Germany||
-|816|SCHULAU|Germany||
-|817|SHCWARZENHUTTEN|Germany||
-|818|STADE|Germany||
-|819|STADERSAND|Germany||
-|820|TONNING|Germany||
-|821|TRAVEMUNDE|Germany||
-|822|VEGESACK|Germany||
-|823|WILHELMSBURG|Germany||
-|824|WILHELMSHAVEN|Germany||
-|825|AABENRAA|The Danish||
-|826|AALBORG|The Danish||
-|827|AARHUS|The Danish||
-|828|AEROSKOBING|The Danish||
-|829|ALLINGE|The Danish||
-|830|ASSENS|The Danish||
-|831|BANDHOLM|The Danish||
-|832|BOGENSE|The Danish||
-|833|COPENHAGEN|The Danish||
-|834|EBELTOFT|The Danish||
-|835|ELSINORE|The Danish||
-|836|ESBJERG|The Danish||
-|837|FAABORG|The Danish||
-|838|FAKSE LADEPLADS|The Danish||
-|839|FREDERICIA|The Danish||
-|840|FREDERIKSHAVN|The Danish||
-|841|FREDERIKSSUND|The Danish||
-|842|FREDERIKSVARK|The Danish||
-|843|GRASTEN|The Danish||
-|844|GRENAA|The Danish||
-|845|GULFHAVN|The Danish||
-|846|HADERSLEV|The Danish||
-|847|HADSUND|The Danish||
-|848|HASLE|The Danish||
-|849|HIRTSHALS|The Danish||
-|850|HOBRO|The Danish||
-|851|HOLBAEK|The Danish||
-|852|HORSENS|The Danish||
-|853|KALUNDBORG|The Danish||
-|854|KARREBAEKSMINDE|The Danish||
-|855|KERTEMINDE|The Danish||
-|856|KOGE|The Danish||
-|857|KOLDING|The Danish||
-|858|KORSOR|The Danish||
-|859|KYNDBY|The Danish||
-|860|LEMVIG|The Danish||
-|861|LYNGS ODDDE|The Danish||
-|862|MARIAGER|The Danish||
-|863|MARSTAL|The Danish||
-|864|MASNEDSUND|The Danish||
-|865|MIDDELFART|The Danish||
-|866|NAESTVED|The Danish||
-|867|NAKSKOV|The Danish||
-|868|NEKSO|The Danish||
-|869|NORRESUNDBY|The Danish||
-|870|NYBORG|The Danish||
-|871|NYKOBING(FAL.)|The Danish||
-|872|NYKOBING(MORS)|The Danish||
-|873|NYKOBING(SJA.)|The Danish||
-|874|ODENSE|The Danish||
-|875|OREHOVED|The Danish||
-|876|RANDERS|The Danish||
-|877|RODBYHAVN|The Danish||
-|878|RODVIG|The Danish||
-|879|RONNE|The Danish||
-|880|RUDKOBING|The Danish||
-|881|SAKSKOBING|The Danish||
-|882|SKAELSKOR|The Danish||
-|883|SKAERBAEK|The Danish||
-|884|SKAGEN|The Danish||
-|885|SKIVE|The Danish||
-|886|SONDERBORG|The Danish||
-|887|STEGE|The Danish||
-|888|STRUER|The Danish||
-|889|STUBBEKOBING|The Danish||
-|890|STVANEKE|The Danish||
-|891|SVENDBORG|The Danish||
-|892|TISTED|The Danish||
-|893|TUBORG HAVN|The Danish||
-|894|VEJLE|The Danish||
-|895|VORDINGBORG|The Danish||
-|896|NARVA JOESUU|Estonia||
-|897|PARNU|Estonia||
-|898|TALLINN|Estonia||
-|899|BAROSUND|Finland||
-|900|DEGERBY|Finland||
-|901|HAMINA|Finland||
-|902|HANKO|Finland||
-|903|HELSINKI|Finland||
-|904|INKOO|Finland||
-|905|ISNAS|Finland||
-|906|KASKINEN|Finland||
-|907|KEMI|Finland||
-|908|KOKKOLA|Finland||
-|909|KOTKA|Finland||
-|910|KOVERHAR|Finland||
-|911|KRISTIINA|Finland||
-|912|LAPALUOTO|Finland||
-|913|LOVIISA|Finland||
-|914|MANTYLUOTO|Finland||
-|915|MARIEHAMN|Finland||
-|916|MERIKARVIA|Finland||
-|917|NAANTALI|Finland||
-|918|NYSTAD|Finland||
-|919|OULU|Finland||
-|920|PARGAS|Finland||
-|921|PATENIEMI|Finland||
-|922|PIETARSAARI|Finland||
-|923|PORI|Finland||
-|924|PORKKALA|Finland||
-|925|PORVOO|Finland||
-|926|RAAHE|Finland||
-|927|RAUMA|Finland||
-|928|REPOSAARI|Finland||
-|929|SAIMAA CANAL|Finland||
-|930|SKURU|Finland||
-|931|TAMMISAARI|Finland||
-|932|TOIKIS|Finland||
-|933|TOPPILA|Finland||
-|934|TORNIO|Finland||
-|935|TURKU|Finland||
-|936|UUSIKAUPUNKI|Finland||
-|937|VAASA|Finland||
-|938|VASKILUOTO|Finland||
-|939|VEITSILUOTO|Finland||
-|940|WALKOM|Finland||
-|941|YKSPIHLAJA|Finland||
-|942|KLAKSVIG|The faroe islands||
-|943|THORSHAVN|The faroe islands||
-|944|TRANGISVAAG|The faroe islands||
-|945|TVOROYRI|The faroe islands||
-|946|VAAG|The faroe islands||
-|947|VESTMANHAVN|The faroe islands||
-|948|ABBEVILLE|The French||
-|949|AJACCIO|The French||
-|950|ANTIBES|The French||
-|951|ANTIFER|The French||
-|952|ARCACHON|The French||
-|953|BASSENS|The French||
-|954|BASTIA|The French||
-|955|BAYONNE|The French||
-|956|BLAYE|The French||
-|957|BONIFACIO|The French||
-|958|BORDEAUX|The French||
-|959|BOULOGNE|The French||
-|960|BREST|The French||
-|961|CAEN|The French||
-|962|CALAIS|The French||
-|963|CALVI|The French||
-|964|CAMMARET|The French||
-|965|CANCALE|The French||
-|966|CANNES|The French||
-|967|CARONTE|The French||
-|968|CHERBOURG|The French||
-|969|CONCARNEAU|The French||
-|970|DAHOUET|The French||
-|971|DEAUVILLE|The French||
-|972|DIEPPE|The French||
-|973|DONGES|The French||
-|974|DOUAMENEZ|The French||
-|975|ETAPLES|The French||
-|976|FECAMP|The French||
-|977|GONFREVILLE|The French||
-|978|GRANVILLE|The French||
-|979|GRAVELINES|The French||
-|980|HAVRE|The French||
-|981|HONFLEUR|The French||
-|982|ILE ROUSSE|The French||
-|983|LA CIOTAT|The French||
-|984|LA NOUVELLE|The French||
-|985|LA PALLICE|The French||
-|986|LA ROCHELLE|The French||
-|987|LANDERNEAU|The French||
-|988|LAVERA|The French||
-|989|LE CHATEAU|The French||
-|990|LE GUIDO|The French||
-|991|LIBOURNE|The French||
-|992|LOCTUDY|The French||
-|993|LORIENT|The French||
-|994|MARANS|The French||
-|995|MARSEILLES|The French||
-|996|MARTIGUES|The French||
-|997|MONTOIR|The French||
-|998|MORLAIX|The French||
-|999|NANTES|The French||
-|1000|NICE|The French||
-|1001|OUISTREHAM|The French||
-|1002|PAIMBOEUF|The French||
-|1003|PAIMPOL|The French||
-|1004|PARIS|The French||
-|1005|PAUILLAC|The French||
-|1006|PORT DE BOUC|The French||
-|1007|PORT JEROME|The French||
-|1008|PORT VENDRES|The French||
-|1009|PORTO VECCHIO|The French||
-|1010|PROPRIANO|The French||
-|1011|QUIMPER|The French||
-|1012|ROCHEFORT|The French||
-|1013|ROSCOFF|The French||
-|1014|ROUEN|The French||
-|1015|SETE|The French||
-|1016|ST.BRIEUC|The French||
-|1017|ST.JEAN DE LUZ|The French||
-|1018|ST.LOUIS DU RHONE|The French||
-|1019|ST.MALO|The French||
-|1020|ST.NAZAIRE|The French||
-|1021|ST.SERVAN|The French||
-|1022|ST.VALERY EN CAUX|The French||
-|1023|ST.VALERY SUR SOMME|The French||
-|1024|STRASBOURG|The French||
-|1025|TONNAY CHARENTE|The French||
-|1026|TOULON|The French||
-|1027|TREGUIER|The French||
-|1028|TREPORT|The French||
-|1029|TROUVILLE|The French||
-|1030|VERDON|The French||
-|1031|ABERDEEN|The British||
-|1032|ABERDOUR|The British||
-|1033|ABERDOVERY|The British||
-|1034|ABERYSTWYTH|The British||
-|1035|ALDERNEY|The British||
-|1036|AMLWCH|The British||
-|1037|ANNALONG|The British||
-|1038|ANNAN|The British||
-|1039|ANSTRUTHER|The British||
-|1040|APPLEDORE|The British||
-|1041|ARBROATH|The British||
-|1042|ARDGLASS|The British||
-|1043|ARDRISHAIG|The British||
-|1044|ARDROSSAN|The British||
-|1045|AVONMOUTH|The British||
-|1046|AYR|The British||
-|1047|BANGOR(CAER.)|The British||
-|1048|BANGOR(CO.DOWN)|The British||
-|1049|BARMOUTH|The British||
-|1050|BARNSTAPLE|The British||
-|1051|BARROW|The British||
-|1052|BARRY|The British||
-|1053|BARTON(E.C.)|The British||
-|1054|BARTON(W.C.)|The British||
-|1055|BEAUMARIS|The British||
-|1056|BERWICK|The British||
-|1057|BIDEFORD|The British||
-|1058|BIRKENHEAD|The British||
-|1059|BLYTH|The British||
-|1060|BOSTON|The British||
-|1061|BRIDGWATER|The British||
-|1062|BRIDLINGTON|The British||
-|1063|BRIDPORT|The British||
-|1064|BRIGHTLINGSEA|The British||
-|1065|BRIGHTON|The British||
-|1066|BRISTOL|The British||
-|1067|BRIXHAM|The British||
-|1068|BROMBOROUGH DOCK|The British||
-|1069|BUCKIE|The British||
-|1070|BURGHEAD|The British||
-|1071|BURNTISLAND|The British||
-|1072|CAERNARFON|The British||
-|1073|CAMPBELTOWN|The British||
-|1074|CARDIFF|The British||
-|1075|CARRICKFERGUS|The British||
-|1076|CASTLETOWN|The British||
-|1077|CHARLESTOWN(CORN.)|The British||
-|1078|CHARLESTOWN(FIFE)|The British||
-|1079|COLCHESTER|The British||
-|1080|COLERAINE|The British||
-|1081|CORPACH|The British||
-|1082|COWES|The British||
-|1083|CROMARTY|The British||
-|1084|DARTMOUTH|The British||
-|1085|DINGWALL,GB|The British||
-|1086|DOUGLAS|The British||
-|1087|DOVER|The British||
-|1088|DUMFRIES|The British||
-|1089|DUNBAR|The British||
-|1090|DUNDEE|The British||
-|1091|DUNDRUM|The British||
-|1092|ELLESMERE PORT|The British||
-|1093|EXETER|The British||
-|1094|EXMOUTH|The British||
-|1095|EYEMOUTH|The British||
-|1096|FALMOUTH|The British||
-|1097|FAWLEY|The British||
-|1098|FINNART|The British||
-|1099|FISHGUARD|The British||
-|1100|FLEETWOOD|The British||
-|1101|FOLKESTONE|The British||
-|1102|FOWEY|The British||
-|1103|FRASERBURGH|The British||
-|1104|GAINSHBOROUGH|The British||
-|1105|GARLIESTON|The British||
-|1106|GARSTON|The British||
-|1107|GIRVAN|The British||
-|1108|GLASGOW|The British||
-|1109|GLENARM|The British||
-|1110|GLOUCESTER|The British||
-|1111|GOOLE|The British||
-|1112|GOUROCK|The British||
-|1113|GRANGEMOUTH|The British||
-|1114|GRAVESEND|The British||
-|1115|GREAT YARMOUTH|The British||
-|1116|GREENOCK|The British||
-|1117|GRIMSBY|The British||
-|1118|GUNNESS WHARF|The British||
-|1119|HARTLEPOOL|The British||
-|1120|HARWICH|The British||
-|1121|HAYLE|The British||
-|1122|HEYSHAM|The British||
-|1123|HOLYHEAD|The British||
-|1124|HOUND POINT|The British||
-|1125|HULL|The British||
-|1126|HUNTERSTON|The British||
-|1127|IMMINGHAM|The British||
-|1128|INVERGORDON|The British||
-|1129|INVERNESS|The British||
-|1130|IPSWICH|The British||
-|1131|IRVINE|The British||
-|1132|ISLE OF GRAIN|The British||
-|1133|KILKEEL|The British||
-|1134|KILLINGHOLME|The British||
-|1135|KIRKCALDY|The British||
-|1136|KYLE OF LOCHALSH|The British||
-|1137|LAME|The British||
-|1138|LANCASTER|The British||
-|1139|LARGS|The British||
-|1140|LARNE|The British||
-|1141|LEITH|The British||
-|1142|LERWICK|The British||
-|1143|LITTLEHAMPTON|The British||
-|1144|LIVERPOOL|The British||
-|1145|LLANDDULAS|The British||
-|1146|LLANELLI|The British||
-|1147|LOCH BOISDALE|The British||
-|1148|LOCH MADDY|The British||
-|1149|LOCHALINE PIER|The British||
-|1150|LONDON|The British||
-|1151|LONDONDERRY|The British||
-|1152|LOOE|The British||
-|1153|LOSSIEMOUTH|The British||
-|1154|LOWESTOFT|The British||
-|1155|LYBSTER|The British||
-|1156|LYDNEY|The British||
-|1157|MACDUFF|The British||
-|1158|MALDON|The British||
-|1159|MALLAIG|The British||
-|1160|MANCHESTER|The British||
-|1161|METHIL|The British||
-|1162|MEVAGISSEY|The British||
-|1163|MIDDLESBROUGH|The British||
-|1164|MILLOM|The British||
-|1165|MINEHEAD|The British||
-|1166|MISTLEY|The British||
-|1167|MONTROSE|The British||
-|1168|MOSTYN|The British||
-|1169|NAIRN|The British||
-|1170|NEATH|The British||
-|1171|NEWBURGH|The British||
-|1172|NEWCASTLE(TYNE)|The British||
-|1173|NEWHAVEN|The British||
-|1174|NEWLYN|The British||
-|1175|NEWPORT(I.O.W.)|The British||
-|1176|NEWPORT(MON.)|The British||
-|1177|NEWRY|The British||
-|1178|NORTH SUNDERLAND|The British||
-|1179|NORWICH|The British||
-|1180|OBAN|The British||
-|1181|PDSTOW|The British||
-|1182|PALNACKIE|The British||
-|1183|PAR|The British||
-|1184|PARKESTON QUAY|The British||
-|1185|PARTINGTON|The British||
-|1186|PEEL|The British||
-|1187|PEMBROKE DOCK|The British||
-|1188|PENMAENMAWR|The British||
-|1189|PENRYN|The British||
-|1190|PENZANCE|The British||
-|1191|PERTH,GB|The British||
-|1192|PETERHEAD|The British||
-|1193|PLYMOUTH|The British||
-|1194|POOLE|The British||
-|1195|PORT ASKAIG|The British||
-|1196|PORT ELLEN|The British||
-|1197|PORT ST.MARY|The British||
-|1198|PORT TALBOT|The British||
-|1199|PORT WILLIAM|The British||
-|1200|PORTBURY|The British||
-|1201|PORTHMADOG|The British||
-|1202|PORTISHEAD|The British||
-|1203|PORTLADN BILL|The British||
-|1204|PORTLADN(DOR.)|The British||
-|1205|PORTREE|The British||
-|1206|PORTRUSH|The British||
-|1207|PORTSMOUTH|The British||
-|1208|PRESTON|The British||
-|1209|PWLLHELI|The British||
-|1210|QUEENBOROUGH|The British||
-|1211|QUEENSFERRY|The British||
-|1212|RAINHAM|The British||
-|1213|RAMSEY|The British||
-|1214|RAMSGATE|The British||
-|1215|REDCAR|The British||
-|1216|RHYL|The British||
-|1217|RICHBOROUGH|The British||
-|1218|RIDHAM DOCK|The British||
-|1219|ROCHESTER,GB|The British||
-|1220|ROSYTH|The British||
-|1221|ROTHESAY|The British||
-|1222|RUNCORN|The British||
-|1223|RYE|The British||
-|1224|SANDWICH|The British||
-|1225|SANUDERSFOOT|The British||
-|1226|SCALLOWAY|The British||
-|1227|SCAPA FLOW|The British||
-|1228|SCRABSTER|The British||
-|1229|SEAHAM|The British||
-|1230|SELBY|The British||
-|1231|SHARPNESS|The British||
-|1232|SHELL HAVEN|The British||
-|1233|SHOREHAM|The British||
-|1234|SOUTHEND|The British||
-|1235|ST.HELIER|The British||
-|1236|ST.IVES|The British||
-|1237|ST.PETER PORT|The British||
-|1238|STANLOW|The British||
-|1239|STOCKTON|The British||
-|1240|STONEHAVEN|The British||
-|1241|STORNOWAY|The British||
-|1242|STRANGFORD|The British||
-|1243|STRANRAER|The British||
-|1244|STROMNESS|The British||
-|1245|SULLOM VOE|The British||
-|1246|SUNDERLAND|The British||
-|1247|SUTTON BRIDGE|The British||
-|1248|SWANSEA|The British||
-|1249|TARBERT|The British||
-|1250|TEESPORT|The British||
-|1251|TEIGNMOUTH|The British||
-|1252|TENBY|The British||
-|1253|TETNEY TERMINAL|The British||
-|1254|THURSO|The British||
-|1255|TILBURY|The British||
-|1256|TOBERMORY|The British||
-|1257|TOPSHAM|The British||
-|1258|TORQUAY|The British||
-|1259|TOTNES|The British||
-|1260|TROON|The British||
-|1261|TRURO|The British||
-|1262|TYNE DOCK|The British||
-|1263|ULLAPOOL|The British||
-|1264|WARKWORTH|The British||
-|1265|WARREN POINT|The British||
-|1266|WATCHET|The British||
-|1267|WELLS|The British||
-|1268|WESTRAY|The British||
-|1269|WEYMOUTH|The British||
-|1270|WHITBY|The British||
-|1271|WHITEHAVEN|The British||
-|1272|WHITSTABLE|The British||
-|1273|WICK|The British||
-|1274|WISBECH|The British||
-|1275|WORKINGTON|The British||
-|1276|CHRISTIANSHAAB|Greenland||
-|1277|EGEDESMINDE|Greenland||
-|1278|FAERINGEHAVN|Greenland||
-|1279|FREDERIKSHAAB|Greenland||
-|1280|GODHAVN|Greenland||
-|1281|GODTHAAB|Greenland||
-|1282|HOLSTEINSBORG|Greenland||
-|1283|IVIGHTUT|Greenland||
-|1284|JAKOBSHAVN|Greenland||
-|1285|JULIANEHAAB|Greenland||
-|1286|KANGAMIUT|Greenland||
-|1287|MARMORILIK|Greenland||
-|1288|NARSSARSSUAQ|Greenland||
-|1289|SUKKERTOPPEN|Greenland||
-|1290|UMANAK|Greenland||
-|1291|UPERNIVIK|Greenland||
-|1292|ARKLOW|The Irish||
-|1293|BALBRIGGAN|The Irish||
-|1294|BALLINA|The Irish||
-|1295|BALTIMORE|The Irish||
-|1296|BANTRY|The Irish||
-|1297|BURTON PORT|The Irish||
-|1298|CAHIRCIVEEN|The Irish||
-|1299|CASTLETOWN BERE|The Irish||
-|1300|CLARECASTLE|The Irish||
-|1301|CLONAKILTY|The Irish||
-|1302|COBH|The Irish||
-|1303|CORK|The Irish||
-|1304|DONEGAL|The Irish||
-|1305|DROGHEDA|The Irish||
-|1306|DUBLIN|The Irish||
-|1307|DUN LAOGHAIRE|The Irish||
-|1308|DUNCANNON|The Irish||
-|1309|DUNDALK|The Irish||
-|1310|DUNGARVAN|The Irish||
-|1311|DUNMORE|The Irish||
-|1312|FENIT|The Irish||
-|1313|FOYNES|The Irish||
-|1314|GALWAY|The Irish||
-|1315|GREENORE|The Irish||
-|1316|HOWTH|The Irish||
-|1317|KILLALA|The Irish||
-|1318|KILLYBEGS|The Irish||
-|1319|KILRONAN|The Irish||
-|1320|KILRUSH|The Irish||
-|1321|KINSALE|The Irish||
-|1322|LIMERICK|The Irish||
-|1323|MOVILLE|The Irish||
-|1324|NEW ROSS|The Irish||
-|1325|RATHMULLEN|The Irish||
-|1326|ROSSLARE|The Irish||
-|1327|SCHULL|The Irish||
-|1328|SLIGO|The Irish||
-|1329|TRALEE|The Irish||
-|1330|WATERFORD|The Irish||
-|1331|WEXFORD|The Irish||
-|1332|WICKLOW|The Irish||
-|1333|YOUGHAL|The Irish||
-|1334|AKRANES|Iceland||
-|1335|AKUREYRI|Iceland||
-|1336|HAFNARFJORD|Iceland||
-|1337|HUSAVIK|Iceland||
-|1338|ISAFJORD|Iceland||
-|1339|KEFLAVIK|Iceland||
-|1340|NESKAUPSTADUR|Iceland||
-|1341|PATREKSFJORD|Iceland||
-|1342|REYKJAVIK|Iceland||
-|1343|SEYDISFJORD|Iceland||
-|1344|SIGLUFJORD|Iceland||
-|1345|SKAGASTROND|Iceland||
-|1346|STRAUMSVIK|Iceland||
-|1347|VESTMANN ISLANDS|Iceland||
-|1348|KLAIPEDA|Lithuania||
-|1349|LIEPAJA|Latvia||
-|1350|VENTSPILS|Latvia||
-|1351|AIKMAAR|In the Netherlands,||
-|1352|AMSTERDAM|In the Netherlands,||
-|1353|ARNHEM|In the Netherlands,||
-|1354|BROUWERSHAVEN|In the Netherlands,||
-|1355|BUSSUM|In the Netherlands,||
-|1356|DELFZYL|In the Netherlands,||
-|1357|DORDRECHT|In the Netherlands,||
-|1358|EEMSHAVEN|In the Netherlands,||
-|1359|EUROPOORT|In the Netherlands,||
-|1360|FIUSHING|In the Netherlands,||
-|1361|GRONINGEN|In the Netherlands,||
-|1362|HANSWEERT|In the Netherlands,||
-|1363|HARLINGEN|In the Netherlands,||
-|1364|HELMOND|In the Netherlands,||
-|1365|HOOK OF HOLLAND|In the Netherlands,||
-|1366|KAMPEN|In the Netherlands,||
-|1367|LEEUWARDEN|In the Netherlands,||
-|1368|LEIDEN|In the Netherlands,||
-|1369|MAASSLUIS|In the Netherlands,||
-|1370|MEPPEL|In the Netherlands,||
-|1371|MIDDELBURG|In the Netherlands,||
-|1372|ROZENBURG|In the Netherlands,||
-|1373|SAS VAN GHENT|In the Netherlands,||
-|1374|SCHEVENINGEN|In the Netherlands,||
-|1375|SCHIEDAM|In the Netherlands,||
-|1376|SLUISKIL|In the Netherlands,||
-|1377|TERNEUZEN|In the Netherlands,||
-|1378|TILBURG|In the Netherlands,||
-|1379|VENLO|In the Netherlands,||
-|1380|VLAARDINGEN|In the Netherlands,||
-|1381|YMUIDEN|In the Netherlands,||
-|1382|ZAANDAM|In the Netherlands,||
-|1383|ZIERIKZEE|In the Netherlands,||
-|1384|ZUTPHEN|In the Netherlands,||
-|1385|ZWOLLE|In the Netherlands,||
-|1386|ALESUND|The Norwegian||
-|1387|AARDALSTANGEN|The Norwegian||
-|1388|ARENDAL|The Norwegian||
-|1389|BERGEN|The Norwegian||
-|1390|BODO|The Norwegian||
-|1391|BREVIK|The Norwegian||
-|1392|BRONNOYSUND|The Norwegian||
-|1393|DRAMMEN|The Norwegian||
-|1394|EGERSUND|The Norwegian||
-|1395|EITRHEIM|The Norwegian||
-|1396|FAGERSTRAND|The Norwegian||
-|1397|FARSUND|The Norwegian||
-|1398|FLEKKEFJORD|The Norwegian||
-|1399|FLORO|The Norwegian||
-|1400|FREDRIKSTAD|The Norwegian||
-|1401|GLOMFJORD|The Norwegian||
-|1402|GRIMSTAD|The Norwegian||
-|1403|HALDEN|The Norwegian||
-|1404|HAMMERFEST|The Norwegian||
-|1405|HARSTAD|The Norwegian||
-|1406|HAUGESUND|The Norwegian||
-|1407|HAVIK|The Norwegian||
-|1408|HEROYA|The Norwegian||
-|1409|HOLMESTRAND|The Norwegian||
-|1410|HORTEN|The Norwegian||
-|1411|HOYANGER|The Norwegian||
-|1412|HUSNES|The Norwegian||
-|1413|KIRKENES|The Norwegian||
-|1414|KLEVEN|The Norwegian||
-|1415|KOPERVIK|The Norwegian||
-|1416|KRAGERO|The Norwegian||
-|1417|KRISTIANSAND |The Norwegian||
-|1418|KRISTIANSUND N.|The Norwegian||
-|1419|KVINESDAL|The Norwegian||
-|1420|LANGESUND|The Norwegian||
-|1421|LARVIK|The Norwegian||
-|1422|LILLESAND|The Norwegian||
-|1423|LODINGEN|The Norwegian||
-|1424|LYNGOR|The Norwegian||
-|1425|MAALOY|The Norwegian||
-|1426|MALM|The Norwegian||
-|1427|MANDAL|The Norwegian||
-|1428|MENSTAD|The Norwegian||
-|1429|MO I RANA|The Norwegian||
-|1430|MOLDE|The Norwegian||
-|1431|MONGSTAD|The Norwegian||
-|1432|MOSJOEN|The Norwegian||
-|1433|MOSS|The Norwegian||
-|1434|NAERSNES|The Norwegian||
-|1435|NAMSOS|The Norwegian||
-|1436|NARVIK|The Norwegian||
-|1437|ODDA|The Norwegian||
-|1438|OPLO|The Norwegian||
-|1439|OSLO|The Norwegian||
-|1440|PORSGRUNN|The Norwegian||
-|1441|RISOR|The Norwegian||
-|1442|SANDEFJORD|The Norwegian||
-|1443|SANDNES|The Norwegian||
-|1444|SARPSBORG|The Norwegian||
-|1445|SAUDA|The Norwegian||
-|1446|SKIEN|The Norwegian||
-|1447|SKUDENESHAVN|The Norwegian||
-|1448|SLAGEN|The Norwegian||
-|1449|STAVANGER|The Norwegian||
-|1450|STEINKJER|The Norwegian||
-|1451|SUNNDALSORA|The Norwegian||
-|1452|SVELGEN|The Norwegian||
-|1453|SVELVIK|The Norwegian||
-|1454|SVOLVAER|The Norwegian||
-|1455|THAMSHAMN|The Norwegian||
-|1456|TOFTEN|The Norwegian||
-|1457|TONSBERG|The Norwegian||
-|1458|TOU|The Norwegian||
-|1459|TROMSO|The Norwegian||
-|1460|TRONDHEIM|The Norwegian||
-|1461|TVEDESTRAND|The Norwegian||
-|1462|VADSO|The Norwegian||
-|1463|VAKSDAL|The Norwegian||
-|1464|VARDO|The Norwegian||
-|1465|VOLDA|The Norwegian||
-|1466|DARLOWO|Poland||
-|1467|GDANSK|Poland||
-|1468|GDYNIA|Poland||
-|1469|HEL|Poland||
-|1470|KOLOBRZEG|Poland||
-|1471|SWINOUJSCIE|Poland||
-|1472|SZCZECIN|Poland||
-|1473|USTKA|Poland||
-|1474|WLADYSLAWOWO|Poland||
-|1475|AVEIRO|Portugal||
-|1476|BARREIRO|Portugal||
-|1477|FIGUEIRA|Portugal||
-|1478|LEIXOES|Portugal||
-|1479|LISBON|Portugal||
-|1480|OLHAO|Portugal||
-|1481|POMARAO|Portugal||
-|1482|SETUBAL|Portugal||
-|1483|SINES|Portugal||
-|1484|VIANA DO CASTELO|Portugal||
-|1485|VILA REAL|Portugal||
-|1486|RIGA|Latvia||
-|1487|AHUS|The Swedish||
-|1488|ALA|The Swedish||
-|1489|ARBOGA|The Swedish||
-|1490|BORGHOLM|The Swedish||
-|1491|BROFJORDEN|The Swedish||
-|1492|BUREA|The Swedish||
-|1493|DALARO|The Swedish||
-|1494|DEGERHAMN|The Swedish||
-|1495|DOMSJO|The Swedish||
-|1496|ENKOPING|The Swedish||
-|1497|FALKENBERG|The Swedish||
-|1498|FAROSUND|The Swedish||
-|1499|GEFLE|The Swedish||
-|1500|GOTHENBURG|The Swedish||
-|1501|HALLSTAVIK|The Swedish||
-|1502|HALMSTAD|The Swedish||
-|1503|HAPARANDA|The Swedish||
-|1504|HARAHOLMEN|The Swedish||
-|1505|HARGSHAMN|The Swedish||
-|1506|HELSINGBORG|The Swedish||
-|1507|HERNOSAND|The Swedish||
-|1508|HOGANAS|The Swedish||
-|1509|HOLMSUND|The Swedish||
-|1510|HORNEFORS|The Swedish||
-|1511|HUDIKSVALL|The Swedish||
-|1512|HUSUM,SE|The Swedish||
-|1513|IGGESUND|The Swedish||
-|1514|JONKOPING|The Swedish||
-|1515|KALIX|The Swedish||
-|1516|KALMAR|The Swedish||
-|1517|KARLSBORG|The Swedish||
-|1518|KARLSHAMN|The Swedish||
-|1519|KARLSKRONA|The Swedish||
-|1520|KARLSTAD|The Swedish||
-|1521|KARSKAR|The Swedish||
-|1522|KLAGSHAMN|The Swedish||
-|1523|KLINTEHAMN|The Swedish||
-|1524|KOPING|The Swedish||
-|1525|KRAMFORS|The Swedish||
-|1526|KRISTINEHANM|The Swedish||
-|1527|LANDSKRONA|The Swedish||
-|1528|LIDKOPING|The Swedish||
-|1529|LIMHAMN|The Swedish||
-|1530|LJUSNE|The Swedish||
-|1531|LOMMA|The Swedish||
-|1532|LULEA|The Swedish||
-|1533|LYSEKIL|The Swedish||
-|1534|MALMO|The Swedish||
-|1535|MARSTRAND|The Swedish||
-|1536|MOTALA|The Swedish||
-|1537|NORRKOPING|The Swedish||
-|1538|NORRSUNDET|The Swedish||
-|1539|NYKOPING|The Swedish||
-|1540|NYNKASHAMN|The Swedish||
-|1541|OAXEN|The Swedish||
-|1542|ORNSKOLDSVIK|The Swedish||
-|1543|OSKARSHAMN|The Swedish||
-|1544|OTTERBACKEN|The Swedish||
-|1545|OXELOSUND|The Swedish||
-|1546|PASKALLAVIK|The Swedish||
-|1547|PATAHOLM|The Swedish||
-|1548|PITEA|The Swedish||
-|1549|RONEHAMN|The Swedish||
-|1550|RONNEBYHAMN|The Swedish||
-|1551|SANDARNE|The Swedish||
-|1552|SANDVIKEN|The Swedish||
-|1553|SIKEA|The Swedish||
-|1554|SIMRISHAMN|The Swedish||
-|1555|SKELLEFTEA|The Swedish||
-|1556|SKELLEFTEHAMN|The Swedish||
-|1557|SKOGHALL|The Swedish||
-|1558|SKREDSVIK|The Swedish||
-|1559|SKUTSKAR|The Swedish||
-|1560|SLITE|The Swedish||
-|1561|SODERHAMN|The Swedish||
-|1562|SODERKOPING|The Swedish||
-|1563|SODERTELJE|The Swedish||
-|1564|SOLVESBORG|The Swedish||
-|1565|STENUNGSUND|The Swedish||
-|1566|STOCKHOLM|The Swedish||
-|1567|STORUGNS|The Swedish||
-|1568|STRANGNAS|The Swedish||
-|1569|STROMSTAD|The Swedish||
-|1570|STUGSUND|The Swedish||
-|1571|SUNDSVALL|The Swedish||
-|1572|TORE|The Swedish||
-|1573|TRELLEBORG|The Swedish||
-|1574|TROLLHATTAN|The Swedish||
-|1575|TUNADAL|The Swedish||
-|1576|UDDEVALLA|The Swedish||
-|1577|UMEA|The Swedish||
-|1578|UTANSJO|The Swedish||
-|1579|VALDEMARSVIK|The Swedish||
-|1580|VARBERG|The Swedish||
-|1581|VESTERAS|The Swedish||
-|1582|VIFSTAVARF|The Swedish||
-|1583|VISBY|The Swedish||
-|1584|WAIJA|The Swedish||
-|1585|WALLHAMN|The Swedish||
-|1586|WALLVIK|The Swedish||
-|1587|WESTERVIK|The Swedish||
-|1588|YSTAD|The Swedish||
-|1589|EDINBURGH|The British||
-|1590|BASEL|The Swiss||
-|1591|BELFAST|The British||
-|1592|BERLIN|Germany||
-|1593|BIRMINGHAM|The British||
-|1594|BRATISLAVA|Slovakia||
-|1595|BUCHAREST|Romania||
-|1596|THAMESPORT|The British||
-|1597|BUDAPEST|In Hungary,||
-|1598|GAVLE|The Swedish||
-|1599|GRAZ |Austria||
-|1600|HANNOVER|Germany||
-|1601|LEEDS|The British||
-|1602|LYON|The French||
-|1603|ZAGREB|Croatia||
-|1604|WARSAW|Poland||
-|1605|SALZBURG|Austria||
-|1606|ZURICH|The Swiss||
-|1607|SOFIA |Bulgaria||
-|1608|LUXEMBOURG|Luxembourg||
-|1609|LINZ|Austria||
-|1610|SOUTH SHIELDS |The British||
-|1611|LE VERDON|The French||
-|1612|SALT LAKE CITY,UT|The United States||
-|1613|ROME|Italy||
-|1614|MILAN|Italy||
-|1615|Frederikstad |The Norwegian||
-|1616|ST.CRUZ DE TENERIFE|Spain||
-|1617|FUTUNA |The French||
-|1618|PORTO|Portugal||
-|1619|MUNICH|Germany||
-|1620|PRAGUE|The Czech republic||
-|1621|STUTTGART|Germany||
-|1622|VIENNA|Austria||
-|1623|STOCKPORT|The British||
-|1624|KAUNAS|Lithuania||
-|1625|VILNIUS|Lithuania||
-|1626|DURRES|Albania||
-|1627|BURGOS|Spain||
-|1628|MODENA|Italy||
-|1629|PADOVA|Italy||
-|1630|NORKOEPING|The Swedish||
-|1631|SODERTALJE|The Swedish||
-|1632|VASTERAS|The Swedish||
-|1633|HELSINGOR|The Danish||
-|1634|BOCHUM|Germany||
-|1635|DARMSTADT|Germany||
-|1636|DORTMUND|Germany||
-|1637|DRESDEN|Germany||
-|1638|DUESSELDORF|Germany||
-|1639|ESSEN|Germany||
-|1640|HERBRECHTINGEN|Germany||
-|1641|INGOLSTADT|Germany||
-|1642|KARLSRUHE|Germany||
-|1643|LILLE|The French||
-|1644|NEU-ULM|Germany||
-|1645|NUERNBERG|Germany||
-|1646|LEIPZIG|Germany||
-|1647|OFFENBACH|Germany||
-|1648|REGENSBURG|Germany||
-|1649|REMSCHEID|Germany||
-|1650|SOLINGEN|Germany||
-|1651|SOMMERDA|Germany||
-|1652|WUPPERTAL|Germany||
-|1653|GENEVA|The Swiss||
-|1654|WOERTH|Germany||
-|1655|MILFORD HAVEN|The British||
-|1656|TANANGER|The Norwegian||
-|1657|ROSENHEIM|Germany||
-|1658|FOS SUR MER|The French||
-|1659|SKOPJE|Macedonia||
-|1660|BALCHIK|Bulgaria||
-|1661|BOURGAS|Bulgaria||
-|1662|KAVARNA|Bulgaria||
-|1663|MICHURIN|Bulgaria||
-|1664|NESSEBAR|Bulgaria||
-|1665|AKROTIRI|Cyprus||
-|1666|DIKHELIA|Cyprus||
-|1667|FAMAGUSTA|Cyprus||
-|1668|KARAVOSTASSI|Cyprus||
-|1669|KYRENIA|Cyprus||
-|1670|LARNACA|Cyprus||
-|1671|LATCHI|Cyprus||
-|1672|LIMASSOL|Cyprus||
-|1673|MONI ANCHORAGE|Cyprus||
-|1674|MORPHOU BAY|Cyprus||
-|1675|PAPHOS|Cyprus||
-|1676|VASSILIKO BAY|Cyprus||
-|1677|ADABIYA|Egypt||
-|1678|AIN SUKHNA|Egypt||
-|1679|ALEXANDRIA|Egypt||
-|1680|DAMIETTA|Egypt||
-|1681|KOSSEIR|Egypt||
-|1682|MERSA EL HAMRA|Egypt||
-|1683|MERSA MATRUH|Egypt||
-|1684|PORT IBRAHIM|Egypt||
-|1685|PORT SAID|Egypt||
-|1686|PORT TEWFIK|Egypt||
-|1687|RAS SHUKHEIR|Egypt||
-|1688|SALUM|Egypt||
-|1689|SIDI KERIR|Egypt||
-|1690|WADI FEIRAN|Egypt||
-|1691|AGHIOS LOANNIS|The Greek||
-|1692|AGHIOS NIKOLAOS|The Greek||
-|1693|AGIOI THEODOROI|The Greek||
-|1694|ALEXANDROUPOLIS|The Greek||
-|1695|ARGOSTOLI|The Greek||
-|1696|ASPROPYRGOS|The Greek||
-|1697|ASTAKOS|The Greek||
-|1698|CANEA|The Greek||
-|1699|CHALKIS|The Greek||
-|1700|CHIOS|The Greek||
-|1701|CORFU|The Greek||
-|1702|CORINTH|The Greek||
-|1703|DRAPETZONA|The Greek||
-|1704|ELEUSIS|The Greek||
-|1705|GAVRION|The Greek||
-|1706|GYTHION|The Greek||
-|1707|IGOUMENITSA|The Greek||
-|1708|IRAKLION|The Greek||
-|1709|ISTHMIA|The Greek||
-|1710|ITEA|The Greek||
-|1711|ITHAKA ISLAND|The Greek||
-|1712|KALAMAKI|The Greek||
-|1713|KALAMATA|The Greek||
-|1714|KALILIMENES|The Greek||
-|1715|KALYMNOS ISLAND|The Greek||
-|1716|KAMENAKI|The Greek||
-|1717|KATAKOLO|The Greek||
-|1718|KAVALLA|The Greek||
-|1719|KEA ISLAND|The Greek||
-|1720|KOUTALA|The Greek||
-|1721|LAURIUM|The Greek||
-|1722|LEROS ISLAND|The Greek||
-|1723|LIMIN SIROU|The Greek||
-|1724|LRAKLION|The Greek||
-|1725|MEGARA|The Greek||
-|1726|MESOLONGION|The Greek||
-|1727|METHONI|The Greek||
-|1728|MILOS ISLANDS|The Greek||
-|1729|MITYLENE|The Greek||
-|1730|NAUPLIA|The Greek||
-|1731|NAVPAKTOS|The Greek||
-|1732|NEA KARVALI|The Greek||
-|1733|PATMOS ISLAND|The Greek||
-|1734|PATRAS|The Greek||
-|1735|PIRAEUS|The Greek||
-|1736|PORT LIVADHI|The Greek||
-|1737|PORT VATHY|The Greek||
-|1738|PREVEZA|The Greek||
-|1739|PYLOS|The Greek||
-|1740|RETHIMNON|The Greek||
-|1741|RHODES ISLAND|The Greek||
-|1742|SAMOS|The Greek||
-|1743|SKOPELOS|The Greek||
-|1744|STRATONI|The Greek||
-|1745|SUDA BAY|The Greek||
-|1746|THESSALONIKI|The Greek||
-|1747|VOLOS|The Greek||
-|1748|YALI ISLAND|The Greek||
-|1749|YERAKINI|The Greek||
-|1750|ZANTE|The Greek||
-|1751|BAKAR|Croatia||
-|1752|DUBROVNIK|Croatia||
-|1753|DUGIRAT|Croatia||
-|1754|HVAR|Croatia||
-|1755|KORCULA|Croatia||
-|1756|MASLINICA|Croatia||
-|1757|OMISALJ|Croatia||
-|1758|PULA|Croatia||
-|1759|RASA|Croatia||
-|1760|ROVINJ|Croatia||
-|1761|SENJ|Croatia||
-|1762|SIBENIK|Croatia||
-|1763|SPLIT|Croatia||
-|1764|ZADAR|Croatia||
-|1765|ACRE|Israel||
-|1766|ASHDOD|Israel||
-|1767|ASHKELON|Israel||
-|1768|EILAT|Israel||
-|1769|HADERA|Israel||
-|1770|HAIFA|Israel||
-|1771|JAFFA|Israel||
-|1772|TEL AVIV|Israel||
-|1773|BEIRUT|Lebanon||
-|1774|CHEKKA|Lebanon||
-|1775|JOUNIEH|Lebanon||
-|1776|RAS SELATA|Lebanon||
-|1777|SIDON|Lebanon||
-|1778|SOUR|Lebanon||
-|1779|TRIPOLI|Lebanon||
-|1780|ZAHRANI|Lebanon||
-|1781|AZ ZAWIYAH|Libya||
-|1782|BARDIA|Libya||
-|1783|DERNA|Libya||
-|1784|ES SIDER|Libya||
-|1785|MARSA EL BREGA|Libya||
-|1786|RAS LANUF|Libya||
-|1787|TOBRUK|Libya||
-|1788|ZLEITEN|Libya||
-|1789|ZUARA|Libya||
-|1790|ZUETINA|Libya||
-|1791|VALLETTA|Malta||
-|1792|BRAILA|Romania||
-|1793|GALATZ|Romania||
-|1794|MANGALIA|Romania||
-|1795|SULINA|Romania||
-|1796|TULCEA|Romania||
-|1797|IZOLA|Slovenia||
-|1798|PIRAN|Slovenia||
-|1799|BANIAS|Syria||
-|1800|LATTAKIA|Syria||
-|1801|TARTOUS|Syria||
-|1802|ALANYA|Turkey||
-|1803|ALIAGA|Turkey||
-|1804|AMASRA|Turkey||
-|1805|ANTALYA|Turkey||
-|1806|AYVALIK|Turkey||
-|1807|BANDIRMA|Turkey||
-|1808|CANAKKALE|Turkey||
-|1809|CIDE|Turkey||
-|1810|DERINCE|Turkey||
-|1811|DIKILI|Turkey||
-|1812|DORTYOL|Turkey||
-|1813|EDINCIK|Turkey||
-|1814|EREGLI|Turkey||
-|1815|FATSA|Turkey||
-|1816|FETHIYE|Turkey||
-|1817|FINIKE|Turkey||
-|1818|GELIBOLU|Turkey||
-|1819|GEMLIK|Turkey||
-|1820|GIRESUN|Turkey||
-|1821|GOCEK|Turkey||
-|1822|GOLCUK|Turkey||
-|1823|GORELE|Turkey||
-|1824|GULLUK|Turkey||
-|1825|HAYDARPASA|Turkey||
-|1826|HEREKE|Turkey||
-|1827|HOPA|Turkey||
-|1828|INEBOLU|Turkey||
-|1829|ISKENDERUN|Turkey||
-|1830|ISTANBUL|Turkey||
-|1831|IZMIR|Turkey||
-|1832|IZMIT|Turkey||
-|1833|KUSADASI|Turkey||
-|1834|MARMARIS|Turkey||
-|1835|MERSIN|Turkey||
-|1836|MUDANYA|Turkey||
-|1837|ORDU|Turkey||
-|1838|RIZE|Turkey||
-|1839|SAMSUN|Turkey||
-|1840|SINOP|Turkey||
-|1841|TASUCU|Turkey||
-|1842|TEKIRDAG|Turkey||
-|1843|TIREBOLU|Turkey||
-|1844|TRABZON|Turkey||
-|1845|TUTUNCIFTLIK|Turkey||
-|1846|UNYE|Turkey||
-|1847|USKUDAR|Turkey||
-|1848|YARIMCA|Turkey||
-|1849|ZONGULDAK|Turkey||
-|1850|ZELENIKA|The republic of Serbia and Montenegro||
-|1851|KOTOR|Montenegro||
-|1852|BELGRAD|The republic of Serbia and Montenegro||
-|1853|ALKHOMS |Libya||
-|1854|LJUBLJANA|Slovenia||
-|1855|KUMPORT|Turkey||
-|1856|HADAPASA|Turkey||
-|1857|6TH OF OCTOBER|Egypt||
-|1858|10TH OF RAMADAN CITY|Egypt||
-|1859|MARSAXLOKK|Malta||
-|1860|MALTA|Malta||
-|1861|DEKHILA|Egypt||
-|1862|MARDAS|Turkey||
-|1863|GEBZE|Turkey||
-|1864|AMMOCHOSTUS|Cyprus||
-|1865|MARPORT|Turkey||
-|1866|KAISAREIA|Turkey||
-|1867|PODGORICA|The republic of Serbia and Montenegro||
-|1868|TARTUS |Syria||
-|1869|YEREVAN|Armenia||
-|1870|PLOVDIV|Bulgaria||
-|1871|DAMASCUS|Syria||
-|1872|VARNA|Bulgaria||
-|1873|NOVOROSSIYSK|Russia||
-|1874|YALTA|Ukraine||
-|1875|YUZHNYY|Ukraine||
-|1876|ZHDANOV|Ukraine||
-|1877|BELGOROD-DNESTROVSKIY|Ukraine||
-|1878|BERDIANSK|Ukraine||
-|1879|IZMAIL|Ukraine||
-|1880|KHERSON|Ukraine||
-|1881|KILIYA|Ukraine||
-|1882|NIKOLAYEV|Ukraine||
-|1883|ODESSA|Ukraine||
-|1884|RENI|Ukraine||
-|1885|SEVASTOPOL|Ukraine||
-|1886|SKADOVSK|Ukraine||
-|1887|THEODOSIA|Ukraine||
-|1888|UST-DUNAYSK|Ukraine||
-|1889|CONSTANTZA|Romania||
-|1890|ILLYCHEVSK|Ukraine||
-|1891|POTI|Georgia||
-|1892|BURGAS|Bulgaria||
-|1893|KIEV |Ukraine||
-|1894|BATUMI|Georgia||
-|1895|CHISINAU|moldova||
-|1896|BANDAR SERI BEGAWAN|brunei||
-|1897|KUALA BELAIT|brunei||
-|1898|MUARA HARBOUR|brunei||
-|1899|SERIA|brunei||
-|1900|TANJONG SALIRONG|brunei||
-|1901|AKYAB|myanmar||
-|1902|BASSEIN|myanmar||
-|1903|KYAUKPYU|myanmar||
-|1904|MERGUI|myanmar||
-|1905|MOULMEIN|myanmar||
-|1906|SANDOWAY|myanmar||
-|1907|TAVOY|myanmar||
-|1908|TENASSERIM|myanmar||
-|1909|VICTORIA POINT|myanmar||
-|1910|AGANA|Guam||
-|1911|APRA|Guam||
-|1912|HONG KONG|Hong Kong, China,||
-|1913|AMBON ISLAND|Indonesia||
-|1914|AMPENAN|Indonesia||
-|1915|ARDJUNA TERMINAL|Indonesia||
-|1916|BAGAN SI API API|Indonesia||
-|1917|BALIKPAPAN|Indonesia||
-|1918|BANJARMASIN|Indonesia||
-|1919|BANYUWANGI|Indonesia||
-|1920|BELAWAN|Indonesia||
-|1921|BENGKALIS|Indonesia||
-|1922|BENGKULU|Indonesia||
-|1923|BENOA|Indonesia||
-|1924|BIMA|Indonesia||
-|1925|BITUNG|Indonesia||
-|1926|BLINYU|Indonesia||
-|1927|BULELENG|Indonesia||
-|1928|CIGADING|Indonesia||
-|1929|CILACAP|Indonesia||
-|1930|CINTA TERMINAL|Indonesia||
-|1931|CIREBON|Indonesia||
-|1932|DABO|Indonesia||
-|1933|DONGGALA|Indonesia||
-|1934|DUMAI|Indonesia||
-|1935|FAK FAK|Indonesia||
-|1936|GORONTALO|Indonesia||
-|1937|GRESIK|Indonesia||
-|1938|GUNUNG SITOLI|Indonesia||
-|1939|JAKARTA|Indonesia||
-|1940|JAMBI|Indonesia||
-|1941|JAYAPURA|Indonesia||
-|1942|KALIANGET|Indonesia||
-|1943|KASIM|Indonesia||
-|1944|KENDARI|Indonesia||
-|1945|KETAPANG|Indonesia||
-|1946|KOTA BARU|Indonesia||
-|1947|KRU|Indonesia||
-|1948|KUALA KAPUAS|Indonesia||
-|1949|KUPANG|Indonesia||
-|1950|MACASSAR|Indonesia||
-|1951|MALILI|Indonesia||
-|1952|MAMUJU|Indonesia||
-|1953|MANOKWARI|Indonesia||
-|1954|MEDAN|Indonesia||
-|1955|MENADO|Indonesia||
-|1956|MERAK|Indonesia||
-|1957|MERAUKE|Indonesia||
-|1958|MEULABOH|Indonesia||
-|1959|MUNTOK|Indonesia||
-|1960|PADANG|Indonesia||
-|1961|PAKANBARU|Indonesia||
-|1962|PALEMBANG|Indonesia||
-|1963|PALOPO|Indonesia||
-|1964|PAMANUKAN|Indonesia||
-|1965|PANARUKAN|Indonesia||
-|1966|PANGKAL BALAM|Indonesia||
-|1967|PANGKAL PINANG|Indonesia||
-|1968|PANGKALAN SUSU|Indonesia||
-|1969|PANJANG|Indonesia||
-|1970|PAREPARE|Indonesia||
-|1971|PASARUAN|Indonesia||
-|1972|PEKALONGAN|Indonesia||
-|1973|PEMANGKAT|Indonesia||
-|1974|POMALAA|Indonesia||
-|1975|PONTIANAK|Indonesia||
-|1976|POSO|Indonesia||
-|1977|PROBOLINGGO|Indonesia||
-|1978|PULAU SAMBU|Indonesia||
-|1979|SABANG|Indonesia||
-|1980|SALAWATI|Indonesia||
-|1981|SAMARINDA|Indonesia||
-|1982|SAMBAS|Indonesia||
-|1983|SAMPIT|Indonesia||
-|1984|SANKULIRANG|Indonesia||
-|1985|SANTAN TERMINAL|Indonesia||
-|1986|SEMARANG|Indonesia||
-|1987|SENIPAH TERMINAL|Indonesia||
-|1988|SIBOLGA|Indonesia||
-|1989|SORONG|Indonesia||
-|1990|SUNGEI GERONG|Indonesia||
-|1991|SUNGEI KOLAK|Indonesia||
-|1992|SUNGEI PAKNING|Indonesia||
-|1993|SURABAYA|Indonesia||
-|1994|TANJUNG PANDAN|Indonesia||
-|1995|TANJUNG PNANG|Indonesia||
-|1996|TANJUNG PRIOK|Indonesia||
-|1997|TANJUNG REDEB|Indonesia||
-|1998|TANJUNG SOFA|Indonesia||
-|1999|TANJUNG UBAN|Indonesia||
-|2000|TARAKAN ISLAND|Indonesia||
-|2001|TEGAL|Indonesia||
-|2002|TELUKBETUNG|Indonesia||
-|2003|TEMBILAHAN|Indonesia||
-|2004|TERNATE ISLAND|Indonesia||
-|2005|TOBOALI|Indonesia||
-|2006|TOLI TOLI|Indonesia||
-|2007|TUBAN|Indonesia||
-|2008|KOMPONG SOM|In Cambodia,||
-|2009|PHNOM PENH|In Cambodia,||
-|2010|MACAO|Macau, China,||
-|2011|BAGAN DATOH|Malaysia||
-|2012|BARAM|Malaysia||
-|2013|BATU PAHAT|Malaysia||
-|2014|BINATANG|Malaysia||
-|2015|BINTULU|Malaysia||
-|2016|BUTTERWORTH|Malaysia||
-|2017|DUNGUN|Malaysia||
-|2018|ENDAU|Malaysia||
-|2019|GEORGETOWN,MY|Malaysia||
-|2020|JOHOR|Malaysia||
-|2021|KEMAMAN|Malaysia||
-|2022|KERTEH|Malaysia||
-|2023|KOTA BHARU|Malaysia||
-|2024|KOTA KINABALU|Malaysia||
-|2025|KUALA PAHANG|Malaysia||
-|2026|KUALA ROMPIN|Malaysia||
-|2027|KUALA SELANGOR|Malaysia||
-|2028|KUALA SUAI|Malaysia||
-|2029|KUALA TRENGGANU|Malaysia||
-|2030|KUANTAN|Malaysia||
-|2031|KUCHING|Malaysia||
-|2032|KUDAT|Malaysia||
-|2033|KUNAK|Malaysia||
-|2034|LABUAN|Malaysia||
-|2035|LAHAD DATU|Malaysia||
-|2036|LINGGA|Malaysia||
-|2037|LUMUT|Malaysia||
-|2038|LUNDU|Malaysia||
-|2039|MELAKA|Malaysia||
-|2040|MIRI|Malaysia||
-|2041|NIAH|Malaysia||
-|2042|PASIR GUDANG|Malaysia||
-|2043|PENANG|Malaysia||
-|2044|PORT DICKSON|Malaysia||
-|2045|PORT KELANG(N) |Malaysia||
-|2046|PORT WELD|Malaysia||
-|2047|PRAI|Malaysia||
-|2048|SANDAKAN|Malaysia||
-|2049|SARIKEI|Malaysia||
-|2050|SEJINKAT|Malaysia||
-|2051|SEMPORNA|Malaysia||
-|2052|SIBU|Malaysia||
-|2053|SUNGEI MUAR|Malaysia||
-|2054|TANJONG MANI|Malaysia||
-|2055|TAWAU|Malaysia||
-|2056|TELOK ANSON|Malaysia||
-|2057|TELOK RAMUNIA|Malaysia||
-|2058|TUMPAT|Malaysia||
-|2059|WALLACE BAY|Malaysia||
-|2060|WESTON|Malaysia||
-|2061|ABUYOG|The Philippines||
-|2062|AMUNITAN|The Philippines||
-|2063|ANAKAN|The Philippines||
-|2064|ANTIMONAN|The Philippines||
-|2065|APARRI|The Philippines||
-|2066|BACOLOD|The Philippines||
-|2067|BAIS|The Philippines||
-|2068|BATAAN|The Philippines||
-|2069|BATANGAS|The Philippines||
-|2070|BISLIG|The Philippines||
-|2071|BUGO|The Philippines||
-|2072|BUTUAN|The Philippines||
-|2073|CAGAYAN DE ORO|The Philippines||
-|2074|CALBAYOG|The Philippines||
-|2075|CAPIZ|The Philippines||
-|2076|CAVITE|The Philippines||
-|2077|CEBU|The Philippines||
-|2078|DAVAO|The Philippines||
-|2079|DINAGAT|The Philippines||
-|2080|DINGALAN BAY|The Philippines||
-|2081|DIPOLOG|The Philippines||
-|2082|DUMAGUETE|The Philippines||
-|2083|GENERAL SANTOS|The Philippines||
-|2084|GUIMARAS ISLAND|The Philippines||
-|2085|HINIGARAN|The Philippines||
-|2086|ILIGAN|The Philippines||
-|2087|ILOILO|The Philippines||
-|2088|ISABEL|The Philippines||
-|2089|ISABELA|The Philippines||
-|2090|JOLO|The Philippines||
-|2091|JOSE PANGANIBAN|The Philippines||
-|2092|LA UNION|The Philippines||
-|2093|LAOAG|The Philippines||
-|2094|LEBAK|The Philippines||
-|2095|LEGASPI|The Philippines||
-|2096|LINGAYEN|The Philippines||
-|2097|MANILA|The Philippines||
-|2098|MARIVELES|The Philippines||
-|2099|MASAO|The Philippines||
-|2100|MASBATE|The Philippines||
-|2101|MASINLOK|The Philippines||
-|2102|MATI|The Philippines||
-|2103|MILBUK|The Philippines||
-|2104|NAGA|The Philippines||
-|2105|NASIPIT|The Philippines||
-|2106|NASUGBU|The Philippines||
-|2107|OLONGAPO|The Philippines||
-|2108|ORMOC|The Philippines||
-|2109|PAMPLONA|The Philippines||
-|2110|PARANG|The Philippines||
-|2111|POLLOC|The Philippines||
-|2112|PORO(LUZON)|The Philippines||
-|2113|PORO(PORO I.)|The Philippines||
-|2114|PORT HOLLAND|The Philippines||
-|2115|PORT SANTA MARIA|The Philippines||
-|2116|PUERTO PRINCESA|The Philippines||
-|2117|PULUPANDAN|The Philippines||
-|2118|SAN CARLOS,PH|The Philippines||
-|2119|SAN FERNANDO,PH|The Philippines||
-|2120|SANGI|The Philippines||
-|2121|SANTA CRUZ(LUZON)|The Philippines||
-|2122|SORSOGON|The Philippines||
-|2123|SURIGAO|The Philippines||
-|2124|TABACO|The Philippines||
-|2125|TACLOBAN|The Philippines||
-|2126|TAGBILARAN|The Philippines||
-|2127|TANDOC|The Philippines||
-|2128|VILLANUEVA|The Philippines||
-|2129|ZAMBOANGA|The Philippines||
-|2130|JURONG|Singapore||
-|2131|PULAU BUKOM|Singapore||
-|2132|SEMBAWANG|Singapore||
-|2133|SINGAPORE|Singapore||
-|2134|TANJONG PENJURU|Singapore||
-|2135|BANGKOK|Thailand||
-|2136|KANTANG|Thailand||
-|2137|KO SICHANG|Thailand||
-|2138|NARATHIWAT|Thailand||
-|2139|PAKNAM|Thailand||
-|2140|PATTANI|Thailand||
-|2141|PHUKET|Thailand||
-|2142|SATTAHIP|Thailand||
-|2143|SIRACHA|Thailand||
-|2144|SONGKHLA|Thailand||
-|2145|DILI|East timor||
-|2146|BEN THUI|Vietnam||
-|2147|HAIPHONG|Vietnam||
-|2148|HOCHIMINH|Vietnam||
-|2149|HOHGAY|Vietnam||
-|2150|HUE|Vietnam||
-|2151|KWANG YEN|Vietnam||
-|2152|MY THO|Vietnam||
-|2153|NHA TRANG|Vietnam||
-|2154|PORT CAMPHA|Vietnam||
-|2155|PORT REDON|Vietnam||
-|2156|QUI NHON|Vietnam||
-|2157|VINH|Vietnam||
-|2158|VUNG TAU|Vietnam||
-|2159|HANOI|Vietnam||
-|2160|SIHANOUKVILLE|In Cambodia,||
-|2161|LAEM CHABANG|Thailand||
-|2162|YANGON|myanmar||
-|2163|LAT KRABANG|Thailand||
-|2164|PHUOC LONG|Vietnam||
-|2165|TAN CANG PORT|Vietnam||
-|2166|DANANG|Vietnam||
-|2167|TANJUNG PELEPAS|Malaysia||
-|2168|SUBIC BAY|The Philippines||
-|2169|BATAM|Indonesia||
-|2170|BANDUNG|Indonesia||
-|2171|UJG PANDANG|Indonesia||
-|2172|MYTPP|Malaysia||
-|2173|PALU|Indonesia||
-|2174|KUMAI|Indonesia||
-|2175|BALIPAPAN|Indonesia||
-|2176|MAKASSAR|Indonesia||
-|2177|PEKAN BARU|Indonesia||
-|2178|GUAM|Guam||
-|2179|KLONG TOEY|Thailand||
-|2180|MANILA SOUTH|The Philippines||
-|2181|MANILA NORTH|The Philippines||
-|2182|HOCHIMINH VICT|Vietnam||
-|2183|HOCHIMINH CAT LAI|Vietnam||
-|2184|HOCHIMINH NEW PORT|Vietnam||
-|2185|BANGKOK ECT|Thailand||
-|2186|BANGKOK PAT|Thailand||
-|2187|BANGKOK SCT|Thailand||
-|2188|JAKARTA UTC1|Indonesia||
-|2189|JAKARTA UTC2|Indonesia||
-|2190|JAKARTA UTC3|Indonesia||
-|2191|KUALA LUMPUR|Malaysia||
-|2192|SAIGON|Vietnam||
-|2193|PORT KELANG(W)|Malaysia||
-|2194|AKLAVIK|Canada||
-|2195|AMHERST|Canada||
-|2196|AMHERSTBURG|Canada||
-|2197|ANNAPOLIS|Canada||
-|2198|ARGENTIA|Canada||
-|2199|ARICHAT|Canada||
-|2200|BADDECK|Canada||
-|2201|BAGOTVILLE|Canada||
-|2202|BAIE COMEAU|Canada||
-|2203|BASQUES COVE|Canada||
-|2204|BATHURST|Canada||
-|2205|BAY ROBERTS|Canada||
-|2206|BEAVER HARBOUR|Canada||
-|2207|BELLEDUNE|Canada||
-|2208|BOTWOOD|Canada||
-|2209|BRIDGEWATER|Canada||
-|2210|BROCKVILLE(ONT.)|Canada||
-|2211|BUCTOUCHE|Canada||
-|2212|BURGEO|Canada||
-|2213|BURIN|Canada||
-|2214|CAMPBELLTON|Canada||
-|2215|CANSO HARBOUR|Canada||
-|2216|CARAQUET|Canada||
-|2217|CARLETON|Canada||
-|2218|CHARLOTTETOWN(NF.)|Canada||
-|2219|CHARLOTTETOWN(P.E.I.)|Canada||
-|2220|CHATHAM|Canada||
-|2221|CHEMAINUS|Canada||
-|2222|CHETICAMP|Canada||
-|2223|CHICOUTIMI|Canada||
-|2224|CHURCHILL(MAN.)|Canada||
-|2225|CLARENVILLE|Canada||
-|2226|COBOURG(ONT.)|Canada||
-|2227|COLLINGWOOD|Canada||
-|2228|COME-BY-CHANCE|Canada||
-|2229|CORNER BROOK|Canada||
-|2230|COMOX|Canada||
-|2231|CONTRECOEUR|Canada||
-|2232|CORNWALL(ONT.)|Canada||
-|2233|COUNTRY HARBOUR|Canada||
-|2234|COWICHAN BAY|Canada||
-|2235|CROFTON|Canada||
-|2236|DALHOUSIE|Canada||
-|2237|DIGBY|Canada||
-|2238|DINGWALL|Canada||
-|2239|DOMINO|Canada||
-|2240|ESQUIMALT|Canada||
-|2241|FORESTVILLE|Canada||
-|2242|FROBISHER BAY|Canada||
-|2243|GASPE|Canada||
-|2244|GEORGETOWN,CA|Canada||
-|2245|GODERICH|Canada||
-|2246|GOLD RIVER|Canada||
-|2247|GOOSE BAY|Canada||
-|2248|GRAND BANK|Canada||
-|2249|HALIFAX|Canada||
-|2250|HAMILTON|Canada||
-|2251|HANTSPORT|Canada||
-|2252|HARBOUR GRACE|Canada||
-|2253|HARMAC|Canada||
-|2254|HAVER ST.PIERRE|Canada||
-|2255|HOLYROOD|Canada||
-|2256|IONA|Canada||
-|2257|KINGSTON,CA|Canada||
-|2258|KITIMAT|Canada||
-|2259|LA HAVE|Canada||
-|2260|LEAMINGTON|Canada||
-|2261|LIS COMB|Canada||
-|2262|LITTLE NARROWS|Canada||
-|2263|LIVERPOOL,CA|Canada||
-|2264|LOCKEPORT|Canada||
-|2265|LOMOND|Canada||
-|2266|LOUISBURG|Canada||
-|2267|LUNENBURG|Canada||
-|2268|MATANE|Canada||
-|2269|METEGHAN|Canada||
-|2270|MICHIPICOTEN(ONT.)|Canada||
-|2271|MIDLAND(ONT.)|Canada||
-|2272|MONT LOUIS|Canada||
-|2273|MONTAGUE|Canada||
-|2274|MONTREAL|Canada||
-|2275|NANAIMO|Canada||
-|2276|NANISIVK|Canada||
-|2277|NEW GLASGOW|Canada||
-|2278|NEW RICHMOND|Canada||
-|2279|NEW WESTMINSTER|Canada||
-|2280|NEWCASTLE(N.B.)|Canada||
-|2281|NORTH SYDNEY|Canada||
-|2282|OAKVILLE(ONT.)|Canada||
-|2283|OCEAN FALLS|Canada||
-|2284|OSHAWA(ONT.)|Canada||
-|2285|OWEN SOUND|Canada||
-|2286|PARRSBORO|Canada||
-|2287|PARRY SOUND|Canada||
-|2288|PASPEBIAC|Canada||
-|2289|PICTON,CA|Canada||
-|2290|POINTE NOIRE,CA|Canada||
-|2291|PORT ALBERNI|Canada||
-|2292|PORT ALFRED,CA|Canada||
-|2293|PORT ALICE|Canada||
-|2294|PORT AUX BARQUES|Canada||
-|2295|PORT CARTIER|Canada||
-|2296|PORT COLBORNE(ONT.)|Canada||
-|2297|PORT CREDIT(ONT.)|Canada||
-|2298|PORT DALHOUSIE|Canada||
-|2299|PORT HAWKESBURY|Canada||
-|2300|PORT HOPE SIMPSON|Canada||
-|2301|PORT HOPE(ONT.)|Canada||
-|2302|PORT MEDWAY|Canada||
-|2303|PORT MULGRAVE|Canada||
-|2304|PORT WELLER(ONT.)|Canada||
-|2305|POWELL RIVER|Canada||
-|2306|PRESCOTT|Canada||
-|2307|PRINCE RUPERT|Canada||
-|2308|PUGWASH|Canada||
-|2309|QUEBEC|Canada||
-|2310|RICHIBUCTO|Canada||
-|2311|RIMOUSKI|Canada||
-|2312|RIVIERE DU LOUP|Canada||
-|2313|ROBERTS BANK|Canada||
-|2314|SAINT JOHN|Canada||
-|2315|SARNIA(ONT.)|Canada||
-|2316|SAULT STE.MARIE(MICH.)|Canada||
-|2317|SEVEN ISLANDS|Canada||
-|2318|SHEDIAC|Canada||
-|2319|SHEET HARBOUR|Canada||
-|2320|SHELBURNE(N.S.)|Canada||
-|2321|SHERBROOKE|Canada||
-|2322|SHIP HARBOUR|Canada||
-|2323|SHIPPEGAN|Canada||
-|2324|SOREL|Canada||
-|2325|SOURIS|Canada||
-|2326|SPRINGDALE|Canada||
-|2327|SQUAMISH|Canada||
-|2328|ST.ANDREWS|Canada||
-|2329|ST.CATHERINES|Canada||
-|2330|ST.LAWRENCE(NF.)|Canada||
-|2331|STEPHENVILLE|Canada||
-|2332|STEWART|Canada||
-|2333|SUMMERSIDE|Canada||
-|2334|SYDNEY(CA)|Canada||
-|2335|TADOUSSAC|Canada||
-|2336|THOROLD(ONT.)|Canada||
-|2337|THREE RIVERS|Canada||
-|2338|THUNDER BAY(ONT.)|Canada||
-|2339|TORONTO|Canada||
-|2340|TWILLINGATE|Canada||
-|2341|VALLEYFIELD|Canada||
-|2342|VANCOUVER|Canada||
-|2343|VICTORIA,CA|Canada||
-|2344|WABANA|Canada||
-|2345|WALTON|Canada||
-|2346|WATSON ISLAND|Canada||
-|2347|WELLAND(ONT.)|Canada||
-|2348|WEYMOUTH,CA|Canada||
-|2349|WINDSOR(ONT.)|Canada||
-|2350|WOODFIBRE|Canada||
-|2351|YARMOUTH,CA|Canada||
-|2352|CALGARY|Canada||
-|2353|EDMONTON|Canada||
-|2354|WINNIPEG|Canada||
-|2355|SASKATOON|Canada||
-|2356|REGINA|Canada||
-|2357|ANCUD|Chile||
-|2358|ANTOFAGASTA|Chile||
-|2359|ARICA|Chile||
-|2360|CABO NEGRO|Chile||
-|2361|CALDERA|Chile||
-|2362|CALDERILLA|Chile||
-|2363|CALETA CLARENCIA|Chile||
-|2364|CALETA PATILLOS|Chile||
-|2365|CASTRO|Chile||
-|2366|CHACABUCO|Chile||
-|2367|CHANARAL|Chile||
-|2368|COQUIMBO|Chile||
-|2369|CORONEL|Chile||
-|2370|CRUZ GRANDE|Chile||
-|2371|EASTER ISLAND|Chile||
-|2372|GREGORIO|Chile||
-|2373|GUAYACAN|Chile||
-|2374|HUASCO|Chile||
-|2375|IQUIQUE|Chile||
-|2376|LA SERENA|Chile||
-|2377|LIRQUEN|Chile||
-|2378|LOTA|Chile||
-|2379|MEIJILONES|Chile||
-|2380|PENCO|Chile||
-|2381|PUERTO BORIES|Chile||
-|2382|PUERTO MONTT|Chile||
-|2383|PUERTO NATALES|Chile||
-|2384|PUERTO QUELLON|Chile||
-|2385|PUERTO QUEMCHI|Chile||
-|2386|PUNTA ARENAS|Chile||
-|2387|QUINTERO|Chile||
-|2388|SAN ANTONIO|Chile||
-|2389|SAN VICENTE|Chile||
-|2390|TALCAHUANO|Chile||
-|2391|TALTAL|Chile||
-|2392|TOCOPILLA|Chile||
-|2393|TOME|Chile||
-|2394|VALDIVIA|Chile||
-|2395|VAL PARAISO|Chile||
-|2396|BARRANQUILLA|Colombia||
-|2397|BUENAVENTURA|Colombia||
-|2398|CARTAGENA,CO|Colombia||
-|2399|COVENAS|Colombia||
-|2400|POZOS COLORADOS|Colombia||
-|2401|PUERTO COLOMBIA|Colombia||
-|2402|RIO HACHA|Colombia||
-|2403|SANTA MARTA|Colombia||
-|2404|TUMACO|Colombia||
-|2405|BAHIA DE CARAGUEZ|Ecuador||
-|2406|BALAO TERMINAL|Ecuador||
-|2407|ESMERALDAS|Ecuador||
-|2408|GUAYAQUIL|Ecuador||
-|2409|LA LIBERTAD,EC|Ecuador||
-|2410|MANTA|Ecuador||
-|2411|PUERTO BOLIVAR|Ecuador||
-|2412|SALINAS|Ecuador||
-|2413|LA PAZ|Bolivia||
-|2414|ANCON|Peru||
-|2415|ATICO|Peru||
-|2416|CABO BLANCO|Peru||
-|2417|CALLAO|Peru||
-|2418|CERRO AZUL|Peru||
-|2419|CHANCAY|Peru||
-|2420|CHICAMA|Peru||
-|2421|CHIMBOTE|Peru||
-|2422|COISCO|Peru||
-|2423|CONCHAN BEACH|Peru||
-|2424|ETEN|Peru||
-|2425|GENERAL SAN MARTIN|Peru||
-|2426|HUACHO|Peru||
-|2427|HUARMEY|Peru||
-|2428|ILO|Peru||
-|2429|IQUITOS|Peru||
-|2430|LA PAMPILLA|Peru||
-|2431|LOBITOS|Peru||
-|2432|LOBOS DE TIERRA|Peru||
-|2433|LOMAS|Peru||
-|2434|MATARANI|Peru||
-|2435|MOLLENDO|Peru||
-|2436|PACASMAGYO|Peru||
-|2437|PAITA|Peru||
-|2438|PARAMONGA|Peru||
-|2439|PIMENTEL|Peru||
-|2440|PISAGUA|Peru||
-|2441|PISCO|Peru||
-|2442|PUERTO BAYOVAR|Peru||
-|2443|SALAVERRY|Peru||
-|2444|SAN NICOLAS,PE|Peru||
-|2445|SUPE|Peru||
-|2446|TALARA|Peru||
-|2447|TAMBO DE MORA|Peru||
-|2448|BOGOTA|Colombia||
-|2449|LIMA|Peru||
-|2450|QUITO|Ecuador||
-|2451|SANTA CRUZ|Bolivia||
-|2452|SANTIAGO,CL|Chile||
-|2453|MEJILLONES|Chile||
-|2454|AOJIANG|China||
-|2455|BAOSHANMATOU|China||
-|2456|BASUO|China||
-|2457|BEIHAI|China||
-|2458|BEIJIN|China||
-|2459|BEILUNGANG|China||
-|2460|BOHE|China||
-|2461|CHENJIAGANG|China||
-|2462|CHENSHANMATOU|China||
-|2463|DALIAN|China||
-|2464|DALIANXINGANG|China||
-|2465|DANDONG|China||
-|2466|DAQINGHE|China||
-|2467|DIAOKOUZHEN|China||
-|2468|DINGHAI|China||
-|2469|DONGSHAN|China||
-|2470|FANGCHENG|China||
-|2471|FUZHOU|China||
-|2472|GUANGZHOU|China||
-|2473|HAIAN|China||
-|2474|HAIKOU|China||
-|2475|HAIMEN|China||
-|2476|HUANGDAO|China||
-|2477|GUANGZHOU,HUANGPU|China||
-|2478|JINZHOU|China||
-|2479|JIUZHOU|China||
-|2480|LANSHAN|China||
-|2481|LIANYUNGANG|China||
-|2482|LONGKOU|China||
-|2483|LUHUASHAN|China||
-|2484|LUOJING|China||
-|2485|LUSHUN|China||
-|2486|NANBAO|China||
-|2487|NANMENGANG|China||
-|2488|NINGBO|China||
-|2489|PANSHI|China||
-|2490|PENGHU|China||
-|2491|PENGLAI|China||
-|2492|PINGTAN|China||
-|2493|PUTUO|China||
-|2494|QINGDAO|China||
-|2495|QINGLAN|China||
-|2496|QINHUANGDAO|China||
-|2497|QUANZHOU|China||
-|2498|RUIAN|China||
-|2499|RUSHANKOU|China||
-|2500|SAIQI|China||
-|2501|SANDU|China||
-|2502|SANYA|China||
-|2503|SHANGHAI|China||
-|2504|SHANHAIGUNA|China||
-|2505|SHANTOU|China||
-|2506|SHANWEI|China||
-|2507|SHENZHEN,SHEKOU|China||
-|2508|SHENGSI|China||
-|2509|SHENJIANMEN|China||
-|2510|SHEYANG|China||
-|2511|SHIDAO|China||
-|2512|SHIJIUGANG|China||
-|2513|SHIPU|China||
-|2514|SHUIDONG|China||
-|2515|TANGGU|China||
-|2516|TIANJIN|China||
-|2517|TIANJINXINGANG|China||
-|2518|WANGTAN|China||
-|2519|WEIHAI|China||
-|2520|WENZHOU|China||
-|2521|XIAMEN|China||
-|2522|XIUYUGANG|China||
-|2523|YANGPUGANG|China||
-|2524|YANTAI|China||
-|2525|YANWEIGANG|China||
-|2526|YINGKOU|China||
-|2527|YINGKOUXINGANG|China||
-|2528|ZHANGGANG|China||
-|2529|ZHANGJIABU|China||
-|2530|ZHANGWAN|China||
-|2531|ZHANJIANG|China||
-|2532|ZHAPU|China||
-|2533|ZHENHAI|China||
-|2534|ZHONGSHAN|China||
-|2535|ZHUANGHE|China||
-|2536|SHENZHEN|China||
-|2537|SHENZHEN,YANTIAN|China||
-|2538|SHUNDE|China||
-|2539|FOSHAN|China||
-|2540|JIANGMEN|China||
-|2541|WUHU|China||
-|2542|MAANSHAN|China||
-|2543|ANQING|China||
-|2544|TONGLING|China||
-|2545|NANJING|China||
-|2546|CHANGZHOU|China||
-|2547|JIANGYIN|China||
-|2548|ZHENJIANG|China||
-|2549|YANGZHOU|China||
-|2550|TAIZHOU,CN|China||
-|2551|ZHANGJIAGANG|China||
-|2552|CHANGSHU|China||
-|2553|NANTONG|China||
-|2554|WUXI|China||
-|2555|CHONGQING|China||
-|2556|HEFEI|China||
-|2557|CHANGSHA|China||
-|2558|JIUJIANG|China||
-|2559|WUHAN|China||
-|2560|NANCHANG|China||
-|2561|ZHUHAI|China||
-|2562|TAICANG|China||
-|2563|ZHANGZHOU|China||
-|2564|JINGTANG|China||
-|2565|LAIZHOU|China||
-|2566|LANSHAN|China||
-|2567|LONGYAN|China||
-|2568|SHENZHEN,MAGANG|China||
-|2569|QINZHOU|China||
-|2570|RIZHAO|China||
-|2571|TAIZHOU|China||
-|2572|ZHOUSHAN|China||
-|2573|SHENZHEN,DACHANWAN|China||
-|2574|HUMEN|China||
-|2575|GUANGZHOU,NANSHA|China||
-|2576|ANCHING|China||
-|2577|KAOHSIUNG|Taiwan, China||
-|2578|HUALIAN|Taiwan, China||
-|2579|KEELUNG|Taiwan, China||
-|2580|SUAO|Taiwan, China||
-|2581|TAICHUNG|Taiwan, China||
-|2582|TAOYUAN|Taiwan, China||
-|2583|TAIPEI|Taiwan, China||
-|2584|DJIBOUTI|djibouti||
-|2585|ASSAB|Ethiopia||
-|2586|LAMU|Kenya||
-|2587|MALINDI|Kenya||
-|2588|MOMBASA|Kenya||
-|2589|VANGA|Kenya||
-|2590|DZAOUDZI|The comoros||
-|2591|FOMBONI|The comoros||
-|2592|MORONI|The comoros||
-|2593|MUTSAMUDU|The comoros||
-|2594|ANALALAVA|Madagascar||
-|2595|ANTALAHA|Madagascar||
-|2596|ANTSIRANANA|Madagascar||
-|2597|FARAFANGANA|Madagascar||
-|2598|FORT DAUPHIN|Madagascar||
-|2599|MAHAJUNGA|Madagascar||
-|2600|MANAKARA|Madagascar||
-|2601|MANANJARY|Madagascar||
-|2602|MAROANTSETRA|Madagascar||
-|2603|MOROMBE|Madagascar||
-|2604|MORONDAVA|Madagascar||
-|2605|NOSY BE|Madagascar||
-|2606|SAMBAVA|Madagascar||
-|2607|TOAMASINA|Madagascar||
-|2608|TOLAGNARO|Madagascar||
-|2609|TOLEARY|Madagascar||
-|2610|ANTONIO ENES|mozambique||
-|2611|CHINDE|mozambique||
-|2612|IBO|mozambique||
-|2613|INHAMBANE|mozambique||
-|2614|MOCIMBOA|mozambique||
-|2615|MOMA|mozambique||
-|2616|MOZAMBIQUE|mozambique||
-|2617|NACALA|mozambique||
-|2618|PEMBA|mozambique||
-|2619|QUELIMANE|mozambique||
-|2620|VICTORIA,SC|The seychelles||
-|2621|ALULA|somalia||
-|2622|BERBERA|somalia||
-|2623|BOSASO|somalia||
-|2624|BRAVA|somalia||
-|2625|DANTE|somalia||
-|2626|KISMAYU|somalia||
-|2627|MERCA|somalia||
-|2628|MUQDISHO|somalia||
-|2629|OBBIA|somalia||
-|2630|KILWA KIVINJE|In Tanzania,||
-|2631|KILWA MASOKO|In Tanzania,||
-|2632|LINDI|In Tanzania,||
-|2633|MIKINDANI|In Tanzania,||
-|2634|MTWARA|In Tanzania,||
-|2635|PANGANI|In Tanzania,||
-|2636|PEMBA ISLAND|In Tanzania,||
-|2637|TANGA|In Tanzania,||
-|2638|ZANZIBAR|In Tanzania,||
-|2639|DAR ES SALAAM|In Tanzania,||
-|2640|PORT LOUIS|Mauritius||
-|2641|ONNE|Nigeria||
-|2642|TAMATAVE|Madagascar||
-|2643|DIEGO SUAREZ|Madagascar||
-|2644|LUSAKA|In Zambia,||
-|2645|LONGONI|mayotte||
-|2646|NAIROBI|Kenya||
-|2647|KIGALI|Rwanda||
-|2648|BUJUMBURA|Burundi||
-|2649|NDOLA|In Zambia,||
-|2650|KITWE|In Zambia,||
-|2651|LILONGWE|Malawi||
-|2652|REUNION|Reunion (French)||
-|2653|KAMPALA|Uganda,||
-|2654|BLANTYRE|Malawi||
-|2655|SAN PEDRO,MZ|mozambique||
-|2656|VOHEMAR|Madagascar||
-|2657|EHOALA|Madagascar||
-|2658|POINTE DES GALETS|Reunion (French)||
-|2659|JINJA|Uganda,||
-|2660|GAYA|Niger||
-|2661|NIAMGY|Niger||
-|2662|DOSSO|Niger||
-|2663|PARAKOU|benin||
-|2664|OUAGADOUGOU|Burkina faso||
-|2665|BOBO DIOULASSO|Burkina faso||
-|2666|KOUDOUGOU|Burkina faso||
-|2667|KAYES|Mali||
-|2668|LE PORT|Reunion (French)||
-|2669|MAHAJANGA|Madagascar||
-|2670|ANNABA|Algeria||
-|2671|ARZIW|Algeria||
-|2672|BEJAIA|Algeria||
-|2673|BENISAF|Algeria||
-|2674|CHERCHELL|Algeria||
-|2675|COLLO|Algeria||
-|2676|DELLYS|Algeria||
-|2677|EL DJAZAIR|Algeria||
-|2678|GHAZAWET|Algeria||
-|2679|JIJEL|Algeria||
-|2680|MESTGHANEM|Algeria||
-|2681|SKIKDA|Algeria||
-|2682|TENES|Algeria||
-|2683|WAHRAN|Algeria||
-|2684|BENGHAZI|Libya||
-|2685|MISURATA|Libya||
-|2686|TRIPOLI,LY|Libya||
-|2687|AGADIR|Morocco||
-|2688|CASABLANCA|Morocco||
-|2689|EL JADIDA|Morocco||
-|2690|ESSAOUIRA|Morocco||
-|2691|JORF LASFAR|Morocco||
-|2692|KENITRA|Morocco||
-|2693|LARACHE|Morocco||
-|2694|MOHAMMEDIA|Morocco||
-|2695|NADOR|Morocco||
-|2696|RABAT|Morocco||
-|2697|SAFI|Morocco||
-|2698|TANGIER|Morocco||
-|2699|TARFAYA|Morocco||
-|2700|MELILLA|melilla||
-|2701|TUNIS|Tunisia||
-|2702|CAIRO|Egypt||
-|2703|ALGIERS|Algeria||
-|2704|ORAN|Algeria||
-|2705|KHOMS|Libya||
-|2706|RADES|Tunisia||
-|2707|PORT TANGIER MEDITERRANEE|Morocco||
-|2708|ABU ZENIMA|Egypt||
-|2709|RAS GHARIB|Egypt||
-|2710|SAFAGA|Egypt||
-|2711|SUEZ|Egypt||
-|2712|MASSAWA|eritrea||
-|2713|AQABA |Jordan||
-|2714|GIZAN|Saudi Arabia||
-|2715|JEDDAH|Saudi Arabia||
-|2716|YENBO|Saudi Arabia||
-|2717|PORT SUDAN|Sudan||
-|2718|SUAKIN|Sudan||
-|2719|ADEN|yemen||
-|2720|MUKALLA|yemen||
-|2721|SOCOTRA ISLAND|yemen||
-|2722|HODEIDAH|yemen||
-|2723|MOKHA|yemen||
-|2724|RAS AL KATHEEB|yemen||
-|2725|SALEEF|yemen||
-|2726|SOKHNA|Egypt||
-|2727|SOSDI|Egypt||
-|2728|RIJEKA|Croatia||
-|2729|ANCONA|Italy||
-|2730|PALERMO|Italy||
-|2731|TRIESTE|Italy||
-|2732|VENICE|Italy||
-|2733|KOPER|Slovenia||
-|2734|BAR|Montenegro||
-|2735|PLOCE|Croatia||
-|2736|ABASHIRI|Japan||
-|2737|ABOSHI|Japan||
-|2738|AINOURA|Japan||
-|2739|AIOI|Japan||
-|2740|AKITA|Japan||
-|2741|AKO WAN|Japan||
-|2742|AMAGASAKI|Japan||
-|2743|ANAN|Japan||
-|2744|AOMORI|Japan||
-|2745|ATSUMI|Japan||
-|2746|BEPPU|Japan||
-|2747|CHIBA|Japan||
-|2748|CHITA|Japan||
-|2749|ENA|Japan||
-|2750|ETAJIMA|Japan||
-|2751|FUKUOKA|Japan||
-|2752|FUKUYAMA|Japan||
-|2753|FUNABASHI|Japan||
-|2754|FUNAKAWA|Japan||
-|2755|FUSHIKI TOYAMASHINKO |Japan||
-|2756|GAMAGORI|Japan||
-|2757|HACHINOHE|Japan||
-|2758|HAGI|Japan||
-|2759|HAKATA|Japan||
-|2760|HAKODATE|Japan||
-|2761|HAMADA|Japan||
-|2762|HAMAMATSU|Japan||
-|2763|HANDA|Japan||
-|2764|HANNAN|Japan||
-|2765|HIAGARI|Japan||
-|2766|HIBIKINADA|Japan||
-|2767|HIKARI|Japan||
-|2768|HIMEJI|Japan||
-|2769|HIRAO|Japan||
-|2770|HIROHATA|Japan||
-|2771|HIROSHIMA|Japan||
-|2772|HISANOHAMA|Japan||
-|2773|HITACHI|Japan||
-|2774|HOSOSHIMA|Japan||
-|2775|IHO|Japan||
-|2776|IMABARI|Japan||
-|2777|IMARI|Japan||
-|2778|INNOSHIMA|Japan||
-|2779|IRAKO|Japan||
-|2780|ISHIGAKI|Japan||
-|2781|ISHINOMAKI|Japan||
-|2782|ITOZAKI|Japan||
-|2783|IWAKUNI|Japan||
-|2784|IYO MISHIMA|Japan||
-|2785|IZUHARA|Japan||
-|2786|IZUMISANO|Japan||
-|2787|KAGOSHIMA|Japan||
-|2788|KAINAN|Japan||
-|2789|KAKOGAWA|Japan||
-|2790|KAMAISHI|Japan||
-|2791|KANAZAWA|Japan||
-|2792|KANDA|Japan||
-|2793|KANMON|Japan||
-|2794|KANOKAWA|Japan||
-|2795|KARATSU|Japan||
-|2796|KASAOKA|Japan||
-|2797|KASHIMA|Japan||
-|2798|KAWANOE|Japan||
-|2799|KAWASAKI|Japan||
-|2800|KIIRE|Japan||
-|2801|KIKUMA|Japan||
-|2802|KIN WAN|Japan||
-|2803|KINUURA|Japan||
-|2804|KISARAZU|Japan||
-|2805|KITAKYUSHU|Japan||
-|2806|KOCHI|Japan||
-|2807|KOKURA|Japan||
-|2808|KOMATSUSHIMA|Japan||
-|2809|KONOSHIMA|Japan||
-|2810|KUDAMATSU|Japan||
-|2811|KURE|Japan||
-|2812|KUROSAKI|Japan||
-|2813|KUSHIRO|Japan||
-|2814|MAIZURU|Japan||
-|2815|MAKIYAMA|Japan||
-|2816|MARUGAME|Japan||
-|2817|MATEGATA|Japan||
-|2818|MATSUNAGA|Japan||
-|2819|MATSUYAMA|Japan||
-|2820|MATUZAKA|Japan||
-|2821|MEGA|Japan||
-|2822|MIHARA|Japan||
-|2823|MIIKE|Japan||
-|2824|MIKAWA|Japan||
-|2825|MINAMATA|Japan||
-|2826|MISIMA|Japan||
-|2827|MISUMI|Japan||
-|2828|MITSUKOSHIMA|Japan||
-|2829|MIYAKO|Japan||
-|2830|MIYAZZAKI|Japan||
-|2831|MIYAZU|Japan||
-|2832|MIZUSHIMA|Japan||
-|2833|MONBETSU|Japan||
-|2834|MUKAISHIMA|Japan||
-|2835|MURORAN|Japan||
-|2836|MUTSURE|Japan||
-|2837|NAGASAKI|Japan||
-|2838|NAGAURA|Japan||
-|2839|NAHA|Japan||
-|2840|NAKAGUSUKU|Japan||
-|2841|NANAO|Japan||
-|2842|NAOETSU|Japan||
-|2843|NAOSHIMA ISLAND|Japan||
-|2844|NEGISHI|Japan||
-|2845|NEMURO|Japan||
-|2846|NIIGATA HIGASHI|Japan||
-|2847|NIIHAMA|Japan||
-|2848|NISHINOMIYA|Japan||
-|2849|NOSHIRO|Japan||
-|2850|OFUNATO|Japan||
-|2851|OGISHIMA|Japan||
-|2852|OITA|Japan||
-|2853|OKAYAMA|Japan||
-|2854|OMAEZAKI|Japan||
-|2855|OMINATO|Japan||
-|2856|OMISHIMA|Japan||
-|2857|ONAHAMA|Japan||
-|2858|ONOMICHI|Japan||
-|2859|OTARU|Japan||
-|2860|OWASE|Japan||
-|2861|RUMOI|Japan||
-|2862|SAGANOSEKI|Japan||
-|2863|SAIKI|Japan||
-|2864|SAKAIDE|Japan||
-|2865|SAKAIMINATO|Japan||
-|2866|SAKAISENBOKU|Japan||
-|2867|SAKATA|Japan||
-|2868|SAKITO|Japan||
-|2869|SASEBO|Japan||
-|2870|SENDAI|Japan||
-|2871|SHIBAURA|Japan||
-|2872|SHIKAMA|Japan||
-|2873|SHIMIZU|Japan||
-|2874|SHIMODA|Japan||
-|2875|SHIMONOSEKI|Japan||
-|2876|SHIMOTSU|Japan||
-|2877|SHINSAKI|Japan||
-|2878|SHIOGAMA|Japan||
-|2879|SINMINATO|Japan||
-|2880|SUZAKI|Japan||
-|2881|TACHIBANA|Japan||
-|2882|TADOTU|Japan||
-|2883|TAGONOURA|Japan||
-|2884|TAKAMATSU|Japan||
-|2885|TAKUMA|Japan||
-|2886|TAMA SIMA|Japan||
-|2887|TAMANO|Japan||
-|2888|TANABE|Japan||
-|2889|TATEYAMA|Japan||
-|2890|TANIYAMA|Japan||
-|2891|TOBATA|Japan||
-|2892|TOKACHI|Japan||
-|2893|TOKUYAMA|Japan||
-|2894|TOMAKOMAI|Japan||
-|2895|TONDA|Japan||
-|2896|TOTTORI|Japan||
-|2897|TOYAMA|Japan||
-|2898|TOYAMA SINKO|Japan||
-|2899|TOYOHASHI|Japan||
-|2900|TSU|Japan||
-|2901|TSUIYAMA|Japan||
-|2902|TSUKUMI|Japan||
-|2903|TSURUGA|Japan||
-|2904|TSURUMI|Japan||
-|2905|TSURUSAKI|Japan||
-|2906|UBE|Japan||
-|2907|UCHIURA|Japan||
-|2908|UNO|Japan||
-|2909|WAKAMATSU|Japan||
-|2910|WAKAYAMA|Japan||
-|2911|WAKKANAI|Japan||
-|2912|YATSUSHIRO|Japan||
-|2913|YAWATA|Japan||
-|2914|YAWATAHAMA|Japan||
-|2915|YOKKAICHI|Japan||
-|2916|YOKOSUKA|Japan||
-|2917|YORISHIMA|Japan||
-|2918|YOTUKURA|Japan||
-|2919|YURA|Japan||
-|2920|NIGATA|Japan||
-|2921|SHIBUSHI|Japan||
-|2922|SENBOKU|Japan||
-|2923|TOKUSHIMA|Japan||
-|2924|KUMAMOTO|Japan||
-|2925|ABURATSU|Japan||
-|2926|HITACHINAKA|Japan||
-|2927|SHINKO|Japan||
-|2928|KOBE|Japan||
-|2929|MOJI|Japan||
-|2930|OSAKA|Japan||
-|2931|OKINAWA|Japan||
-|2932|NAGOYA|Japan||
-|2933|TOKYO|Japan||
-|2934|YOKOHAMA|Japan||
-|2935|CHINNAMPO|North Korea||
-|2936|CHUNGJIN|North Korea||
-|2937|HAEJU|North Korea||
-|2938|HUNGNAM|North Korea||
-|2939|RAJIN|North Korea||
-|2940|SONGRIM|North Korea||
-|2941|WONSAN|North Korea||
-|2942|BUSAN|South Korea||
-|2943|CHANGHANG|South Korea||
-|2944|CHEJU|South Korea||
-|2945|CHINHAE|South Korea||
-|2946|DAEPORI|South Korea||
-|2947|INCHON|South Korea||
-|2948|KUNSAN|South Korea||
-|2949|MASAN|South Korea||
-|2950|MOKPO|South Korea||
-|2951|MUKHO|South Korea||
-|2952|POHANG|South Korea||
-|2953|SAMCHOK|South Korea||
-|2954|ULSAN|South Korea||
-|2955|YOSU|South Korea||
-|2956|SEOUL|South Korea||
-|2957|KWANGYANG|South Korea||
-|2958|PYEONGTAEK |South Korea||
-|2959|ACAPULCO|Mexico||
-|2960|ALVARADO|Mexico||
-|2961|CAMPECHE|Mexico||
-|2962|CAYOS ARCAS TERMINAL|Mexico||
-|2963|CIUDAD DEL CARMEN|Mexico||
-|2964|COATZACOALCOS|Mexico||
-|2965|COZUMEL ISLAND|Mexico||
-|2966|DOS BOCAS|Mexico||
-|2967|ENSENADA|Mexico||
-|2968|FRONTERA|Mexico||
-|2969|GUAYMAS|Mexico||
-|2970|LAZARO CARDENAS|Mexico||
-|2971|MANZANILLO|Mexico||
-|2972|MAZATALAN|Mexico||
-|2973|MINATITLAN|Mexico||
-|2974|MORRO REDONDO|Mexico||
-|2975|NANCHITAL|Mexico||
-|2976|NAUTLA|Mexico||
-|2977|PROGRESO|Mexico||
-|2978|PUERTO MADERO|Mexico||
-|2979|ROSARITO TERMINAL|Mexico||
-|2980|SALINA CRUZ|Mexico||
-|2981|SANTA ROSALIA|Mexico||
-|2982|TAMPICO|Mexico||
-|2983|TOPOLOBAMPO|Mexico||
-|2984|TUXPAN|Mexico||
-|2985|VERACRUZ|Mexico||
-|2986|MEXICO CITY|Mexico||
-|2987|MONTERREY|Mexico||
-|2988|QUERETARO|Mexico||
-|2989|ALTAMIRA |Mexico||
-|2990|GUADALAJARA|Mexico||
-|2991|SAN LOUIS POTOSI|Mexico||
-|2992|TOLUCA|Mexico||
-|2993|LEON|Mexico||
-|2994|APIZACO|Mexico||
-|2995|XALAPA|Mexico||
-|2996|MAZATLAN|Mexico||
-|2997|LERMA|Mexico||
-|2998|BEIRA|mozambique||
-|2999|MAPUTO|mozambique||
-|3000|CAPE TOWN|South Africa||
-|3001|DURBAN|South Africa||
-|3002|EAST LONDON|South Africa||
-|3003|MOSSEL BAY|South Africa||
-|3004|PORT ELIZABETH|South Africa||
-|3005|RICHARDS BAY|South Africa||
-|3006|SALDANHA BAY|South Africa||
-|3007|PORT ALFRED|South Africa||
-|3008|SIMONSTOWN|South Africa||
-|3009|JOHANNESBURG|South Africa||
-|3010|HARARE |Zimbabwe||
-|3011|PRETORIA|South Africa||
-|3012|GABORONE|Botswana||
-|3013|POINT GENTIL|South Africa||
-|3014|MASCOM|lesotho||
-|3015|MASERU|lesotho||
-|3016|MATSAPHA|Swaziland||
-|3017|FRANCISTOWN|Botswana||
-|3018|KWEKWE|Zimbabwe||
-|3019|AUCKLAND|New Zealand||
-|3020|BLUFF|New Zealand||
-|3021|DUNEDIN|New Zealand||
-|3022|GISBORNE|New Zealand||
-|3023|GREYMOUTH|New Zealand||
-|3024|INVERCARGILL|New Zealand||
-|3025|LYTTELTON|New Zealand||
-|3026|MOUT MAUNGANUI|New Zealand||
-|3027|NAPIER|New Zealand||
-|3028|NELSON|New Zealand||
-|3029|NEW PLYMOUTH|New Zealand||
-|3030|OAMARU|New Zealand||
-|3031|ONEHUNGA|New Zealand||
-|3032|ARUTUNGA|New Zealand||
-|3033|RAROTONGA ISLAND|New Zealand||
-|3034|OPUA|New Zealand||
-|3035|PICTON|New Zealand||
-|3036|PORT CHAIMERS|New Zealand||
-|3037|PORT RUSSELL|New Zealand||
-|3038|TAURANGA|New Zealand||
-|3039|TIMARU|New Zealand||
-|3040|WAIRAU|New Zealand||
-|3041|WANGANUI|New Zealand||
-|3042|WAVERLEY HARBOUR|New Zealand||
-|3043|WELLINGTON|New Zealand||
-|3044|WESTOPORT|New Zealand||
-|3045|CHRISTCHURCH|New Zealand||
-|3046|THAMES|New Zealand||
-|3047|PLAMERSTON NORTH|New Zealand||
-|3048|WHANGAREI|New Zealand||
-|3049|HONOLULU|In the Pacific islands||
-|3050|LONG BEACH|The United States||
-|3051|LOS ANGELES|The United States||
-|3052|OAKLAND|The United States||
-|3053|PORTLAND,OR|The United States||
-|3054|SAN FRANCISCO|The United States||
-|3055|SEATTLE,WA|The United States||
-|3056|TACOMA,WA|The United States||
-|3057|ALEXANDROVSK|Russia||
-|3058|ARCHANGEL|Russia||
-|3059|DEKASTRY|Russia||
-|3060|KALININGRAD|Russia||
-|3061|KERET|Russia||
-|3062|KERTCH|Russia||
-|3063|KHOLMSK|Russia||
-|3064|KORSAKOV|Russia||
-|3065|LAZAREV|Russia||
-|3066|LENINGRAD|Russia||
-|3067|MAGADAN|Russia||
-|3068|MAGO|Russia||
-|3069|MAKAROV|Russia||
-|3070|MESANE|Russia||
-|3071|MURMANSK|Russia||
-|3072|NAKHODKA|Russia||
-|3073|NARIAN MAR|Russia||
-|3074|NEVELSK|Russia||
-|3075|NOGLIKI|Russia||
-|3076|OKHA|Russia||
-|3077|OKHOTSK|Russia||
-|3078|OKTYJABRJISKI|Russia||
-|3079|ONEGA|Russia||
-|3080|PETROPAVLOVSK,RU|Russia||
-|3081|PORONAISK|Russia||
-|3082|PRIMORSK|Russia||
-|3083|SHAKHTERSK|Russia||
-|3084|SOCHI|Russia||
-|3085|SOVETSKAYA GAVAN|Russia||
-|3086|SVETLAYA RIVER|Russia||
-|3087|TAGANROG|Russia||
-|3088|TUAPSE|Russia||
-|3089|UGLEGORSK|Russia||
-|3090|UMBA|Russia||
-|3091|VLADIVOSTOK|Russia||
-|3092|VOSTOCHNY|Russia||
-|3093|VYBORG|Russia||
-|3094|VYSOTSK|Russia||
-|3095|MOSCOW|Russia||
-|3096|MINSK|belarus||
-|3097|ST.PETERSBURG|Russia||
-|3098|IGARKA|Russia||
-|3099|ANZHERSKAYA|Russia||
-|3100|BAZAIKHA|Russia||
-|3101|BATAREINAYA|Russia||
-|3102|BARNAUL|Russia||
-|3103|BEZYMYANKA|Russia||
-|3104|BIYSK|Russia||
-|3105|BLOCHNAYA|Russia||
-|3106|ZHIGULEVSKOE|Russia||
-|3107|ZLOBINO|Russia||
-|3108|CHEBOKSARY|Russia||
-|3109|KEMEROVO|Russia||
-|3110|KLESCHIKHA|Russia||
-|3111|KRASNODAR|Russia||
-|3112|TIKHONOVO|Russia||
-|3113|KRASNOAYRSK|Russia||
-|3114|SILIKATNAYA|Russia||
-|3115|OMSK|Russia||
-|3116|IRKUTSK|Russia||
-|3117|YEKATERINBURG|Russia||
-|3118|ALEXANDROVSK|Russia||
-|3119|ARCHANGEL|Russia||
-|3120|DEKASTRY|Russia||
-|3121|KALININGRAD|Russia||
-|3122|KERET|Russia||
-|3123|KERTCH|Russia||
-|3124|KHOLMSK|Russia||
-|3125|KORSAKOV|Russia||
-|3126|LAZAREV|Russia||
-|3127|LENINGRAD|Russia||
-|3128|MAGADAN|Russia||
-|3129|MAGO|Russia||
-|3130|MAKAROV|Russia||
-|3131|MESANE|Russia||
-|3132|MURMANSK|Russia||
-|3133|NAKHODKA|Russia||
-|3134|NARIAN MAR|Russia||
-|3135|NEVELSK|Russia||
-|3136|NOGLIKI|Russia||
-|3137|OKHA|Russia||
-|3138|OKHOTSK|Russia||
-|3139|OKTYJABRJISKI|Russia||
-|3140|ONEGA|Russia||
-|3141|PETROPAVLOVSK,RU|Russia||
-|3142|PORONAISK|Russia||
-|3143|PRIMORSK|Russia||
-|3144|SHAKHTERSK|Russia||
-|3145|SOCHI|Russia||
-|3146|SOVETSKAYA GAVAN|Russia||
-|3147|SVETLAYA RIVER|Russia||
-|3148|TAGANROG|Russia||
-|3149|TUAPSE|Russia||
-|3150|UGLEGORSK|Russia||
-|3151|UMBA|Russia||
-|3152|VLADIVOSTOK|Russia||
-|3153|VOSTOCHNY|Russia||
-|3154|VYBORG|Russia||
-|3155|VYSOTSK|Russia||
-|3156|MOSCOW|Russia||
-|3157|MINSK|belarus||
-|3158|ST.PETERSBURG|Russia||
-|3159|IGARKA|Russia||
-|3160|ANZHERSKAYA|Russia||
-|3161|BAZAIKHA|Russia||
-|3162|BATAREINAYA|Russia||
-|3163|BARNAUL|Russia||
-|3164|BEZYMYANKA|Russia||
-|3165|BIYSK|Russia||
-|3166|BLOCHNAYA|Russia||
-|3167|ZHIGULEVSKOE|Russia||
-|3168|ZLOBINO|Russia||
-|3169|CHEBOKSARY|Russia||
-|3170|KEMEROVO|Russia||
-|3171|KLESCHIKHA|Russia||
-|3172|KRASNODAR|Russia||
-|3173|TIKHONOVO|Russia||
-|3174|KRASNOAYRSK|Russia||
-|3175|SILIKATNAYA|Russia||
-|3176|OMSK|Russia||
-|3177|IRKUTSK|Russia||
-|3178|YEKATERINBURG|Russia||
-|3179|ABERDEEN,US|The United States||
-|3180|ALAMEDA|The United States||
-|3181|ALBANY|The United States||
-|3182|ALEXANDRIA(US)|The United States||
-|3183|ALPENA|The United States||
-|3184|ANACORTES|The United States||
-|3185|ANCHORAGE|The United States||
-|3186|APALACHICOLA|The United States||
-|3187|ASHLAND|The United States||
-|3188|ASHTABULA|The United States||
-|3189|ASTORIA|The United States||
-|3190|ATRECO|The United States||
-|3191|BANGOR(ME.)|The United States||
-|3192|BATH|The United States||
-|3193|BATON ROUGE|The United States||
-|3194|BAYTOWN|The United States||
-|3195|BEAUMONT|The United States||
-|3196|BELLINGHAM|The United States||
-|3197|BERKELEY|The United States||
-|3198|BOCA GRANDE|The United States||
-|3199|BREMERTON|The United States||
-|3200|BRIDGEPORT|The United States||
-|3201|BROWNSVILLE|The United States||
-|3202|BRUNSWICK|The United States||
-|3203|BUCHANAN,US|The United States||
-|3204|BUCKSPORT|The United States||
-|3205|BUFFALO|The United States||
-|3206|BURNS HARBOUR|The United States||
-|3207|BURNSIDE|The United States||
-|3208|CAMBRIDGE|The United States||
-|3209|CAMDEN|The United States||
-|3210|CARRABELLE|The United States||
-|3211|CHEBOYGAN|The United States||
-|3212|CHESAPEAKE CITY|The United States||
-|3213|CHESTER|The United States||
-|3214|CHICAGO,IL|The United States||
-|3215|CLEVELAND,OH|The United States||
-|3216|CONNEAUT HARBOUR|The United States||
-|3217|CORDOVA|The United States||
-|3218|CORPUS CHRISTI|The United States||
-|3219|DELAWARE BAY|The United States||
-|3220|DESTREHAN|The United States||
-|3221|DETROIT,MI|The United States||
-|3222|DONALDSONVILLE|The United States||
-|3223|DULUTH|The United States||
-|3224|DUTCH HARBOUR|The United States||
-|3225|EL SEGUNDO|The United States||
-|3226|ERIE|The United States||
-|3227|EUREKA|The United States||
-|3228|EVERETT(WASH.)|The United States||
-|3229|FALL RIVER|The United States||
-|3230|FERNANDINA|The United States||
-|3231|FERNDALE|The United States||
-|3232|FREEPORT,TX|The United States||
-|3233|GALVESTON|The United States||
-|3234|GEISMAR|The United States||
-|3235|GEORGETOWN,KY|The United States||
-|3236|GLOUCESTER(MASS.)|The United States||
-|3237|GOOD HOPE|The United States||
-|3238|GRAMERCY|The United States||
-|3239|GRAND HAVEN|The United States||
-|3240|GRAYS HARBOUR|The United States||
-|3241|GREEN BAY|The United States||
-|3242|GULFPORT|The United States||
-|3243|HAMPTON ROADS|The United States||
-|3244|HOME|The United States||
-|3245|HOMER|The United States||
-|3246|HOPEWELL|The United States||
-|3247|HURON|The United States||
-|3248|JERSEY CITY|The United States||
-|3249|JUNEAU|The United States||
-|3250|KALAMA|The United States||
-|3251|KENAI|The United States||
-|3252|KENOSHA|The United States||
-|3253|KETCHIKAN|The United States||
-|3254|KEY WEST|The United States||
-|3255|KINGS BAY|The United States||
-|3256|KODIAK|The United States||
-|3257|LAKE CHARLES|The United States||
-|3258|LONGIVEW|The United States||
-|3259|LORAIN|The United States||
-|3260|MANITOWOC|The United States||
-|3261|METLAKATLA|The United States||
-|3262|MILWAUKEE|The United States||
-|3263|MONROE|The United States||
-|3264|MOREHEAD CITY|The United States||
-|3265|MUSKEGON|The United States||
-|3266|MYRTLE GROVE|The United States||
-|3267|NEW BEDFORD|The United States||
-|3268|NEW CASTLE(DEL.)|The United States||
-|3269|NEW HAVEN|The United States||
-|3270|NEW LONDON(CONN.)|The United States||
-|3271|NEWARK,NJ|The United States||
-|3272|NEWPORT NEWS|The United States||
-|3273|NEWPORT(OREG.)|The United States||
-|3274|NEWPORT(R.I.)|The United States||
-|3275|NIKISKI|The United States||
-|3276|NOME|The United States||
-|3277|NORFOLK,VA|The United States||
-|3278|NORTH BEN|The United States||
-|3279|OLYMPIA|The United States||
-|3280|ORANGE|The United States||
-|3281|OSTRICA|The United States||
-|3282|OSWEGO|The United States||
-|3283|PALM BEACH|The United States||
-|3284|PANAMA CITY,FL|The United States||
-|3285|PASADENA|The United States||
-|3286|PASCAGOULA|The United States||
-|3287|PAULSBORO|The United States||
-|3288|PENSACOLA|The United States||
-|3289|PETERSBURG|The United States||
-|3290|PINEY POINT|The United States||
-|3291|PLYMOUTH,US|The United States||
-|3292|PORT ADAMS|The United States||
-|3293|PORT ANGELES|The United States||
-|3294|PORT ARTHUR(TEX.)|The United States||
-|3295|PORT CANAVERAL|The United States||
-|3296|PORT HUENEME|The United States||
-|3297|PORT HURON|The United States||
-|3298|PORT ISABEL|The United States||
-|3299|PORT LAVACA|The United States||
-|3300|PORT NECHES|The United States||
-|3301|PORT ROYAL,US|The United States||
-|3302|PORT SAN LUIS|The United States||
-|3303|PORT ST.JOE|The United States||
-|3304|PORT SULPHUR|The United States||
-|3305|PORT TOWNSEND|The United States||
-|3306|PORTSMOUTH,US|The United States||
-|3307|PROVIDENCE|The United States||
-|3308|RACINE|The United States||
-|3309|RICHMOND(CAL.)|The United States||
-|3310|RICHMOND(VA.)|The United States||
-|3311|RIVERHEAD|The United States||
-|3312|ROCHESTER|The United States||
-|3313|SABINE|The United States||
-|3314|SACRAMENTO|The United States||
-|3315|SAN DIEGO|The United States||
-|3316|SAN PEDRO,US|The United States||
-|3317|SANTA BARBARA|The United States||
-|3318|SANTA CRUZ(CALIF.)|The United States||
-|3319|SEARSPORT|The United States||
-|3320|SEWARD|The United States||
-|3321|SITKA|The United States||
-|3322|SKAGWAY|The United States||
-|3323|ST.PETERSBURG,FL|The United States||
-|3324|STOCKTON,US|The United States||
-|3325|TACONITE HARBOUR|The United States||
-|3326|TEXAS CITY|The United States||
-|3327|TOLEDO|The United States||
-|3328|TRENTON|The United States||
-|3329|VALDEZ|The United States||
-|3330|VANCOUVER,WA|The United States||
-|3331|WASHINGTON|The United States||
-|3332|WEEHAWKEN|The United States||
-|3333|WILLAPA|The United States||
-|3334|WILMINGTON,NC|The United States||
-|3335|WRANGELL|The United States||
-|3336|ATHENS|The United States||
-|3337|NASHVILLE,TN|The United States||
-|3338|WILMER,TX|The United States||
-|3339|CHARLOTTE,NC|The United States||
-|3340|PITTSBURGH,PA|The United States||
-|3341|WORCESTER,MA|The United States||
-|3342|CINCINNATI,OH|The United States||
-|3343|COLUMBUS,OH|The United States||
-|3344|DALLAS,TX|The United States||
-|3345|DENVER,CO|The United States||
-|3346|INDIANAPOLIS,IN|The United States||
-|3347|KANSAS CITY,MO|The United States||
-|3348|LAREDO,TX|The United States||
-|3349|MEMPHIS,TN|The United States||
-|3350|OMAHA,NE|The United States||
-|3351|ONTARIO,CA|The United States||
-|3352|PHOENIX,AZ|The United States||
-|3353|ST.LOUIS,MO|The United States||
-|3354|FORT WORTH,TX|The United States||
-|3355|EI PASO,TX|The United States||
-|3356|EVANSVILLE,IN|The United States||
-|3357|LOUISVILLE,KY|The United States||
-|3358|SAN ANTONIO,TX|The United States||
-|3359|MINNEAPOLIS,MN|The United States||
-|3360|BIRMINGHAM,AL|The United States||
-|3361|HUNTSVILLE,AL|The United States||
-|3362|ST PAUL,MN|The United States||
-|3363|ST LOUIS,MO|The United States||
-|3364|ELIZABETH,NJ|The United States||
-|3365|KENDALLVILLE,IN|The United States||
-|3366|HIDALGO|The United States||
-|3367|INNSBRUCK|Austria||
-|3368|KANSAS CITY,KS|The United States||
-|3369|SAINT LOUIS|The United States||
-|3370|EL PASO|The United States||
-|3371|BALTIMORE,MD|The United States||
-|3372|BOSTON,MA|The United States||
-|3373|CHARLESTON,SC|The United States||
-|3374|HOUSTON,TX|The United States||
-|3375|JACKSONVILLE,FL|The United States||
-|3376|MIAMI|The United States||
-|3377|MOBILE,AL|The United States||
-|3378|NEW ORLEANS,LA |The United States||
-|3379|NEW YORK,NY|The United States||
-|3380|PHILADELPHIA,PA|The United States||
-|3381|PORT EVERGLADES|The United States||
-|3382|SAVANNAH,GA|The United States||
-|3383|TAMPA,FL|The United States||
-|3384|ATLANTA,GA |The United States||
-|3385|DUSHANBE|tajikistan||
-|3386|BAKU|azerbaijan||
-|3387|ASHKABAD|turkmenistan||
-|3388|TURKMENBASHI|turkmenistan||
-|3389|ALMATY|kazakhstan||
-|3390|MEDEU|kazakhstan||
-|3391|AKTOBE|kazakhstan||
-|3392|AKTAU|kazakhstan||
-|3393|ATYRAU|kazakhstan||
-|3394|CHIMKENT|kazakhstan||
-|3395|ZHEZKAZGAN|kazakhstan||
-|3396|SEMIPALATINSK|kazakhstan||
-|3397|KARAGANDA|kazakhstan||
-|3398|KOKSHETAU|kazakhstan||
-|3399|KUSTANAI|kazakhstan||
-|3400|KYZYLORDA|kazakhstan||
-|3401|TALDYKORGAN|kazakhstan||
-|3402|ZASHITA|kazakhstan||
-|3403|PAVLODAR|kazakhstan||
-|3404|PETROPAVLOVSK|kazakhstan||
-|3405|TASHKENT|kazakhstan||
-|3406|ASSAKE|kazakhstan||
-|3407|SAMARCANT|uzbekistan||
-|3408|ANDIJAN|uzbekistan||
-|3409|OSH|kyrgyzstan||
-|3410|KHUJAND|tajikistan||
-|3411|BISHKEK|kyrgyzstan||
-|3412|NAZARBEK|uzbekistan||
-|3413|RAUSTAN|uzbekistan||
-|3414|AKALTYN|uzbekistan||
-|3415|BUKHARA|uzbekistan||
-|3416|MARGILAN|uzbekistan||
-|3417|KAKIR|uzbekistan||
-|3418|KARSHI|uzbekistan||
-|3419|CHUKURSAY|uzbekistan||
-|3420|ALMEDIN|kazakhstan||
-|3421|AMBARLI|Turkey||
+|1|KOROR|Palau|4|
+|2|CHANGA|Zambia|2|
+|3|KITWE|Zambia|1|
+|4|COPPERBELT|Zambia|2|
+|5|NDOLA|Zambia|1|
+|6|LUANSHYA|Zambia|1|
+|7|KABWE|Zambia|3|
+|8|CHINGOLA|Zambia|1|
+|9|LUDERITZ|Namibia|38|
+|10|WALVIS BAY|Namibia|67|
+|11|DILI|East Timor|6|
+|12|ANGRA_DOS_REIS|Brazil|5|
+|13|BARAO_DE_TEFFE|Brazil|3|
+|14|SANTAREM|Brazil|4|
+|15|SANTANA|Brazil|5|
+|16|PARNAIBA|Brazil|5|
+|17|ITAQUI|Brazil|11|
+|18|ALTAMIRA|Brazil|4|
+|19|RECIFE|Brazil|5|
+|20|SAO_LUIZ_DE_MARANHAO|Brazil|5|
+|21|FORTALEZA|Brazil|5|
+|22|NAVEGANTES|Brazil|6|
+|23|ARACAJU|Brazil|4|
+|24|PELOTAS|Brazil|2|
+|25|CABEDELLO|Brazil|5|
+|26|TUBARAO|Brazil|7|
+|27|SANTOS|Brazil|35|
+|28|ARACATI|Brazil|5|
+|29|MACEIO|Brazil|5|
+|30|PONTA_DO_UBU|Brazil|3|
+|31|VILA_DO_CONDE|Brazil|5|
+|32|SAO_PAULO|Brazil|5|
+|33|PORTOCEL|Brazil|7|
+|34|MANAUS|Brazil|5|
+|35|PECEM|Brazil|6|
+|36|PORTO_ALEGRE|Brazil|5|
+|37|ITAGUAI|Brazil|5|
+|38|PARANAGUA|Brazil|25|
+|39|ILHEUS|Brazil|4|
+|40|SALVADOR|Brazil|5|
+|41|IMBITUBA|Brazil|5|
+|42|TRAMANDAI|Brazil|5|
+|43|ARATU|Brazil|26|
+|44|JOAO_PESSOA|Brazil|5|
+|45|TROMBETAS|Brazil|5|
+|46|NITEROI|Brazil|5|
+|47|RIO_DE_JANEIRO|Brazil|23|
+|48|VITORIA|Brazil|6|
+|49|AREIA_BRANCA|Brazil|5|
+|50|ITAJAI|Brazil|5|
+|51|FLORIANOPOLIS|Brazil|5|
+|52|SAO_FRANCISCO_DO_SUL|Brazil|5|
+|53|SUAPE|Brazil|5|
+|54|SEPETIBA|Brazil|5|
+|55|BELEM|Brazil|7|
+|56|MACAPA|Brazil|5|
+|57|SAO_SEBASTIAO|Brazil|5|
+|58|RIO_GRANDE|Brazil|5|
+|59|NATAL|Brazil|5|
+|60|VICTORIA|Seychelles|11|
+|61|COTONOU|Benin|5|
+|62|PORTO NOVO|Benin|6|
+|63|PARAKOU|Benin|8|
+|64|MALE ISLAND|Maldives|5|
+|65|ADDU ATOLL|Maldives|8|
+|66|MATSAPHA|Swaziland|1|
+|67|GRAND_CAYMAN|Cayman Islands|16|
+|68|BANIAS|Syrian|2|
+|69|TARTOUS|Syrian|4|
+|70|DAMASCUS|Syrian|1|
+|71|LATTAKIA|Syrian|2|
+|72|BRIDGETOWN|Barbados|9|
+|73|ST.CATHERINES|Canada|4|
+|74|ANNAPOLIS|Canada|7|
+|75|LOCKEPORT|Canada|2|
+|76|ARGENTIA|Canada|1|
+|77|BURIN|Canada|1|
+|78|PRINCE_RUPERT|Canada|8|
+|79|EDMONTON|Canada|4|
+|80|PORT_ALFRED_CA|Canada|12|
+|81|QUEBEC|Canada|17|
+|82|PORT_MEDWAY|Canada|6|
+|83|SASKATOON|Canada|4|
+|84|BELLEDUNE|Canada|1|
+|85|DALHOUSIE|Canada|4|
+|86|LEAMINGTON|Canada|4|
+|87|BATHURST|Canada|2|
+|88|BAGOTVILLE|Canada|4|
+|89|NEW_GLASGOW|Canada|6|
+|90|REGINA|Canada|13|
+|91|LOMOND|Canada|8|
+|92|CORNER_BROOK|Canada|4|
+|93|PARRSBORO|Canada|5|
+|94|PORT_ALICE|Canada|5|
+|95|STEPHENVILLE|Canada|8|
+|96|HANTSPORT|Canada|0|
+|97|AMHERSTBURG|Canada|1|
+|98|CARAQUET|Canada|3|
+|99|CHATHAM|Canada|7|
+|100|HARMAC|Canada|3|
+|101|MONTAGUE|Canada|5|
+|102|LIS_COMB|Canada|1|
+|103|CROFTON|Canada|1|
+|104|PORT HOPE(ONT.)|Canada|1|
+|105|SUMMERSIDE|Canada|9|
+|106|HAMILTON|Canada|14|
+|107|WINNIPEG|Canada|2|
+|108|SHIPPEGAN|Canada|16|
+|109|COUNTRY_HARBOUR|Canada|10|
+|110|MATANE|Canada|6|
+|111|CORNWALL(ONT.)|Canada|3|
+|112|PORT_HOPE_SIMPSON|Canada|5|
+|113|GODERICH|Canada|5|
+|114|AKLAVIK|Canada|2|
+|115|VICTORIA_CA|Canada|4|
+|116|COBOURG(ONT.)|Canada|0|
+|117|GOOSE_BAY|Canada|4|
+|118|PORT_ALBERNI|Canada|7|
+|119|LOUISBURG|Canada|5|
+|120|CHURCHILL(MAN.)|Canada|3|
+|121|PARRY_SOUND|Canada|7|
+|122|POINTE_NOIRE_CA|Canada|8|
+|123|ST.LAWRENCE(NF.)|Canada|7|
+|124|NEW_RICHMOND|Canada|4|
+|125|CAMPBELLTON|Canada|1|
+|126|TWILLINGATE|Canada|6|
+|127|PASPEBIAC|Canada|3|
+|128|MICHIPICOTEN(ONT.)|Canada|5|
+|129|GOLD_RIVER|Canada|5|
+|130|SARNIA(ONT.)|Canada|9|
+|131|CALGARY|Canada|1|
+|132|PORT_MULGRAVE|Canada|0|
+|133|WATSON_ISLAND|Canada|7|
+|134|WINDSOR(ONT.)|Canada|4|
+|135|ARICHAT|Canada|2|
+|136|CANSO_HARBOUR|Canada|18|
+|137|HALIFAX|Canada|27|
+|138|PICTON_CA|Canada|14|
+|139|COMOX|Canada|4|
+|140|BADDECK|Canada|4|
+|141|BUCTOUCHE|Canada|2|
+|142|RIMOUSKI|Canada|4|
+|143|KINGSTON_CA|Canada|1|
+|144|HARBOUR_GRACE|Canada|7|
+|145|HAVER_ST.PIERRE|Canada|9|
+|146|SAINT_JOHN|Canada|8|
+|147|COME-BY-CHANCE|Canada|0|
+|148|SHERBROOKE|Canada|3|
+|149|BASQUES_COVE|Canada|2|
+|150|SOURIS|Canada|11|
+|151|NEWCASTLE(N.B.)|Canada|8|
+|152|WEYMOUTH_CA|Canada|4|
+|153|CHARLOTTETOWN(NF.)|Canada|9|
+|154|MIDLAND(ONT.)|Canada|7|
+|155|PORT_WELLER(ONT.)|Canada|9|
+|156|CONTRECOEUR|Canada|2|
+|157|BRIDGEWATER|Canada|1|
+|158|ESQUIMALT|Canada|3|
+|159|DOMINO|Canada|4|
+|160|FORESTVILLE|Canada|4|
+|161|TADOUSSAC|Canada|21|
+|162|NANAIMO|Canada|9|
+|163|OSHAWA(ONT.)|Canada|8|
+|164|ROBERTS BANK|Canada|5|
+|165|PORT_CARTIER|Canada|5|
+|166|BOTWOOD|Canada|1|
+|167|NORTH_SYDNEY|Canada|5|
+|168|GASPE|Canada|6|
+|169|CARLETON|Canada|2|
+|170|SQUAMISH|Canada|26|
+|171|SPRINGDALE|Canada|0|
+|172|RIVIERE_DU_LOUP|Canada|11|
+|173|LA_HAVE|Canada|0|
+|174|CHETICAMP|Canada|6|
+|175|STEWART|Canada|11|
+|176|PORT_AUX_BARQUES|Canada|9|
+|177|AMHERST|Canada|2|
+|178|THREE_RIVERS|Canada|4|
+|179|ROBERTS_BANK|Canada|0|
+|180|OCEAN_FALLS|Canada|7|
+|181|PORT_CREDIT(ONT.)|Canada|21|
+|182|LITTLE_NARROWS|Canada|2|
+|183|OAKVILLE(ONT.)|Canada|8|
+|184|PUGWASH|Canada|8|
+|185|PORT_HAWKESBURY|Canada|5|
+|186|ST.ANDREWS|Canada|21|
+|187|SHEET_HARBOUR|Canada|7|
+|188|COWICHAN_BAY|Canada|7|
+|189|VALLEYFIELD|Canada|3|
+|190|SOREL|Canada|5|
+|191|COLLINGWOOD|Canada|2|
+|192|VANCOUVER|Canada|8|
+|193|MONTREAL|Canada|10|
+|194|SHIP_HARBOUR|Canada|1|
+|195|DINGWALL|Canada|7|
+|196|GEORGETOWN_CA|Canada|2|
+|197|PORT_COLBORNE(ONT.)|Canada|11|
+|198|DIGBY|Canada|5|
+|199|BEAVER_HARBOUR|Canada|8|
+|200|KITIMAT|Canada|2|
+|201|SEVEN_ISLANDS|Canada|5|
+|202|THUNDER_BAY(ONT.)|Canada|24|
+|203|SHEDIAC|Canada|16|
+|204|PRESCOTT|Canada|11|
+|205|WELLAND(ONT.)|Canada|3|
+|206|HOLYROOD|Canada|1|
+|207|WABANA|Canada|3|
+|208|IONA|Canada|3|
+|209|BROCKVILLE(ONT.)|Canada|2|
+|210|BURGEO|Canada|1|
+|211|SYDNEY(CA)|Canada|5|
+|212|POWELL_RIVER|Canada|14|
+|213|CHICOUTIMI|Canada|0|
+|214|FROBISHER_BAY|Canada|3|
+|215|PORT_DALHOUSIE|Canada|14|
+|216|SAULT_STE.MARIE(MICH.)|Canada|16|
+|217|LIVERPOOL_CA|Canada|6|
+|218|METEGHAN|Canada|8|
+|219|RICHIBUCTO|Canada|12|
+|220|MONT_LOUIS|Canada|2|
+|221|CHEMAINUS|Canada|5|
+|222|NANISIVK|Canada|2|
+|223|NEW_WESTMINSTER|Canada|9|
+|224|PORT MULGRAVE|Canada|3|
+|225|WOODFIBRE|Canada|1|
+|226|GRAND_BANK|Canada|8|
+|227|SHELBURNE(N.S.)|Canada|22|
+|228|BAIE_COMEAU|Canada|14|
+|229|OWEN_SOUND|Canada|16|
+|230|THOROLD(ONT.)|Canada|3|
+|231|BAY ROBERTS|Canada|3|
+|232|CLARENVILLE|Canada|0|
+|233|YARMOUTH_CA|Canada|7|
+|234|CHARLOTTETOWN(P.E.I.)|Canada|5|
+|235|WALTON|Canada|10|
+|236|LUNENBURG|Canada|15|
+|237|TORONTO|Canada|8|
+|238|FERRPORT|Bahamas|8|
+|239|LITTLE_SAN_SALVADOR_I|Bahamas|6|
+|240|SOUTH_RIDING_POINT|Bahamas|12|
+|241|FREEPORT|Bahamas|7|
+|242|NASSAU|Bahamas|11|
+|243|LONGONI|Mayotte|1|
+|244|SHERBRO ISLAND|Sierra Leone|2|
+|245|FREETOWN|Sierra Leone|3|
+|246|PEPEL|Sierra Leone|1|
+|247|BALAO_TERMINAL|Ecuador|17|
+|248|ESMERALDAS|Ecuador|132|
+|249|MANTA|Ecuador|77|
+|250|QUITO|Ecuador|4|
+|251|SALINAS|Ecuador|7|
+|252|GUAYAQUIL|Ecuador|83|
+|253|BAHIA_DE_CARAGUEZ|Ecuador|42|
+|254|PUERTO_BOLIVAR|Ecuador|76|
+|255|LA_LIBERTAD_EC|Ecuador|1|
+|256|QASIM|Pakistan|17|
+|257|GWADAR|Pakistan|2|
+|258|KARACHI|Pakistan|264|
+|259|ORMARA|Pakistan|4|
+|260|PASNI|Pakistan|4|
+|261|LAHORE|Pakistan|0|
+|262|HEMIKSEM|Belgium|16|
+|263|GHENT|Belgium|12|
+|264|ZEEBRUGGE|Belgium|66|
+|265|OSTEND|Belgium|16|
+|266|BRUSSEL|Belgium|16|
+|267|ANTWERP|Belgium|141|
+|268|NIEUWPOORT|Belgium|16|
+|269|LIEGE|Belgium|17|
+|270|BRUGES|Belgium|18|
+|271|ASSAB|Ethiopia|2|
+|272|ODESSA|Ukraine|5|
+|273|BELGOROD-DNESTROVSKIY|Ukraine|5|
+|274|KIEV|Ukraine|3|
+|275|ILLYCHEVSK|Ukraine|5|
+|276|THEODOSIA|Ukraine|5|
+|277|ZHDANOV|Ukraine|5|
+|278|NIKOLAYEV|Ukraine|5|
+|279|BERDIANSK|Ukraine|5|
+|280|SEVASTOPOL|Ukraine|4|
+|281|KILIYA|Ukraine|5|
+|282|YALTA|Ukraine|191|
+|283|IZMAIL|Ukraine|5|
+|284|RENI|Ukraine|5|
+|285|SKADOVSK|Ukraine|4|
+|286|YUZHNYY|Ukraine|5|
+|287|KHERSON|Ukraine|5|
+|288|UST-DUNAYSK|Ukraine|4|
+|289|BUKAVU|Republic of the Congo|4|
+|290|POINTE NOIRE|Republic of the Congo|8|
+|291|GOMA|Republic of the Congo|5|
+|292|LUBUMBASHI|Republic of the Congo|5|
+|293|DJENO TERMINAL|Republic of the Congo|7|
+|294|MAJURO|Marshall Islands|68|
+|295|MENA_AL_AHMADI|Kuwait|0|
+|296|SHUWAIKH|Kuwait|6|
+|297|MENA_SAUD|Kuwait|8|
+|298|SHUAIBA|Kuwait|66|
+|299|KUWAIT|Kuwait|6|
+|300|MENA_ABDULLA|Kuwait|0|
+|301|KHOR_AL_MUFATTA|Kuwait|14|
+|302|PISAGUA|Peru|0|
+|303|GENERAL SAN MARTIN|Peru|2|
+|304|PAITA|Peru|56|
+|305|PARAMONGA|Peru|4|
+|306|LOBITOS|Peru|2|
+|307|SAN_NICOLAS,PE|Peru|63|
+|308|COISCO|Peru|0|
+|309|HUARMEY|Peru|3|
+|310|CHIMBOTE|Peru|4|
+|311|MOLLENDO|Peru|3|
+|312|CABO BLANCO|Peru|4|
+|313|CERRO AZUL|Peru|9|
+|314|ILO|Peru|5|
+|315|LA_PAMPILLA|Peru|4|
+|316|SUPE|Peru|1|
+|317|SALAVERRY|Peru|64|
+|318|PIMENTEL|Peru|2|
+|319|PACASMAGYO|Peru|1|
+|320|TAMBO_DE_MORA|Peru|0|
+|321|LOBOS_DE_TIERRA|Peru|0|
+|322|CALLAO|Peru|55|
+|323|ATICO|Peru|6|
+|324|PISCO|Peru|9|
+|325|TAMBO DE MORA|Peru|2|
+|326|LOMAS|Peru|2|
+|327|MATARANI|Peru|32|
+|328|LIMA|Peru|10|
+|329|TALARA|Peru|60|
+|330|ETEN|Peru|1|
+|331|ANCON|Peru|5|
+|332|IQUITOS|Peru|4|
+|333|HUACHO|Peru|3|
+|334|PUERTO_BAYOVAR|Peru|2|
+|335|GENERAL_SAN_MARTIN|Peru|0|
+|336|CONCHAN BEACH|Peru|4|
+|337|CHANCAY|Peru|3|
+|338|CHICAMA|Peru|3|
+|339|ASHDOD|Israel|5|
+|340|HAIFA|Israel|39|
+|341|ASHKELON|Israel|5|
+|342|HADERA|Israel|3|
+|343|JAFFA|Israel|6|
+|344|TEL_AVIV|Israel|5|
+|345|ACRE|Israel|5|
+|346|EILAT|Israel|28|
+|347|PORTO AMBAIM|Angola|9|
+|348|NOVO REDONDO|Angola|5|
+|349|MOCAMEDES|Angola|2|
+|350|AMBRIZ|Angola|10|
+|351|BENGUELA|Angola|10|
+|352|AMBRIZETE|Angola|5|
+|353|NAMIBE|Angola|10|
+|354|LUANDA|Angola|42|
+|355|LOBITO|Angola|37|
+|356|PORTO SALAZAR|Angola|17|
+|357|PORTO ALEXANDRE|Angola|10|
+|358|CABINDA|Angola|5|
+|359|AQABA|Jordan|69|
+|360|ST_CRUZ_DE_TENERIFE|Spain|9|
+|361|ROSAS|Spain|4|
+|362|MALAGA|Spain|10|
+|363|CADIZ|Spain|14|
+|364|CARTAGENA_ES|Spain|15|
+|365|VIGO|Spain|41|
+|366|BURRIANA|Spain|10|
+|367|MADRID|Spain|5|
+|368|MAZARRON|Spain|5|
+|369|VILLAGARCIA|Spain|5|
+|370|LAS_PALMAS|Spain|80|
+|371|SAN_FELIU_DE_GUIXOLS|Spain|0|
+|372|HUELVA|Spain|14|
+|373|BILBAO|Spain|45|
+|374|LUARCA|Spain|6|
+|375|CASTELLON|Spain|16|
+|376|ALMERIA|Spain|11|
+|377|VALENCIA|Spain|144|
+|378|CAPE_FINISTRERRE|Spain|0|
+|379|CEUTA|Spain|11|
+|380|BLANES|Spain|12|
+|381|CASTRO_URDIALES|Spain|14|
+|382|LA_CALERA|Spain|0|
+|383|SANTANDER|Spain|6|
+|384|CORUNNA|Spain|14|
+|385|PASAJES|Spain|5|
+|386|TARRAGONA|Spain|16|
+|387|SEVILLE|Spain|7|
+|388|DENIA|Spain|13|
+|389|FERROL|Spain|13|
+|390|AVILES|Spain|11|
+|391|VIVERO|Spain|6|
+|392|MARIN|Spain|7|
+|393|SAGUNTO|Spain|6|
+|394|ESCOMBRERAS_HARBOUR|Spain|0|
+|395|SAN_ESTEBAN_DE_PRAVIA|Spain|0|
+|396|MUROS|Spain|4|
+|397|AGUILAS|Spain|12|
+|398|RIBADESELLA|Spain|7|
+|399|BURGOS|Spain|2|
+|400|GIJON|Spain|13|
+|401|IBIZA|Spain|14|
+|402|PORTUGALETE|Spain|4|
+|403|MOTRIL|Spain|10|
+|404|SABADELL|Spain|4|
+|405|PALAMOS|Spain|5|
+|406|PALMA|Spain|6|
+|407|ALICANTE|Spain|8|
+|408|BADAJOZ|Spain|3|
+|409|TORREVIEJA|Spain|7|
+|410|SOLLER|Spain|5|
+|411|BURELA|Spain|21|
+|412|ALCUDIA|Spain|13|
+|413|PUNTA_SALTACABALLO|Spain|0|
+|414|RIBADEO|Spain|5|
+|415|TENERIFE|Spain|0|
+|416|CILERO|Spain|10|
+|417|JAVEA|Spain|12|
+|418|GARRUCHA|Spain|13|
+|419|ALGECIRAS|Spain|12|
+|420|BARCELONA|Spain|213|
+|421|ROTA|Spain|5|
+|422|CORCUBION|Spain|12|
+|423|ADRA|Spain|194|
+|424|SAN_CIPRIAN|Spain|6|
+|425|SANTA_CRUZ_DE_TENERIFE|Spain|6|
+|426|GANDIA|Spain|15|
+|427|MAHON|Spain|4|
+|428|CRUZ_GRANDE|Chile|5|
+|429|ANTOFAGASTA|Chile|9|
+|430|TOCOPILLA|Chile|3|
+|431|PUERTO_NATALES|Chile|9|
+|432|IQUIQUE|Chile|83|
+|433|PUERTO_QUEMCHI|Chile|3|
+|434|GUAYACAN|Chile|8|
+|435|CHACABUCO|Chile|8|
+|436|SANTIAGO,CL|Chile|202|
+|437|PENCO|Chile|6|
+|438|TOME|Chile|5|
+|439|PUNTA_ARENAS|Chile|88|
+|440|PUERTO_QUELLON|Chile|4|
+|441|SAN_ANTONIO|Chile|61|
+|442|CABO_NERGO|Chile|8|
+|443|LOTA|Chile|7|
+|444|QUINTERO|Chile|8|
+|445|VALDIVIA|Chile|7|
+|446|EASTER_ISLAND|Chile|9|
+|447|TALTAL|Chile|0|
+|448|CHANARAL|Chile|4|
+|449|TALCAHUANO|Chile|8|
+|450|GREGORIO|Chile|3|
+|451|CALDERILLA|Chile|5|
+|452|CASTRO|Chile|7|
+|453|LIRQUEN|Chile|8|
+|454|ANCUD|Chile|6|
+|455|SAN_VICENTE|Chile|1|
+|456|LA_SERENA|Chile|5|
+|457|PUERTO_ANGAMOS|Chile|10|
+|458|CALDERA|Chile|5|
+|459|PUERTO_MONTT|Chile|7|
+|460|VAL_PARAISO|Chile|160|
+|461|CALETA_CLARENCIA|Chile|1|
+|462|HUASCO|Chile|5|
+|463|COQUIMBO|Chile|9|
+|464|ARICA|Chile|64|
+|465|CALETA_PATILLOS|Chile|4|
+|466|CORONEL|Chile|8|
+|467|MEIJILONES|Chile|6|
+|468|PUERTO_BORIES|Chile|1|
+|469|BARRANQUILLA|Colombia|50|
+|470|RIO_HACHA|Colombia|4|
+|471|CARTAGENA,CO|Colombia|81|
+|472|POZOS_COLORADOS|Colombia|0|
+|473|BOGOTA|Colombia|3|
+|474|BUENAVENTURA|Colombia|52|
+|475|COVENAS|Colombia|550|
+|476|TUMACO|Colombia|4|
+|477|PUERTO_COLOMBIA|Colombia|3|
+|478|SANTA_MARTA|Colombia|5|
+|479|POZOS COLORADOS|Colombia|4|
+|480|ZAGREB|Croatia|20|
+|481|ROVINJ|Croatia|54|
+|482|HVAR|Croatia|5|
+|483|SENJ|Croatia|7|
+|484|OMISALJ|Croatia|3|
+|485|DUGIRAT|Croatia|2|
+|486|SIBENIK|Croatia|5|
+|487|PLOCE|Croatia|1|
+|488|SPLIT|Croatia|5|
+|489|PULA|Croatia|3|
+|490|KORCULA|Croatia|3|
+|491|RASA|Croatia|5|
+|492|RIJEKA|Croatia|3|
+|493|ZADAR|Croatia|5|
+|494|DUBROVNIK|Croatia|4|
+|495|MASLINICA|Croatia|1|
+|496|BAKAR|Croatia|1|
+|497|RINGI_COVE|Solomon Islands|9|
+|498|GIZO|Solomon Islands|14|
+|499|SHORTLAND_ISLAND|Solomon Islands|35|
+|500|TULAGI|Solomon Islands|11|
+|501|YANDINA|Solomon Islands|52|
+|502|ALLARDYCE_HARBOUR|Solomon Islands|17|
+|503|NORO|Solomon Islands|40|
+|504|HONIARA|Solomon Islands|28|
+|505|AARHUS|Denmark|75|
+|506|MARSTAL|Denmark|9|
+|507|ODENSE|Denmark|9|
+|508|AEROSKOBING|Denmark|6|
+|509|RODVIG|Denmark|14|
+|510|STUBBEKOBING|Denmark|6|
+|511|NAKSKOV|Denmark|13|
+|512|RUDKOBING|Denmark|13|
+|513|NYKOBING(FAL.)|Denmark|11|
+|514|FREDERIKSSUND|Denmark|16|
+|515|KOLDING|Denmark|12|
+|516|KALUNDBORG|Denmark|46|
+|517|SKAERBAEK|Denmark|14|
+|518|ESBJERG|Denmark|10|
+|519|ALLINGE|Denmark|8|
+|520|KARREBAEKSMINDE|Denmark|10|
+|521|KOGE|Denmark|12|
+|522|KORSOR|Denmark|9|
+|523|FREDERICIA|Denmark|130|
+|524|SVENDBORG|Denmark|10|
+|525|GRASTEN|Denmark|15|
+|526|SONDERBORG|Denmark|13|
+|527|GULFHAVN|Denmark|5|
+|528|FREDERIKSVARK|Denmark|16|
+|529|NYKOBING(MORS)|Denmark|11|
+|530|RODBYHAVN|Denmark|11|
+|531|STVANEKE|Denmark|2|
+|532|STRUER|Denmark|13|
+|533|HADSUND|Denmark|1|
+|534|HIRTSHALS|Denmark|14|
+|535|VORDINGBORG|Denmark|6|
+|536|AALBORG|Denmark|55|
+|537|TUBORG_HAVN|Denmark|1|
+|538|ASSENS|Denmark|16|
+|539|NYBORG|Denmark|12|
+|540|RONNE|Denmark|14|
+|541|MASNEDSUND|Denmark|12|
+|542|HELSINGOR|Denmark|4|
+|543|LEMVIG|Denmark|7|
+|544|VEJLE|Denmark|4|
+|545|SKIVE|Denmark|13|
+|546|SAKSKOBING|Denmark|11|
+|547|HOBRO|Denmark|9|
+|548|LYNGS_ODDDE|Denmark|12|
+|549|KYNDBY|Denmark|9|
+|550|COPENHAGEN|Denmark|16|
+|551|BOGENSE|Denmark|8|
+|552|HOLBAEK|Denmark|9|
+|553|OREHOVED|Denmark|12|
+|554|BANDHOLM|Denmark|14|
+|555|FREDERIKSHAVN|Denmark|16|
+|556|FAKSE_LADEPLADS|Denmark|16|
+|557|NYKOBING(SJA.)|Denmark|14|
+|558|HASLE|Denmark|8|
+|559|SKAGEN|Denmark|14|
+|560|HORSENS|Denmark|10|
+|561|NORRESUNDBY|Denmark|11|
+|562|MIDDELFART|Denmark|13|
+|563|RANDERS|Denmark|13|
+|564|AABENRAA|Denmark|16|
+|565|ELSINORE|Denmark|9|
+|566|STEGE|Denmark|13|
+|567|NEKSO|Denmark|11|
+|568|NAESTVED|Denmark|12|
+|569|SKAELSKOR|Denmark|14|
+|570|EBELTOFT|Denmark|3|
+|571|FAABORG|Denmark|16|
+|572|GRENAA|Denmark|10|
+|573|KERTEMINDE|Denmark|12|
+|574|HADERSLEV|Denmark|10|
+|575|MARIAGER|Denmark|9|
+|576|MARIGOT|Atlantic Ocean Islands|6|
+|577|SANTA_CRUZ(TENERIFE)|Atlantic Ocean Islands|5|
+|578|FUNGHAL|Atlantic Ocean Islands|1|
+|579|PONTA_DELGACLA|Atlantic Ocean Islands|5|
+|580|HORTA|Atlantic Ocean Islands|1|
+|581|PRAIA|Atlantic Ocean Islands|5|
+|582|ANGRA_DO_HEROISMO|Atlantic Ocean Islands|5|
+|583|SANTA_CRUA(GRACIOSA)|Atlantic Ocean Islands|5|
+|584|PUERTO_DEL_ROSARIO|Atlantic Ocean Islands|8|
+|585|LA_SALINETA|Atlantic Ocean Islands|1|
+|586|PHILIPSBURG|Atlantic Ocean Islands|10|
+|587|SANTA_CRUZ(PALMA)|Atlantic Ocean Islands|4|
+|588|SANI.A_CRUZ(FLOERS)|Atlantic Ocean Islands|5|
+|589|ARGUINEGUIN|Atlantic Ocean Islands|11|
+|590|ARRECIFE|Atlantic Ocean Islands|6|
+|591|SUAKIN|Sudan|3|
+|592|PORT_SUDAN|Sudan|2|
+|593|BANANA|Democratic Republic of the Congo|3|
+|594|MATADI|Democratic Republic of the Congo|1|
+|595|BOMA|Democratic Republic of the Congo|1|
+|596|KINSHASA|Democratic Republic of the Congo|3|
+|597|SONGRIM|D.P.R.KOREA|5|
+|598|CHUNGJIN|D.P.R.KOREA|28|
+|599|CHINNAMPO|D.P.R.KOREA|59|
+|600|HUNGNAM|D.P.R.KOREA|53|
+|601|WONSAN|D.P.R.KOREA|5|
+|602|HAEJU|D.P.R.KOREA|40|
+|603|RAJIN|D.P.R.KOREA|72|
+|604|WARSAW|Poland|4|
+|605|SZCZECIN|Poland|6|
+|606|KOLOBRZEG|Poland|5|
+|607|SWINOUJSCIE|Poland|6|
+|608|GDANSK|Poland|5|
+|609|DARLOWO|Poland|87|
+|610|HEL|Poland|5|
+|611|USTKA|Poland|5|
+|612|GDYNIA|Poland|4|
+|613|WLADYSLAWOWO|Poland|3|
+|614|BAKU|Azerbaijan|5|
+|615|VALLETTA|Malta|9|
+|616|MARSAXLOKK|Malta|4|
+|617|MALTA|Malta|63|
+|618|MINSK|Belarus|6|
+|619|DEGRAD_DE_CANNES|French Guiana|66|
+|620|CAYENNE|French Guiana|53|
+|621|AXIM|Ghana|4|
+|622|CAPE COAST|Ghana|2|
+|623|TEMA|Ghana|3|
+|624|KETA|Ghana|7|
+|625|SEKONDI|Ghana|4|
+|626|WINNEBA|Ghana|2|
+|627|ACCRA|Ghana|8|
+|628|ADDA|Ghana|7|
+|629|TAKORADI|Ghana|5|
+|630|YEREVAN|Armenia|1|
+|631|PRINCIPE ISLAND|Sao Tome and Principe|5|
+|632|SAO TOME|Sao Tome and Principe|7|
+|633|MOKHA|Yemen|8|
+|634|ADEN|Yemen|1|
+|635|MUKALLA|Yemen|12|
+|636|SALEEF|Yemen|11|
+|637|HODEIDAH|Yemen|2|
+|638|SOCOTRA_ISLAND|Yemen|13|
+|639|GUANICA|Puerto Rico|8|
+|640|MAYAGUEZ|Puerto Rico|5|
+|641|GUAYANILLA|Puerto Rico|5|
+|642|ARECIBO|Puerto Rico|7|
+|643|SAN_JUAN|Puerto Rico|6|
+|644|FAJARDO|Puerto Rico|6|
+|645|AGUADILLA|Puerto Rico|7|
+|646|JOBOS|Puerto Rico|6|
+|647|YABUCOA|Puerto Rico|6|
+|648|GUAYAMA|Puerto Rico|6|
+|649|PONCE|Puerto Rico|5|
+|650|BUDAPEST|Hungary|18|
+|651|WICKLOW|Ireland|4|
+|652|YOUGHAL|Ireland|80|
+|653|ARKLOW|Ireland|7|
+|654|GREENORE|Ireland|1|
+|655|HOWTH|Ireland|6|
+|656|MOVILLE|Ireland|1|
+|657|BANTRY|Ireland|2|
+|658|CORK|Ireland|65|
+|659|SLIGO|Ireland|12|
+|660|DUNMORE|Ireland|2|
+|661|KILRONAN|Ireland|1|
+|662|SCHULL|Ireland|1|
+|663|COBH|Ireland|5|
+|664|KINSALE|Ireland|3|
+|665|CAHIRCIVEEN|Ireland|19|
+|666|LIMERICK|Ireland|2|
+|667|DROGHEDA|Ireland|1|
+|668|GALWAY|Ireland|81|
+|669|TRALEE|Ireland|1|
+|670|DUNGARVAN|Ireland|165|
+|671|DUBLIN|Ireland|78|
+|672|ROSSLARE|Ireland|4|
+|673|BALTIMORE|Ireland|7|
+|674|FENIT|Ireland|2|
+|675|CLARECASTLE|Ireland|11|
+|676|NEW_ROSS|Ireland|1|
+|677|CLONAKILTY|Ireland|10|
+|678|CASTLETOWN_BERE|Ireland|19|
+|679|KILLYBEGS|Ireland|14|
+|680|FOYNES|Ireland|1|
+|681|TVOROYRI|Faroe Island|21|
+|682|TRANGISVAAG|Faroe Island|0|
+|683|KLAKSVIG|Faroe Island|23|
+|684|VESTMANHAVN|Faroe Island|27|
+|685|VAAG|Faroe Island|17|
+|686|THORSHAVN|Faroe Island|81|
+|687|BAR|Montenegro|64|
+|688|KOTOR|Montenegro|17|
+|689|BUSAN|R.O.KOREA|147|
+|690|CHEJU|R.O.KOREA|37|
+|691|MOKPO|R.O.KOREA|4|
+|692|YOSU|R.O.KOREA|4|
+|693|MUKHO|R.O.KOREA|4|
+|694|MASAN|R.O.KOREA|5|
+|695|CHINHAE|R.O.KOREA|4|
+|696|POHANG|R.O.KOREA|3|
+|697|KUNSAN|R.O.KOREA|33|
+|698|ULSAN|R.O.KOREA|85|
+|699|CHANGHANG|R.O.KOREA|107|
+|700|SEOUL|R.O.KOREA|5|
+|701|KWANGYANG|R.O.KOREA|44|
+|702|INCHON|R.O.KOREA|58|
+|703|PYEONGTAEK|R.O.KOREA|4|
+|704|DAEPORI|R.O.KOREA|45|
+|705|SAMCHOK|R.O.KOREA|6|
+|706|CUTUCO|Salvador|4|
+|707|SAN_SALVADOR|Salvador|5|
+|708|ACAJUTLA|Salvador|5|
+|709|SANTA_ANA|Salvador|5|
+|710|LA_UNION_SV|Salvador|5|
+|711|BELGRAD|Serbia and Montenegro|2|
+|712|PODGORICA|Serbia and Montenegro|4|
+|713|ZELENIKA|Serbia and Montenegro|1|
+|714|GONAIVES|Haiti|12|
+|715|CAP_HAITIEN|Haiti|13|
+|716|AUX_CAYES|Haiti|13|
+|717|PORT_AU_PRINCE|Haiti|4|
+|718|MIRAGOANE|Haiti|11|
+|719|JEREMIE|Haiti|14|
+|720|GODHAVN|Greenland|8|
+|721|GODTHAAB|Greenland|1|
+|722|JAKOBSHAVN|Greenland|29|
+|723|MARMORILIK|Greenland|5|
+|724|NARSSARSSUAQ|Greenland|25|
+|725|KANGAMIUT|Greenland|2|
+|726|JULIANEHAAB|Greenland|3|
+|727|SUKKERTOPPEN|Greenland|12|
+|728|EGEDESMINDE|Greenland|3|
+|729|UPERNIVIK|Greenland|18|
+|730|HOLSTEINSBORG|Greenland|5|
+|731|CHRISTIANSHAAB|Greenland|1|
+|732|UMANAK|Greenland|16|
+|733|FAERINGEHAVN|Greenland|1|
+|734|NAGA|Philippines|7|
+|735|BISLIG|Philippines|6|
+|736|OLONGAPO|Philippines|6|
+|737|SORSOGON|Philippines|6|
+|738|NASUGBU|Philippines|6|
+|739|SUBIC_BAY|Philippines|13|
+|740|ANAKAN|Philippines|5|
+|741|NASIPIT|Philippines|7|
+|742|ISABEL|Philippines|5|
+|743|ZAMBOANGA|Philippines|8|
+|744|JOLO|Philippines|4|
+|745|TANDOC|Philippines|2|
+|746|SAN_FERNANDO_PH|Philippines|5|
+|747|CEBU|Philippines|9|
+|748|BAIS|Philippines|8|
+|749|HINIGARAN|Philippines|4|
+|750|VILLANUEVA|Philippines|26|
+|751|TACLOBAN|Philippines|8|
+|752|CALBAYOG|Philippines|7|
+|753|POLLOC|Philippines|5|
+|754|LEBAK|Philippines|4|
+|755|PORT_HOLLAND|Philippines|11|
+|756|ILOILO|Philippines|5|
+|757|ORMOC|Philippines|5|
+|758|LEGASPI|Philippines|3|
+|759|MANILA SOUTH|Philippines|5|
+|760|BACOLOD|Philippines|7|
+|761|DIPOLOG|Philippines|8|
+|762|DAVAO|Philippines|7|
+|763|SURIGAO|Philippines|7|
+|764|LA_UNION|Philippines|4|
+|765|SANTA_CRUZ_LUZON|Philippines|5|
+|766|BUGO|Philippines|7|
+|767|ANTIMONAN|Philippines|7|
+|768|DUMAGUETE|Philippines|4|
+|769|BATAAN|Philippines|7|
+|770|DINAGAT|Philippines|6|
+|771|JOSE_PANGANIBAN|Philippines|3|
+|772|PARANG|Philippines|6|
+|773|MATI|Philippines|4|
+|774|CAGAYAN_DE_ORO|Philippines|13|
+|775|CAPIZ|Philippines|7|
+|776|MASBATE|Philippines|5|
+|777|TAGBILARAN|Philippines|11|
+|778|MASAO|Philippines|5|
+|779|CAVITE|Philippines|3|
+|780|PUERTO_PRINCESA|Philippines|7|
+|781|PORO(PORO I.)|Philippines|3|
+|782|TABACO|Philippines|6|
+|783|BATANGAS|Philippines|6|
+|784|PORT_SANTA_MARIA|Philippines|6|
+|785|ILIGAN|Philippines|4|
+|786|MARIVELES|Philippines|4|
+|787|GENERAL_SANTOS|Philippines|5|
+|788|MILBUK|Philippines|2|
+|789|PAMPLONA|Philippines|2|
+|790|AMUNITAN|Philippines|5|
+|791|SANGI|Philippines|6|
+|792|MANILA NORTH|Philippines|6|
+|793|SAN_CARLOS_PH|Philippines|2|
+|794|PORO(LUZON)|Philippines|4|
+|795|MASINLOK|Philippines|11|
+|796|BUTUAN|Philippines|6|
+|797|ABUYOG|Philippines|6|
+|798|LINGAYEN|Philippines|5|
+|799|GUIMARAS_ISLAND|Philippines|3|
+|800|APARRI|Philippines|4|
+|801|ISABELA|Philippines|6|
+|802|DINGALAN_BAY|Philippines|2|
+|803|LAOAG|Philippines|5|
+|804|PULUPANDAN|Philippines|5|
+|805|MANILA|Philippines|33|
+|806|LUCINA TERMINAL|Gabon|17|
+|807|GAMBA|Gabon|13|
+|808|LIBREVILLE|Gabon|43|
+|809|CAP LOPCZ|Gabon|23|
+|810|OWENDO|Gabon|25|
+|811|PORT GENTIL|Gabon|50|
+|812|PORTSMOUTH_DM|Dominica|10|
+|813|BARAHONA|Dominica|11|
+|814|SANTO_DOMINGO|Dominica|13|
+|815|RIO_HAINA|Dominica|13|
+|816|SAN_PEDRO_DE_MACORIS|Dominica|13|
+|817|CABO_ROJO|Dominica|10|
+|818|MANZANILLO_DO|Dominica|12|
+|819|ROSEAU|Dominica|14|
+|820|LA_ROMANA|Dominica|10|
+|821|CAUCEDO|Dominica|9|
+|822|ST_GEORGE|Dominica|11|
+|823|PALENQUE|Dominica|12|
+|824|AZUA|Dominica|10|
+|825|BANES|Cuba|11|
+|826|CAIMANERA|Cuba|11|
+|827|CARDENAS|Cuba|10|
+|828|SANTIAGO_DE_CUBA|Cuba|14|
+|829|MANOPLA|Cuba|15|
+|830|PUERTO_PADRE|Cuba|11|
+|831|MATANZAS|Cuba|14|
+|832|HAVANA|Cuba|12|
+|833|SANTA_LUCIA|Cuba|15|
+|834|NUEVITAS|Cuba|14|
+|835|CIENFUEGOS|Cuba|13|
+|836|ISABELA,CU|Cuba|12|
+|837|PILON|Cuba|12|
+|838|CEIBA_HUECA|Cuba|11|
+|839|BARACOA|Cuba|12|
+|840|FELTON|Cuba|12|
+|841|PRESTON_CU|Cuba|10|
+|842|JUCARO|Cuba|12|
+|843|NUEVA_GERONA|Cuba|11|
+|844|ANTILLA|Cuba|483|
+|845|PASTELILLO|Cuba|10|
+|846|CASILDA|Cuba|11|
+|847|NIQUERO|Cuba|12|
+|848|MARIEL|Cuba|12|
+|849|CABANAS|Cuba|13|
+|850|TANAMO|Cuba|13|
+|851|NICARO|Cuba|13|
+|852|PUERTO_TARAFA|Cuba|12|
+|853|MEDIA_LUNA|Cuba|11|
+|854|MOA|Cuba|11|
+|855|BAHIA_HONDA|Cuba|9|
+|856|CAIBARIEN|Cuba|12|
+|857|PLYMOUTH_TT|Trinidad and Tobago|5|
+|858|CHAGUARAMAS|Trinidad and Tobago|6|
+|859|POINT_FORTIN|Trinidad and Tobago|5|
+|860|POINT_LISAS|Trinidad and Tobago|5|
+|861|POINTE_A_PIERRE|Trinidad and Tobago|6|
+|862|SAN_FERNANDO_TT|Trinidad and Tobago|5|
+|863|BRIGHTON_TT|Trinidad and Tobago|5|
+|864|SCARBOROUGH|Trinidad and Tobago|6|
+|865|TEMBLADORA|Trinidad and Tobago|4|
+|866|PORT_OF_SPAIN|Trinidad and Tobago|5|
+|867|GALEOTA_POINT|Trinidad and Tobago|5|
+|868|NEIAFU|Tonga|5|
+|869|NUKUALOFA|Tonga|2|
+|870|NOMUKA_ISLAND|Tonga|6|
+|871|PANGAI|Tonga|3|
+|872|PAPEETE|French Polynesia|5|
+|873|VAITAPE|French Polynesia|5|
+|874|HAO_ISLADN|French Polynesia|5|
+|875|MAKATEA|French Polynesia|4|
+|876|MURUROA|French Polynesia|5|
+|877|SAN_NICOLAS_PAY|Netherlands Antilles|6|
+|878|WILLEMSTAD|Netherlands Antilles|6|
+|879|YENBO|Saudi Arabia|13|
+|880|JUAYMAH_TERMINAL|Saudi Arabia|49|
+|881|DAMMAM|Saudi Arabia|22|
+|882|RAS_TANURA|Saudi Arabia|37|
+|883|GIZAN|Saudi Arabia|31|
+|884|RAS_AL_MISHAB|Saudi Arabia|32|
+|885|RAS_AL_KHAFJI|Saudi Arabia|31|
+|886|RIYADH|Saudi Arabia|12|
+|887|JEDDAH|Saudi Arabia|31|
+|888|JUBAIL|Saudi Arabia|45|
+|889|King Fahd Industrial Port in Jubail|Saudi Arabia|7|
+|890|BUNSBUTTEL|Germany|8|
+|891|ECKERNFORDE|Germany|1|
+|892|STUTTGART|Germany|8|
+|893|BERLIN|Germany|16|
+|894|HOLTENAU|Germany|11|
+|895|NEU-ULM|Germany|3|
+|896|WARNEMUNDE|Germany|4|
+|897|HERBRECHTINGEN|Germany|1|
+|898|BONN|Germany|5|
+|899|VEGESACK|Germany|6|
+|900|DUSSELDORF|Germany|1|
+|901|REMSCHEID|Germany|2|
+|902|BOCHUM|Germany|3|
+|903|GLUCKSTADT|Germany|2|
+|904|KREFELD|Germany|1|
+|905|NEUSS|Germany|5|
+|906|SHCWARZENHUTTEN|Germany|0|
+|907|WUPPERTAL|Germany|7|
+|908|SCHULAU|Germany|3|
+|909|BREMERHAVEN|Germany|10|
+|910|ALTONA|Germany|4|
+|911|KAPPELN|Germany|1|
+|912|STRALSUND|Germany|3|
+|913|CUXHAVEN|Germany|17|
+|914|ESSEN|Germany|0|
+|915|INGOLSTADT|Germany|1|
+|916|EMDEN|Germany|10|
+|917|COLOGNE|Germany|1|
+|918|WILHELMSBURG|Germany|5|
+|919|NEUHAUS|Germany|11|
+|920|HEILIGENHAFEN|Germany|2|
+|921|BUTZFLETH|Germany|5|
+|922|KARLSRUHE|Germany|9|
+|923|DUESSELDORF|Germany|4|
+|924|WILHELMSHAVEN|Germany|6|
+|925|TRAVEMUNDE|Germany|7|
+|926|HUSUM|Germany|3|
+|927|DUISBURG|Germany|5|
+|928|MUNICH|Germany|3|
+|929|TONNING|Germany|6|
+|930|ROSTOCK|Germany|12|
+|931|STADERSAND|Germany|11|
+|932|STADE|Germany|13|
+|933|DORTMUND|Germany|2|
+|934|LABO|Germany|4|
+|935|LUBECK|Germany|7|
+|936|BRAKE|Germany|9|
+|937|DRESDEN|Germany|5|
+|938|ORTH|Germany|3|
+|939|RENDSBURG|Germany|13|
+|940|BREMEN|Germany|8|
+|941|NEUSTADT|Germany|3|
+|942|ELSFLETH|Germany|2|
+|943|DARMSTADT|Germany|2|
+|944|HANNOVER|Germany|5|
+|945|SOLINGEN|Germany|1|
+|946|REGENSBURG|Germany|11|
+|947|LUDWIGSHAFEN|Germany|1|
+|948|FRANKFURT|Germany|2|
+|949|ROSENHEIM|Germany|2|
+|950|ITZEHOE|Germany|3|
+|951|MAINZ|Germany|1|
+|952|KIEL|Germany|10|
+|953|MANNHEIM|Germany|1|
+|954|WOERTH|Germany|3|
+|955|LEER|Germany|1|
+|956|FLENSBURG|Germany|1|
+|957|LEIPZIG|Germany|4|
+|958|NUERNBERG|Germany|9|
+|959|COBLENZ|Germany|6|
+|960|NORDENHAM|Germany|385|
+|961|SOMMERDA|Germany|4|
+|962|PAPENBURG|Germany|7|
+|963|WISMAR|Germany|5|
+|964|HAMBURG|Germany|18|
+|965|BABOUILLAT|New Caledonia|5|
+|966|NOUMEA|New Caledonia|5|
+|967|PALMEIRA|Cape Verde|2|
+|968|PORTO GRANDE|Cape Verde|4|
+|969|MINDELO|Cape Verde|9|
+|970|BISHKEK|The Kyrgyz Republic|5|
+|971|OSH|The Kyrgyz Republic|5|
+|972|JINJA|Uganda|1|
+|973|KAMPALA|Uganda|1|
+|974|MALINDI|Kenya|28|
+|975|EMBBAKASI|Kenya|2|
+|976|LAMU|Kenya|17|
+|977|MOMBASA|Kenya|276|
+|978|NAIROBI|Kenya|11|
+|979|VANGA|Kenya|5|
+|980|UMM_SAID|Qatar|12|
+|981|DOHA|Qatar|231|
+|982|HALUL_ISLAND|Qatar|11|
+|983|ST_DENIS|Qatar|12|
+|984|ST.LOUIS|Qatar|2|
+|985|SANTO_TOMAS_MILPAS_ALTAS|Guatemala|12|
+|986|PUERTO_QUETZAL|Guatemala|12|
+|987|CHAMPERICO|Guatemala|229|
+|988|GUATEMALA_CITY|Guatemala|13|
+|989|PUERTO_BARRIOS|Guatemala|11|
+|990|LIVINGSTON|Guatemala|11|
+|991|SANTO_TOMAS_DE_CASTILLA|Guatemala|14|
+|992|SANDEFJORD|Norway|6|
+|993|TVEDESTRAND|Norway|5|
+|994|KVINESDAL|Norway|5|
+|995|NARVIK|Norway|3|
+|996|KRISTIANSAND|Norway|6|
+|997|SKUDENESHAVN|Norway|5|
+|998|MOSS|Norway|2|
+|999|SARPSBORG|Norway|4|
+|1000|HOYANGER|Norway|5|
+|1001|KOPERVIK|Norway|5|
+|1002|BERGEN|Norway|73|
+|1003|SVOLVAER|Norway|6|
+|1004|HOLMESTRAND|Norway|3|
+|1005|KRAGERO|Norway|5|
+|1006|MOLDE|Norway|5|
+|1007|VARDO|Norway|6|
+|1008|SANDNES|Norway|5|
+|1009|HAVIK|Norway|5|
+|1010|MO I RANA|Norway|4|
+|1011|ALESUND|Norway|4|
+|1012|TOU|Norway|5|
+|1013|LODINGEN|Norway|5|
+|1014|OPLO|Norway|2|
+|1015|FREDRIKSTAD|Norway|4|
+|1016|LARVIK|Norway|5|
+|1017|VAKSDAL|Norway|5|
+|1018|BODO|Norway|5|
+|1019|BREVIK|Norway|3|
+|1020|TANANGER|Norway|6|
+|1021|ODDA|Norway|2|
+|1022|ARENDAL|Norway|5|
+|1023|TOFTEN|Norway|4|
+|1024|KIRKENES|Norway|5|
+|1025|NAERSNES|Norway|5|
+|1026|TROMSO|Norway|4|
+|1027|KRISTIANSUND_N|Norway|5|
+|1028|MANDAL|Norway|5|
+|1029|FARSUND|Norway|4|
+|1030|FLEKKEFJORD|Norway|5|
+|1031|MONGSTAD|Norway|7|
+|1032|OSLO|Norway|90|
+|1033|GRIMSTAD|Norway|5|
+|1034|HARSTAD|Norway|5|
+|1035|MENSTAD|Norway|4|
+|1036|MAALOY|Norway|2|
+|1037|MALM|Norway|4|
+|1038|TRONDHEIM|Norway|5|
+|1039|LYNGOR|Norway|5|
+|1040|SVELGEN|Norway|5|
+|1041|SAUDA|Norway|5|
+|1042|SVELVIK|Norway|5|
+|1043|FLORO|Norway|6|
+|1044|SKIEN|Norway|2|
+|1045|STAVANGER|Norway|6|
+|1046|EGERSUND|Norway|5|
+|1047|STEINKJER|Norway|3|
+|1048|FAGERSTRAND|Norway|5|
+|1049|TONSBERG|Norway|5|
+|1050|ARDALSTANGEN|Norway|3|
+|1051|Frederikstad|Norway|30|
+|1052|THAMSHAMN|Norway|6|
+|1053|HUSNES|Norway|3|
+|1054|RISOR|Norway|4|
+|1055|VOLDA|Norway|5|
+|1056|HAMMERFEST|Norway|5|
+|1057|DRAMMEN|Norway|5|
+|1058|MOSJOEN|Norway|6|
+|1059|EITRHEIM|Norway|5|
+|1060|SUNNDALSORA|Norway|3|
+|1061|PORSGRUNN|Norway|2|
+|1062|LILLESAND|Norway|6|
+|1063|HEROYA|Norway|5|
+|1064|VADSO|Norway|3|
+|1065|HAUGESUND|Norway|5|
+|1066|HALDEN|Norway|3|
+|1067|KLEVEN|Norway|5|
+|1068|NAMSOS|Norway|6|
+|1069|SLAGEN|Norway|5|
+|1070|HORTEN|Norway|5|
+|1071|BRONNOYSUND|Norway|5|
+|1072|ANTIGUA|Antigua and Barbuda|9|
+|1073|ST_JOHNS|Antigua and Barbuda|38|
+|1074|PAPHOS|Cyprus|6|
+|1075|MONI_ANCHORAGE|Cyprus|5|
+|1076|KYRENIA|Cyprus|5|
+|1077|DIKHELIA|Cyprus|5|
+|1078|FAMAGUSTA|Cyprus|5|
+|1079|AKROTIRI|Cyprus|6|
+|1080|LARNACA|Cyprus|4|
+|1081|MORPHOU_BAY|Cyprus|4|
+|1082|KARAVOSTASSI|Cyprus|2|
+|1083|LATCHI|Cyprus|6|
+|1084|VASSILIKO_BAY|Cyprus|4|
+|1085|LIMASSOL|Cyprus|76|
+|1086|PORTO|Portugal|68|
+|1087|OLHAO|Portugal|2|
+|1088|LISBON|Portugal|5|
+|1089|SINES|Portugal|29|
+|1090|LEIXOES|Portugal|26|
+|1091|VIANA_DO_CASTELO|Portugal|8|
+|1092|AVEIRO|Portugal|17|
+|1093|FIGUEIRA|Portugal|5|
+|1094|BARREIRO|Portugal|5|
+|1095|POMARAO|Portugal|1|
+|1096|SETUBAL|Portugal|30|
+|1097|PORT LOUIS|Mauritius|131|
+|1098|MINA_SULMAN|Bahrain|10|
+|1099|SITRA|Bahrain|11|
+|1100|AI_MANAMAH|Bahrain|7|
+|1101|BAHRAIN|Bahrain|14|
+|1102|ALBAJETTY|Bahrain|10|
+|1103|GRAND BASSAM|Ivory Coast|4|
+|1104|SASSANDRA|Ivory Coast|4|
+|1105|ASSINIE|Ivory Coast|5|
+|1106|TABOU|Ivory Coast|3|
+|1107|FRESCO|Ivory Coast|1|
+|1108|ABIDJAN|Ivory Coast|5|
+|1109|SAN PEDRO,CI|Ivory Coast|3|
+|1110|ZIGHINKOR|Senegal|6|
+|1111|DAKAR|Senegal|3|
+|1112|KALOLACK|Senegal|1|
+|1113|YAP|Micronesia|5|
+|1114|EBEYE|Micronesia|5|
+|1115|KOSRAE|Micronesia|5|
+|1116|AZ_ZAWIYAH|Libya|6|
+|1117|BARDIA|Libya|13|
+|1118|ZLEITEN|Libya|8|
+|1119|TRIPOLI,LY|Libya|1|
+|1120|MISURATA|Libya|1|
+|1121|ZUARA|Libya|4|
+|1122|ES_SIDER|Libya|7|
+|1123|RAS_LANUF|Libya|5|
+|1124|ALKHOMS|Libya|6|
+|1125|DERNA|Libya|8|
+|1126|KHOMS|Libya|1|
+|1127|MARSA_EL_BREGA|Libya|11|
+|1128|ZUETINA|Libya|5|
+|1129|TOBRUK|Libya|8|
+|1130|BENGHAZI|Libya|1|
+|1131|PORT_IBRAHIM|Egypt|5|
+|1132|DEKHILA|Egypt|3|
+|1133|ALEXANDRIA|Egypt|5|
+|1134|SIDI_KERIR|Egypt|1|
+|1135|PORT_TEWFIK|Egypt|2|
+|1136|6TH_OF_OCTOBER|Egypt|3|
+|1137|SAFAGA|Egypt|15|
+|1138|NUWEIBA|Egypt|30|
+|1139|AIN_SUKHNA|Egypt|1|
+|1140|RAS_GHARIB|Egypt|15|
+|1141|SHARM_EL_SHEIKH|Egypt|26|
+|1142|El ADABEYA|Egypt|23|
+|1143|DAMIETTA|Egypt|7|
+|1144|MERSA_EL_HAMRA|Egypt|3|
+|1145|PETROLEUM_BESIN|Egypt|40|
+|1146|WADI_FEIRAN|Egypt|2|
+|1147|ADABIYA|Egypt|5|
+|1148|KOSSEIR|Egypt|1|
+|1149|SALUM|Egypt|3|
+|1150|ABU_ZENIMA|Egypt|12|
+|1151|RAS_SHUKHEIR|Egypt|25|
+|1152|MERSA_MATRUH|Egypt|1|
+|1153|PORT_SAID|Egypt|63|
+|1154|SUEZ|Egypt|46|
+|1155|10TH_OF_RAMADAN_CITY|Egypt|1|
+|1156|CAIRO|Egypt|1|
+|1157|SOKHNA|Egypt|16|
+|1158|KUALA_BELAIT|Brunei|4|
+|1159|TANJONG_SALIRONG|Brunei|5|
+|1160|MUARA_HARBOUR|Brunei|11|
+|1161|SERIA|Brunei|5|
+|1162|BANDAR_SERI_BEGAWAN|Brunei|5|
+|1163|YAREN|Nauru|4|
+|1164|NAURU_ISLAND|Nauru|5|
+|1165|MASCOM|Lesotho|1|
+|1166|BUBAQUE|Guinea-Bissau|3|
+|1167|BOLAMA|Guinea-Bissau|2|
+|1168|CACHEU|Guinea-Bissau|4|
+|1169|BISSAU|Guinea-Bissau|5|
+|1170|MUTARE|Zimbabwe|2|
+|1171|HARARE|Zimbabwe|2|
+|1172|BULAWAYO|Zimbabwe|2|
+|1173|GWERU|Zimbabwe|3|
+|1174|KWEKWE|Zimbabwe|2|
+|1175|AGANA|Guam|5|
+|1176|GUAM|Guam|4|
+|1177|APRA|Guam|4|
+|1178|PONAPE|Pacific_islands|16|
+|1179|GOUROCK|United Kingdom|6|
+|1180|COLCHESTER|United Kingdom|3|
+|1181|SOUTH_SHIELDS|United Kingdom|4|
+|1182|METHIL|United Kingdom|5|
+|1183|PORTSMOUTH|United Kingdom|5|
+|1184|GIRVAN|United Kingdom|5|
+|1185|LITTLEHAMPTON|United Kingdom|5|
+|1186|SEAHAM|United Kingdom|5|
+|1187|LARNE|United Kingdom|5|
+|1188|LARGS|United Kingdom|5|
+|1189|LIVERPOOL|United Kingdom|5|
+|1190|GREAT_YARMOUTH|United Kingdom|5|
+|1191|PERTH,GB|United Kingdom|5|
+|1192|BRIDLINGTON|United Kingdom|4|
+|1193|TOPSHAM|United Kingdom|5|
+|1194|BIRMINGHAM|United Kingdom|5|
+|1195|BLYTH|United Kingdom|2|
+|1196|TENBY|United Kingdom|5|
+|1197|WICK|United Kingdom|9|
+|1198|PWLLHELI|United Kingdom|5|
+|1199|TETNEY_TERMINAL|United Kingdom|5|
+|1200|PORTLADN_BILL|United Kingdom|5|
+|1201|CARRICKFERGUS|United Kingdom|5|
+|1202|GRAVESEND|United Kingdom|5|
+|1203|AVONMOUTH|United Kingdom|216|
+|1204|LERWICK|United Kingdom|5|
+|1205|GAINSHBOROUGH|United Kingdom|2|
+|1206|LYDNEY|United Kingdom|3|
+|1207|CHARLESTOWN(FIFE.)|United Kingdom|5|
+|1208|GRIMSBY|United Kingdom|5|
+|1209|BRIGHTON|United Kingdom|3|
+|1210|TILBURY|United Kingdom|5|
+|1211|RAMSGATE|United Kingdom|5|
+|1212|PORTREE|United Kingdom|5|
+|1213|SCRABSTER|United Kingdom|4|
+|1214|SULLOM_VOE|United Kingdom|5|
+|1215|MILLOM|United Kingdom|5|
+|1216|BUCKIE|United Kingdom|5|
+|1217|STOCKPORT|United Kingdom|5|
+|1218|FAWLEY|United Kingdom|5|
+|1219|RIDHAM_DOCK|United Kingdom|5|
+|1220|THAMESPORT|United Kingdom|5|
+|1221|DOVER|United Kingdom|7|
+|1222|STRANGFORD|United Kingdom|5|
+|1223|SCALLOWAY|United Kingdom|5|
+|1224|NEWCASTLE(TYNE)|United Kingdom|5|
+|1225|SUNDERLAND|United Kingdom|5|
+|1226|BRIDPORT|United Kingdom|5|
+|1227|INVERNESS|United Kingdom|6|
+|1228|BRISTOL|United Kingdom|7|
+|1229|NORWICH|United Kingdom|5|
+|1230|SUTTON_BRIDGE|United Kingdom|5|
+|1231|COLERAINE|United Kingdom|1|
+|1232|HULL|United Kingdom|5|
+|1233|LYBSTER|United Kingdom|0|
+|1234|WARKWORTH|United Kingdom|5|
+|1235|FLEETWOOD|United Kingdom|5|
+|1236|WATCHET|United Kingdom|5|
+|1237|TORQUAY|United Kingdom|5|
+|1238|ROTHESAY|United Kingdom|4|
+|1239|STANLOW|United Kingdom|5|
+|1240|FALMOUTH|United Kingdom|5|
+|1241|HARWICH|United Kingdom|5|
+|1242|CROMARTY|United Kingdom|6|
+|1243|GLOUCESTER|United Kingdom|5|
+|1244|GUNNESS_WHARF|United Kingdom|5|
+|1245|BELFAST|United Kingdom|2|
+|1246|COWES|United Kingdom|7|
+|1247|THURSO|United Kingdom|5|
+|1248|NEWHAVEN|United Kingdom|5|
+|1249|EYEMOUTH|United Kingdom|5|
+|1250|ARBROATH|United Kingdom|39|
+|1251|ABERDOUR|United Kingdom|9|
+|1252|ST.IVES|United Kingdom|5|
+|1253|PENZANCE|United Kingdom|5|
+|1254|ABERDEEN|United Kingdom|622|
+|1255|BARMOUTH|United Kingdom|6|
+|1256|ULLAPOOL|United Kingdom|5|
+|1257|MOSTYN|United Kingdom|5|
+|1258|SANUDERSFOOT|United Kingdom|5|
+|1259|TROON|United Kingdom|5|
+|1260|ST.HELIER|United Kingdom|5|
+|1261|LOWESTOFT|United Kingdom|0|
+|1262|DUNDEE|United Kingdom|4|
+|1263|PRESTON|United Kingdom|5|
+|1264|WESTRAY|United Kingdom|3|
+|1265|TEIGNMOUTH|United Kingdom|5|
+|1266|BARTON|United Kingdom|5|
+|1267|DARTMOUTH|United Kingdom|5|
+|1268|CHARLESTOWN(CORN.)|United Kingdom|5|
+|1269|PORT_TALBOT|United Kingdom|0|
+|1270|PORTHMADOG|United Kingdom|5|
+|1271|STOCKTON|United Kingdom|5|
+|1272|OBAN|United Kingdom|5|
+|1273|CARDIFF|United Kingdom|5|
+|1274|CASTLETOWN|United Kingdom|1|
+|1275|KIRKCALDY|United Kingdom|5|
+|1276|SOUTHEND|United Kingdom|5|
+|1277|AYR|United Kingdom|90|
+|1278|ARDGLASS|United Kingdom|24|
+|1279|STRANRAER|United Kingdom|5|
+|1280|LAME|United Kingdom|0|
+|1281|TOTNES|United Kingdom|5|
+|1282|PENMAENMAWR|United Kingdom|5|
+|1283|STROMNESS|United Kingdom|5|
+|1284|MACDUFF|United Kingdom|1|
+|1285|GLASGOW|United Kingdom|12|
+|1286|MINEHEAD|United Kingdom|5|
+|1287|BURGHEAD|United Kingdom|5|
+|1288|SWANSEA|United Kingdom|5|
+|1289|IRVINE|United Kingdom|2|
+|1290|KYLE_OF_LOCHALS|United Kingdom|5|
+|1291|GREENOCK|United Kingdom|5|
+|1292|MALDON|United Kingdom|2|
+|1293|WHITBY|United Kingdom|2|
+|1294|PORT_ELLEN|United Kingdom|5|
+|1295|PEMBROKE_DOCK|United Kingdom|5|
+|1296|ISLE_OF_GRAIN|United Kingdom|6|
+|1297|BURNTISLAND|United Kingdom|5|
+|1298|BOSTON|United Kingdom|14|
+|1299|LANCASTER|United Kingdom|5|
+|1300|POOLE|United Kingdom|5|
+|1301|HEYSHAM|United Kingdom|5|
+|1302|PORTBURY|United Kingdom|5|
+|1303|ST.PETER_PORT|United Kingdom|5|
+|1304|PARKESTON_QUAY|United Kingdom|5|
+|1305|NEATH|United Kingdom|5|
+|1306|AMLWCH|United Kingdom|46|
+|1307|TYNE_DOCK|United Kingdom|5|
+|1308|LOSSIEMOUTH|United Kingdom|0|
+|1309|DUNBAR|United Kingdom|8|
+|1310|EXETER|United Kingdom|5|
+|1311|NEWPORT(I.O.W.)|United Kingdom|3|
+|1312|FISHGUARD|United Kingdom|10|
+|1313|HUNTERSTON|United Kingdom|5|
+|1314|BARROW|United Kingdom|181|
+|1315|PORTLADN(DOR.)|United Kingdom|5|
+|1316|WEYMOUTH|United Kingdom|1|
+|1317|MILFORD_HAVEN|United Kingdom|5|
+|1318|SHOREHAM|United Kingdom|5|
+|1319|ELLESMERE_PORT|United Kingdom|5|
+|1320|IMMINGHAM|United Kingdom|5|
+|1321|EDINBURGH|United Kingdom|2|
+|1322|FOLKESTONE|United Kingdom|5|
+|1323|BROMBOROUGH_DOCK|United Kingdom|5|
+|1324|NEWLYN|United Kingdom|5|
+|1325|LLANELLI|United Kingdom|5|
+|1326|NEWPORT(MON.)|United Kingdom|7|
+|1327|MONTROSE|United Kingdom|5|
+|1328|EXMOUTH|United Kingdom|5|
+|1329|MIDDLESBROUGH|United Kingdom|4|
+|1330|SELBY|United Kingdom|5|
+|1331|TOBERMORY|United Kingdom|5|
+|1332|CAERNARFON|United Kingdom|4|
+|1333|DUNDRUM|United Kingdom|5|
+|1334|PORT_WILLIAM|United Kingdom|2|
+|1335|STONEHAVEN|United Kingdom|5|
+|1336|PARTINGTON|United Kingdom|5|
+|1337|WORKINGTON|United Kingdom|5|
+|1338|IPSWICH|United Kingdom|5|
+|1339|DUMFRIES|United Kingdom|4|
+|1340|RUNCORN|United Kingdom|5|
+|1341|STORNOWAY|United Kingdom|5|
+|1342|LOCH_MADDY|United Kingdom|5|
+|1343|LEEDS|United Kingdom|5|
+|1344|ANSTRUTHER|United Kingdom|134|
+|1345|RAMSEY|United Kingdom|5|
+|1346|DOUGLAS|United Kingdom|0|
+|1347|BIDEFORD|United Kingdom|3|
+|1348|APPLEDORE|United Kingdom|120|
+|1349|WHITSTABLE|United Kingdom|4|
+|1350|BARRY|United Kingdom|117|
+|1351|NEWBURGH|United Kingdom|5|
+|1352|SHELL_HAVEN|United Kingdom|5|
+|1353|NEWRY|United Kingdom|5|
+|1354|LOCH_BOISDALE|United Kingdom|5|
+|1355|ANNALONG|United Kingdom|9|
+|1356|NAIRN|United Kingdom|5|
+|1357|REDCAR|United Kingdom|5|
+|1358|RICHBOROUGH|United Kingdom|5|
+|1359|DINGWALL|United Kingdom|3|
+|1360|SOUTHAMPTON|United Kingdom|1355|
+|1361|ALDERNEY|United Kingdom|9|
+|1362|WARREN_POINT|United Kingdom|7|
+|1363|LOOE|United Kingdom|2|
+|1364|PLYMOUTH|United Kingdom|5|
+|1365|PALNACKIE|United Kingdom|5|
+|1366|LEITH|United Kingdom|5|
+|1367|BRIGHTLINGSEA|United Kingdom|4|
+|1368|NORTH_SUNDERLAND|United Kingdom|5|
+|1369|FELIXSTOWE|United Kingdom|176|
+|1370|MANCHESTER|United Kingdom|2|
+|1371|HARTLEPOOL|United Kingdom|5|
+|1372|SHARPNESS|United Kingdom|5|
+|1373|HAYLE|United Kingdom|5|
+|1374|BIRKENHEAD|United Kingdom|3|
+|1375|MEVAGISSEY|United Kingdom|1|
+|1376|QUEENBOROUGH|United Kingdom|5|
+|1377|QUEENSFERRY|United Kingdom|5|
+|1378|LONDON|United Kingdom|1|
+|1379|LOCHALINE_PIER|United Kingdom|2|
+|1380|MALLAIG|United Kingdom|5|
+|1381|LONDONDERRY|United Kingdom|1|
+|1382|WELLS|United Kingdom|9|
+|1383|RAINHAM|United Kingdom|5|
+|1384|RHYL|United Kingdom|5|
+|1385|GARLIESTON|United Kingdom|13|
+|1386|PORT_ST.MARY|United Kingdom|0|
+|1387|CAMPBELTOWN|United Kingdom|5|
+|1388|HOUND_POINT|United Kingdom|5|
+|1389|PDSTOW|United Kingdom|5|
+|1390|CORPACH|United Kingdom|8|
+|1391|FINNART|United Kingdom|5|
+|1392|GOOLE|United Kingdom|1|
+|1393|FOWEY|United Kingdom|5|
+|1394|BEAUMARIS|United Kingdom|9|
+|1395|WHITEHAVEN|United Kingdom|2|
+|1396|ABERDOVERY|United Kingdom|8|
+|1397|WISBECH|United Kingdom|2|
+|1398|TEESPORT|United Kingdom|5|
+|1399|ARDRISHAIG|United Kingdom|17|
+|1400|BRIDGWATER|United Kingdom|1|
+|1401|PORT_ASKAIG|United Kingdom|5|
+|1402|INVERGORDON|United Kingdom|5|
+|1403|FRASERBURGH|United Kingdom|5|
+|1404|ANNAN|United Kingdom|5|
+|1405|SANDWICH|United Kingdom|5|
+|1406|PEEL|United Kingdom|5|
+|1407|TRURO|United Kingdom|5|
+|1408|PETERHEAD|United Kingdom|5|
+|1409|TARBERT|United Kingdom|5|
+|1410|GARSTON|United Kingdom|5|
+|1411|LLANDDULAS|United Kingdom|5|
+|1412|MISTLEY|United Kingdom|5|
+|1413|ARDROSSAN|United Kingdom|54|
+|1414|KILKEEL|United Kingdom|7|
+|1415|GLENARM|United Kingdom|5|
+|1416|PORTRUSH|United Kingdom|5|
+|1417|KILLINGHOLME|United Kingdom|5|
+|1418|PAR|United Kingdom|5|
+|1419|BRIXHAM|United Kingdom|5|
+|1420|SCAPA_FLOW|United Kingdom|5|
+|1421|CHRISTIANSTED|United State Virgin Islands|5|
+|1422|ST_THOMAS|United State Virgin Islands|5|
+|1423|FREDERIKSTED|United State Virgin Islands|5|
+|1424|HOHGAY|Vietnam|3|
+|1425|SAIGON|Vietnam|5|
+|1426|HOCHIMINH VICT|Vietnam|5|
+|1427|NHA_TRANG|Vietnam|4|
+|1428|TAN_CANG_PORT|Vietnam|4|
+|1429|PORT_REDON|Vietnam|3|
+|1430|Cam_Pha|Vietnam|58|
+|1431|PORT_CAMPHA|Vietnam|3|
+|1432|VINH|Vietnam|3|
+|1433|HOCHIMINH CAT LAI|Vietnam|5|
+|1434|MY_THO|Vietnam|4|
+|1435|PHUOC_LONG|Vietnam|2|
+|1436|VUNG_TAU|Vietnam|2|
+|1437|BEN_THUI|Vietnam|2|
+|1438|HUE|Vietnam|5|
+|1439|HAIPHONG|Vietnam|7|
+|1440|KWANG_YEN|Vietnam|4|
+|1441|Cam_Ranh|Vietnam|124|
+|1442|QUI_NHON|Vietnam|2|
+|1443|HOCHIMINH_NEW_PORT|Vietnam|5|
+|1444|HANOI|Vietnam|6|
+|1445|DANANG|Vietnam|61|
+|1446|KIGALI|Rwanda|3|
+|1447|ZAHRANI|Lebanon|13|
+|1448|BEIRUT|Lebanon|7|
+|1449|SOUR|Lebanon|3|
+|1450|JOUNIEH|Lebanon|5|
+|1451|SIDON|Lebanon|4|
+|1452|TRIPOLI|Lebanon|6|
+|1453|CHEKKA|Lebanon|4|
+|1454|RAS_SELATA|Lebanon|4|
+|1455|ALEXANDROUPOLIS|Greece|95|
+|1456|GAVRION|Greece|2|
+|1457|ELEUSIS|Greece|4|
+|1458|LRAKLION|Greece|5|
+|1459|LEROS_ISLAND|Greece|3|
+|1460|ISTHMIA|Greece|5|
+|1461|THESSALONIKI|Greece|108|
+|1462|CANEA|Greece|15|
+|1463|LAVRIO|Greece|13|
+|1464|PYLOS|Greece|9|
+|1465|METHONI|Greece|3|
+|1466|ZANTE|Greece|3|
+|1467|KALYMNOS_ISLAND|Greece|8|
+|1468|YERAKINI|Greece|0|
+|1469|ASTAKOS|Greece|21|
+|1470|LAURIUM|Greece|4|
+|1471|KALAMAKI|Greece|2|
+|1472|ARGOSTOLI|Greece|49|
+|1473|MITYLENE|Greece|3|
+|1474|SAMOS|Greece|10|
+|1475|CORINTH|Greece|14|
+|1476|NAUPLIA|Greece|12|
+|1477|PORT_VATHY|Greece|2|
+|1478|KEA_ISLAND|Greece|8|
+|1479|DRAPETZONA|Greece|8|
+|1480|CORFU|Greece|88|
+|1481|VOLOS|Greece|53|
+|1482|KALILIMENES|Greece|1|
+|1483|SKOPELOS|Greece|14|
+|1484|MESOLONGION|Greece|3|
+|1485|CHALKIS|Greece|24|
+|1486|RETHIMNON|Greece|3|
+|1487|AGIOI_THEODOROI|Greece|21|
+|1488|NAVPAKTOS|Greece|6|
+|1489|KOUTALA|Greece|1|
+|1490|STRATONI|Greece|4|
+|1491|IGOUMENITSA|Greece|14|
+|1492|SUDA_BAY|Greece|6|
+|1493|LIMIN_SIROU|Greece|2|
+|1494|KATAKOLO|Greece|15|
+|1495|YALI_ISLAND|Greece|8|
+|1496|PREVEZA|Greece|5|
+|1497|AGHIOS_LOANNIS|Greece|8|
+|1498|MILOS_ISLANDS|Greece|16|
+|1499|KALAMATA|Greece|5|
+|1500|GYTHION|Greece|10|
+|1501|PATMOS ISLAND|Greece|4|
+|1502|CHIOS|Greece|43|
+|1503|ITEA|Greece|1|
+|1504|IRAKLION|Greece|9|
+|1505|ASPROPYRGOS|Greece|57|
+|1506|PORT_LIVADHI|Greece|4|
+|1507|AGHIOS_NIKOLAOS|Greece|228|
+|1508|PIRAEUS|Greece|140|
+|1509|RHODES_ISLAND|Greece|19|
+|1510|KAMENAKI|Greece|6|
+|1511|KAVALLA|Greece|3|
+|1512|AGIOS_IOANNIS|Greece|165|
+|1513|MEGARA|Greece|2|
+|1514|PATRAS|Greece|21|
+|1515|ITHAKA_ISLAND|Greece|20|
+|1516|NEA_KARVALI|Greece|1|
+|1517|HAFNARFJORD|Iceland|65|
+|1518|HUSAVIK|Iceland|39|
+|1519|ISAFJORD|Iceland|63|
+|1520|PATREKSFJORD|Iceland|108|
+|1521|AKUREYRI|Iceland|44|
+|1522|NESKAUPSTADUR|Iceland|37|
+|1523|SEYDISFJORD|Iceland|61|
+|1524|STRAUMSVIK|Iceland|1|
+|1525|SIGLUFJORD|Iceland|1|
+|1526|AKRANES|Iceland|58|
+|1527|SKOPJE|Macedonia|3|
+|1528|PUERTO_LIMON|Costa Rica|50|
+|1529|SAN_JOSE|Costa Rica|65|
+|1530|GOLFITO|Costa Rica|39|
+|1531|QUEPOS|Costa Rica|72|
+|1532|PUERTO_CALDERA|Costa Rica|84|
+|1533|KAMSAR|Guinea|8|
+|1534|CONAKRY|Guinea|5|
+|1535|VATIA_POINT|Fiji|5|
+|1536|SUVA|Fiji|5|
+|1537|LAMBASA|Fiji|4|
+|1538|LEVUKA|Fiji|5|
+|1539|SAVUSAVU_BAY|Fiji|5|
+|1540|LAUTOKA|Fiji|5|
+|1541|ELLINGTON|Fiji|4|
+|1542|NADOR|Morocco|1|
+|1543|EL_JADIDA|Morocco|1|
+|1544|SAFI|Morocco|1|
+|1545|KENITRA|Morocco|1|
+|1546|RABAT|Morocco|1|
+|1547|TANGIER|Morocco|0|
+|1548|CASABLANCA|Morocco|116|
+|1549|MOHAMMEDIA|Morocco|15|
+|1550|JORF_LASFAR|Morocco|1|
+|1551|AGADIR|Morocco|1|
+|1552|LARACHE|Morocco|1|
+|1553|Boujdour|Morocco|16|
+|1554|ESSAOUIRA|Morocco|1|
+|1555|PORT_TANGIER_MEDITERRANEE|Morocco|1|
+|1556|TARFAYA|Morocco|11|
+|1557|SULINA|Romania|8|
+|1558|MANGALIA|Romania|7|
+|1559|BRAILA|Romania|50|
+|1560|GALATZ|Romania|6|
+|1561|CONSTANTZA|Romania|5|
+|1562|BUCHAREST|Romania|13|
+|1563|TULCEA|Romania|6|
+|1564|ORANGESTAD|Aruba|8|
+|1565|PORT_LATTA|Australia|5|
+|1566|RISDON|Australia|5|
+|1567|PERTH|Australia|4|
+|1568|PORT_HERON|Australia|5|
+|1569|KINGSCOTE|Australia|7|
+|1570|KWINANA|Australia|15|
+|1571|LUCINDA|Australia|8|
+|1572|ALOFI|Australia|6|
+|1573|PORT_HEDLAND|Australia|5|
+|1574|BOTANY_BAY|Australia|24|
+|1575|PART_MACGUARIE|Australia|5|
+|1576|PORT_GILES|Australia|8|
+|1577|GRAFTON|Australia|6|
+|1578|EDEN|Australia|7|
+|1579|ALBANY|Australia|13|
+|1580|STANLEY|Australia|5|
+|1581|BUSSELTON|Australia|5|
+|1582|DAMPIER|Australia|31|
+|1583|PAGO_PAGO|Australia|5|
+|1584|THEVENARD|Australia|5|
+|1585|BOWEN|Australia|7|
+|1586|PORT_STANVAC|Australia|6|
+|1587|USELESS_LOOP|Australia|4|
+|1588|BROOME|Australia|11|
+|1589|APIA|Australia|6|
+|1590|CASCADE_BAY|Australia|6|
+|1591|NEWCASTLE|Australia|22|
+|1592|HAY_POINT|Australia|76|
+|1593|BALLAST_HEAD|Australia|7|
+|1594|WHYALLA|Australia|9|
+|1595|STRAHAN|Australia|8|
+|1596|RAPID_BAY|Australia|6|
+|1597|URANGAN|Australia|5|
+|1598|WEIPA|Australia|9|
+|1599|THURSDAY_ISLAND|Australia|7|
+|1600|DARWIN|Australia|24|
+|1601|PART_LINCOLN|Australia|5|
+|1602|PORT_ALMA|Australia|6|
+|1603|MACKAY|Australia|13|
+|1604|BRISBANE|Australia|39|
+|1605|KINGSTON_AU|Australia|7|
+|1606|GAPE_CUVIER|Australia|4|
+|1607|EDITHBURGH|Australia|4|
+|1608|PORT_PIRIE|Australia|5|
+|1609|WESTERN_PORT|Australia|4|
+|1610|PART_KEMBLA|Australia|5|
+|1611|INNISFAIL|Australia|6|
+|1612|GEELONG|Australia|32|
+|1613|BARROW_ISLAND|Australia|9|
+|1614|WALLAROO|Australia|18|
+|1615|BELL_BAY|Australia|17|
+|1616|MARYBOROUGH|Australia|5|
+|1617|LUGANVILLE|Australia|5|
+|1618|PART_VILA|Australia|5|
+|1619|ADELAIDE|Australia|37|
+|1620|BEAUTY_POINT|Australia|5|
+|1621|BURNIE|Australia|10|
+|1622|GROOTE_EYLANDT|Australia|5|
+|1623|CARNARVON|Australia|5|
+|1624|PORT_WALCOTT|Australia|7|
+|1625|KINGSTON_NF|Australia|52|
+|1626|AOCICHAMPTON|Australia|7|
+|1627|BUNBURY|Australia|24|
+|1628|MELBOURNE|Australia|7|
+|1629|ABBOT_BAY|Australia|31|
+|1630|GERALDTON|Australia|33|
+|1631|FUNAFUTI|Australia|8|
+|1632|GLADSTONE|Australia|64|
+|1633|PORT_AUGUSTA|Australia|5|
+|1634|YAMPI_SOUND|Australia|9|
+|1635|TOWNSVILLE|Australia|17|
+|1636|STENHOUSE_BAY|Australia|5|
+|1637|MACTAN|Australia|5|
+|1638|DERBY|Australia|5|
+|1639|GOVE|Australia|18|
+|1640|YAMBA|Australia|5|
+|1641|CAIRNS|Australia|35|
+|1642|BUNDABERG|Australia|9|
+|1643|DEVONPORT|Australia|20|
+|1644|WYNDHAM|Australia|6|
+|1645|CAPE_LAMBERT|Australia|10|
+|1646|FREMANTLE|Australia|42|
+|1647|SYDNEY|Australia|17|
+|1648|PORTLAND|Australia|7|
+|1649|MOURILYAN|Australia|5|
+|1650|PORT_JACKSON|Australia|5|
+|1651|COOKTOWN|Australia|9|
+|1652|HOBART|Australia|12|
+|1653|NEW CASTLE|Australia|20|
+|1654|ESPERANCE|Australia|21|
+|1655|LAUNCESTON|Australia|6|
+|1656|ARDROSSAN|Australia|7|
+|1657|DJIBOUTI|Djibouti|59|
+|1658|HOSOSHIMA|Japan|5|
+|1659|NISHINOMIYA|Japan|5|
+|1660|SHIMONOSEKI|Japan|2|
+|1661|RUMOI|Japan|5|
+|1662|KUDAMATSU|Japan|5|
+|1663|MIYAZZAKI|Japan|5|
+|1664|HIROHATA|Japan|5|
+|1665|YAWATA|Japan|5|
+|1666|TOYAMA|Japan|5|
+|1667|OGISHIMA|Japan|5|
+|1668|UBE|Japan|5|
+|1669|TOKUSHIMA|Japan|5|
+|1670|YOTUKURA|Japan|3|
+|1671|HAMADA|Japan|10|
+|1672|ABURATSU|Japan|5|
+|1673|INNOSHIMA|Japan|5|
+|1674|MONBETSU|Japan|5|
+|1675|NAOSHIMA_ISLAND|Japan|3|
+|1676|OKINAWA|Japan|2|
+|1677|IZUHARA|Japan|5|
+|1678|OFUNATO|Japan|5|
+|1679|OSAKA|Japan|93|
+|1680|MARUGAME|Japan|5|
+|1681|MISIMA|Japan|4|
+|1682|NIIHAMA|Japan|5|
+|1683|ATSUMI|Japan|5|
+|1684|SAKITO|Japan|6|
+|1685|KIN_WAN|Japan|5|
+|1686|HISANOHAMA|Japan|5|
+|1687|SENBOKU|Japan|4|
+|1688|HIRAO|Japan|5|
+|1689|KANOKAWA|Japan|5|
+|1690|TOBATA|Japan|5|
+|1691|TONDA|Japan|5|
+|1692|SAKATA|Japan|5|
+|1693|SHINKO|Japan|5|
+|1694|MATEGATA|Japan|5|
+|1695|TSURUSAKI|Japan|5|
+|1696|SAKAIDE|Japan|5|
+|1697|GAMAGORI|Japan|10|
+|1698|ONAHAMA|Japan|5|
+|1699|MAKIYAMA|Japan|5|
+|1700|SHIMOTSU|Japan|4|
+|1701|OWASE|Japan|5|
+|1702|NAGOYA|Japan|8|
+|1703|TOTTORI|Japan|5|
+|1704|IRAKO|Japan|5|
+|1705|YOKOHAMA|Japan|16|
+|1706|KUMAMOTO|Japan|5|
+|1707|KISARAZU|Japan|5|
+|1708|TAGONOURA|Japan|5|
+|1709|NIIGATA_HIGASHI|Japan|5|
+|1710|TOKYO|Japan|10|
+|1711|KANDA|Japan|5|
+|1712|NIGATA|Japan|5|
+|1713|TAKUMA|Japan|5|
+|1714|KINUURA|Japan|5|
+|1715|KANMON|Japan|5|
+|1716|KASAOKA|Japan|5|
+|1717|KOKURA|Japan|5|
+|1718|NAOETSU|Japan|5|
+|1719|KOMATSUSHIMA|Japan|5|
+|1720|IZUMISANO|Japan|5|
+|1721|MATSUNAGA|Japan|5|
+|1722|NEMURO|Japan|5|
+|1723|YOKKAICHI|Japan|5|
+|1724|SINMINATO|Japan|4|
+|1725|KIKUMA|Japan|5|
+|1726|KAKOGAWA|Japan|5|
+|1727|HIMEJI|Japan|5|
+|1728|SHIKAMA|Japan|12|
+|1729|SAIKI|Japan|5|
+|1730|KIIRE|Japan|5|
+|1731|MIKAWA|Japan|5|
+|1732|ENA|Japan|1|
+|1733|TOMAKOMAI|Japan|4|
+|1734|ABASHIRI|Japan|5|
+|1735|HITACHINAKA|Japan|5|
+|1736|HANDA|Japan|5|
+|1737|MUTSURE|Japan|5|
+|1738|FUNABASHI|Japan|5|
+|1739|TOYAMA_SINKO|Japan|5|
+|1740|WAKAYAMA|Japan|5|
+|1741|KONOSHIMA|Japan|5|
+|1742|HAKATA|Japan|10|
+|1743|IWAKUNI|Japan|5|
+|1744|KAWANOE|Japan|5|
+|1745|MIYAZU|Japan|5|
+|1746|SHIBAURA|Japan|5|
+|1747|MAIZURU|Japan|5|
+|1748|SUZAKI|Japan|5|
+|1749|OMINATO|Japan|5|
+|1750|HIAGARI|Japan|5|
+|1751|AKO_WAN|Japan|5|
+|1752|HIBIKINADA|Japan|5|
+|1753|NAKAGUSUKU|Japan|5|
+|1754|AOMORI|Japan|5|
+|1755|KITAKYUSHU|Japan|5|
+|1756|FUNAKAWA|Japan|5|
+|1757|MURORAN|Japan|4|
+|1758|BEPPU|Japan|5|
+|1759|MOJI|Japan|8|
+|1760|IHO|Japan|5|
+|1761|OITA|Japan|5|
+|1762|TOYOHASHI|Japan|5|
+|1763|IYO_MISHIMA|Japan|5|
+|1764|SASEBO|Japan|5|
+|1765|WAKAMATSU|Japan|5|
+|1766|CHIBA|Japan|5|
+|1767|AINOURA|Japan|5|
+|1768|AMAGASAKI|Japan|5|
+|1769|YORISHIMA|Japan|2|
+|1770|SAGANOSEKI|Japan|5|
+|1771|NANAO|Japan|5|
+|1772|CHITA|Japan|5|
+|1773|IMARI|Japan|5|
+|1774|OMISHIMA|Japan|5|
+|1775|KAWASAKI|Japan|5|
+|1776|AIOI|Japan|5|
+|1777|NAHA|Japan|5|
+|1778|KASHIMA|Japan|5|
+|1779|ISHIGAKI|Japan|5|
+|1780|SHINSAKI|Japan|16|
+|1781|MIYAKO|Japan|5|
+|1782|HANNAN|Japan|5|
+|1783|ITOZAKI|Japan|5|
+|1784|NAGAURA|Japan|5|
+|1785|OKAYAMA|Japan|5|
+|1786|TAMA_SIMA|Japan|5|
+|1787|SAKAIMINATO|Japan|5|
+|1788|TSURUMI|Japan|5|
+|1789|MITSUKOSHIMA|Japan|5|
+|1790|OMAEZAKI|Japan|7|
+|1791|KURE|Japan|5|
+|1792|MIIKE|Japan|5|
+|1793|KARATSU|Japan|5|
+|1794|TSUIYAMA|Japan|5|
+|1795|KOCHI|Japan|5|
+|1796|NAGASAKI|Japan|5|
+|1797|YURA|Japan|5|
+|1798|HAKODATE|Japan|10|
+|1799|YATSUSHIRO|Japan|4|
+|1800|KAGOSHIMA|Japan|5|
+|1801|YAWATAHAMA|Japan|106|
+|1802|ONOMICHI|Japan|5|
+|1803|SHIMIZU|Japan|5|
+|1804|SAKAISENBOKU|Japan|5|
+|1805|ETAJIMA|Japan|5|
+|1806|KAINAN|Japan|5|
+|1807|AKITA|Japan|5|
+|1808|TANIYAMA|Japan|1|
+|1809|MISUMI|Japan|5|
+|1810|KUSHIRO|Japan|5|
+|1811|TOKUYAMA|Japan|5|
+|1812|MEGA|Japan|5|
+|1813|MIHARA|Japan|5|
+|1814|FUSHIKI_TOYAMASHINKO|Japan|5|
+|1815|TOKACHI|Japan|5|
+|1816|MUKAISHIMA|Japan|5|
+|1817|TACHIBANA|Japan|5|
+|1818|SHIMODA|Japan|5|
+|1819|WAKKANAI|Japan|5|
+|1820|TAMANO|Japan|5|
+|1821|ANAN|Japan|5|
+|1822|TSUKUMI|Japan|5|
+|1823|SHIBUSHI|Japan|5|
+|1824|UNO|Japan|5|
+|1825|KOBE|Japan|36|
+|1826|TAKAMATSU|Japan|5|
+|1827|HIROSHIMA|Japan|5|
+|1828|HAGI|Japan|10|
+|1829|MINAMATA|Japan|4|
+|1830|IMABARI|Japan|5|
+|1831|NEGISHI|Japan|5|
+|1832|HIKARI|Japan|5|
+|1833|HACHINOHE|Japan|10|
+|1834|TANABE|Japan|5|
+|1835|MATUZAKA|Japan|5|
+|1836|HAMAMATSU|Japan|10|
+|1837|NOSHIRO|Japan|5|
+|1838|YOKOSUKA|Japan|5|
+|1839|MIZUSHIMA|Japan|5|
+|1840|MATSUYAMA|Japan|5|
+|1841|TADOTU|Japan|4|
+|1842|SENDAI|Japan|5|
+|1843|FUKUYAMA|Japan|5|
+|1844|TATEYAMA|Japan|5|
+|1845|KAMAISHI|Japan|5|
+|1846|UCHIURA|Japan|5|
+|1847|TSURUGA|Japan|4|
+|1848|ABOSHI|Japan|5|
+|1849|TSU|Japan|4|
+|1850|KUROSAKI|Japan|5|
+|1851|SHIOGAMA|Japan|5|
+|1852|KANAZAWA|Japan|5|
+|1853|OTARU|Japan|5|
+|1854|ISHINOMAKI|Japan|5|
+|1855|FUKUOKA|Japan|5|
+|1856|HITACHI|Japan|2|
+|1857|SLUISKIL|Netherland|5|
+|1858|ZAANDAM|Netherland|5|
+|1859|VENLO|Netherland|4|
+|1860|VLAARDINGEN|Netherland|5|
+|1861|SCHIEDAM|Netherland|3|
+|1862|SCHEVENINGEN|Netherland|4|
+|1863|YMUIDEN|Netherland|5|
+|1864|ROZENBURG|Netherland|4|
+|1865|ZWOLLE|Netherland|5|
+|1866|TERNEUZEN|Netherland|4|
+|1867|MIDDELBURG|Netherland|4|
+|1868|ZUTPHEN|Netherland|5|
+|1869|TILBURG|Netherland|2|
+|1870|ZIERIKZEE|Netherland|5|
+|1871|SAS_VAN_GHENT|Netherland|3|
+|1872|BANJUL|Gambia|8|
+|1873|ANTALAHA|Madagascar|4|
+|1874|TOLAGNARO|Madagascar|1|
+|1875|TOLEARY|Madagascar|1|
+|1876|SAMBAVA|Madagascar|1|
+|1877|DIEGO SUAREZ|Madagascar|2|
+|1878|MAROANTSETRA|Madagascar|1|
+|1879|EHOALA|Madagascar|3|
+|1880|MANAKARA|Madagascar|1|
+|1881|MORONDAVA|Madagascar|7|
+|1882|MANANJARY|Madagascar|3|
+|1883|ANTSIRANANA|Madagascar|10|
+|1884|FARAFANGANA|Madagascar|2|
+|1885|MAHAJANGA|Madagascar|6|
+|1886|TOAMASINA|Madagascar|8|
+|1887|FORT DAUPHIN|Madagascar|9|
+|1888|VOHEMAR|Madagascar|4|
+|1889|NOSY_BE|Madagascar|17|
+|1890|ANALALAVA|Madagascar|689|
+|1891|TAMATAVE|Madagascar|7|
+|1892|MOROMBE|Madagascar|7|
+|1893|MAHAJUNGA|Madagascar|0|
+|1894|FAO|Iraq|10|
+|1895|MINA_AL_BAKR|Iraq|9|
+|1896|UMM_QASAR|Iraq|12|
+|1897|BASRAH|Iraq|12|
+|1898|KHOR_AL_AMAYA|Iraq|11|
+|1899|KPEME|Togo|5|
+|1900|LOME|Togo|3|
+|1901|TALLINN|Estonia|121|
+|1902|NARVA_JOESUU|Estonia|0|
+|1903|PARNU|Estonia|12|
+|1904|BAMAKO|Mali|4|
+|1905|KAYES|Mali|4|
+|1906|MERCA|Somalia|1|
+|1907|ALULA|Somalia|2|
+|1908|BERBERA|Somalia|7|
+|1909|DANTE|Somalia|1|
+|1910|MUQDISHO|Somalia|19|
+|1911|BOSASO|Somalia|1|
+|1912|KISMAYU|Somalia|4|
+|1913|OBBIA|Somalia|1|
+|1914|BRAVA|Somalia|2|
+|1915|BATA|Equatorial Guinea|22|
+|1916|MALABO|Equatorial Guinea|23|
+|1917|BUTUKU-LUBA|Equatorial Guinea|21|
+|1918|PIRAN|Slovenia|5|
+|1919|LJUBLJANA|Slovenia|3|
+|1920|KOPER|Slovenia|1|
+|1921|IZOLA|Slovenia|4|
+|1922|NOUAKCHOTT|Mauritania|7|
+|1923|NOUADHIBOU|Mauritania|6|
+|1924|BLANTYRE|Malawi|1|
+|1925|LILONGWE|Malawi|11|
+|1926|CHENNAI|India|12|
+|1927|MADRAS|India|21|
+|1928|COONDAPOOR|India|4|
+|1929|ICD AGRA|India|2|
+|1930|COLACHEL|India|10|
+|1931|KARIKAL|India|4|
+|1932|MINICOY ISLAND|India|6|
+|1933|ICD_PUNE_PIMPRI|India|11|
+|1934|BANGALORE|India|0|
+|1935|PANJIM|India|1|
+|1936|HONAVAR|India|5|
+|1937|DAMAN|India|7|
+|1938|ICD_MANDIDEEP|India|1|
+|1939|PORT BALAIR|India|2|
+|1940|ALLEPPEY|India|25|
+|1941|ICD MULUND|India|5|
+|1942|COCHIN|India|10|
+|1943|PORBANDAR|India|5|
+|1944|ICD_GARHI_HARSARU|India|1|
+|1945|CUDDALORE|India|3|
+|1946|ICD_KUNDLI|India|1|
+|1947|MUNDRA|India|19|
+|1948|ICD_LONI|India|3|
+|1949|HALDIA|India|23|
+|1950|TRIVANDRUM|India|2|
+|1951|BHEEMUNIPATNAM|India|10|
+|1952|BHAVNAGAR|India|0|
+|1953|PONDICHERRY|India|1|
+|1954|ICD LUDHIANA|India|8|
+|1955|JAKHAU|India|22|
+|1956|ICD DADRI|India|5|
+|1957|ICD_CHINCHWAD|India|10|
+|1958|DIU|India|5|
+|1959|JAFARABAD|India|6|
+|1960|MANGROL|India|8|
+|1961|MANDVI|India|9|
+|1962|NHAVA SHEVA|India|35|
+|1963|SALAYA|India|5|
+|1964|ICD MALANPUR|India|2|
+|1965|ICD_SACHIN|India|1|
+|1966|ICD_BARODA|India|1|
+|1967|MALPE|India|16|
+|1968|BOMBAY|India|23|
+|1969|ICD_JAIPUR|India|3|
+|1970|ICD DIGHI|India|3|
+|1971|MARMAGAMO|India|1|
+|1972|PARADIP|India|14|
+|1973|MORMUGAO|India|38|
+|1974|ICD_SURAJPUR|India|3|
+|1975|CALCUTTA|India|10|
+|1976|PORTO NOVO,IN|India|8|
+|1977|VERAVAL|India|1|
+|1978|SIKKA|India|8|
+|1979|ICD_GWALOR|India|3|
+|1980|ICD_VAPI|India|2|
+|1981|BELEKERI|India|7|
+|1982|KARWAR|India|11|
+|1983|ICD MORADABAD|India|0|
+|1984|CALICUT|India|3|
+|1985|BEDI|India|2|
+|1986|ICD TUGLAKABAD|India|4|
+|1987|ICD_REWARI|India|1|
+|1988|NEW DELHI|India|4|
+|1989|NAVLAKHI|India|5|
+|1990|TUTICORIN|India|5|
+|1991|VENGURLA|India|3|
+|1992|NEW MANGALORE|India|15|
+|1993|MAHE|India|11|
+|1994|DWARKA|India|5|
+|1995|KAKINADA|India|17|
+|1996|ICD_DASHRATH|India|2|
+|1997|ICD JODHPUR|India|2|
+|1998|ICD KANPUR|India|3|
+|1999|CALINGAPATNAM|India|3|
+|2000|MANGALORE|India|6|
+|2001|SURAT|India|2|
+|2002|PURI|India|1|
+|2003|RATNAGIRI|India|1|
+|2004|ICD PATPARGANJ|India|2|
+|2005|ICD_DHANDRIKALAN|India|1|
+|2006|ICD_NAGPUR|India|1|
+|2007|PORT OKHA|India|29|
+|2008|KANDLA|India|14|
+|2009|NAGAPATTINAM|India|2|
+|2010|ICD_COIMBATORE|India|14|
+|2011|MANDAPAM|India|6|
+|2012|PIPAVAV|India|16|
+|2013|GOPALPUR|India|4|
+|2014|MACHILIPATNAM|India|4|
+|2015|NEW TUTICORIN|India|2|
+|2016|QUILON|India|2|
+|2017|ICD_MALIWADA|India|1|
+|2018|ICD AURANGABAD|India|2|
+|2019|JAWAHARIAL_NEHRU|India|5|
+|2020|ICD_PITHAMPUR|India|1|
+|2021|ICD_KANAKPURA|India|1|
+|2022|ICD HYDERABAD|India|7|
+|2023|ICD_SABARMATI|India|4|
+|2024|ICD_GHARI_HARARU|India|0|
+|2025|VISAKHAPATNAM|India|1|
+|2026|ICD_NASIK|India|1|
+|2027|TELLICHERRY|India|0|
+|2028|PAMBAN|India|4|
+|2029|REDI|India|0|
+|2030|ICD AHMEDABAD|India|7|
+|2031|ICD FARIDABAD|India|2|
+|2032|CANNANORE|India|3|
+|2033|TUNIS|Tunisia|1|
+|2034|RADES|Tunisia|1|
+|2035|DJERBA_ISLAND|Tunisia|10|
+|2036|LA_GOULETTE|Tunisia|13|
+|2037|LA_SKHIRRA|Tunisia|6|
+|2038|SFAX|Tunisia|6|
+|2039|ASHTART_TERMINAL|Tunisia|6|
+|2040|SUSA|Tunisia|4|
+|2041|GABES|Tunisia|6|
+|2042|BIZERTA|Tunisia|7|
+|2043|ONEHUNGA|New Zealand|5|
+|2044|GREYMOUTH|New Zealand|5|
+|2045|WANGANUI|New Zealand|5|
+|2046|THAMES|New Zealand|5|
+|2047|AUCKLAND|New Zealand|6|
+|2048|INVERCARGILL|New Zealand|5|
+|2049|TAURANGA|New Zealand|3|
+|2050|NAPIER|New Zealand|5|
+|2051|LYTTELTON|New Zealand|4|
+|2052|OAMARU|New Zealand|5|
+|2053|WAVERLEY HARBOUR|New Zealand|2|
+|2054|ARUTUNGA|New Zealand|4|
+|2055|PORT CHAIMERS|New Zealand|5|
+|2056|WHANGAREI|New Zealand|2|
+|2057|GISBORNE|New Zealand|4|
+|2058|NELSON|New Zealand|4|
+|2059|BLUFF|New Zealand|6|
+|2060|WELLINGTON|New Zealand|2|
+|2061|TIMARU|New Zealand|5|
+|2062|RAROTONGA ISLAND|New Zealand|4|
+|2063|WESTOPORT|New Zealand|4|
+|2064|PICTON|New Zealand|6|
+|2065|DUNEDIN|New Zealand|6|
+|2066|CHRISTCHURCH|New Zealand|4|
+|2067|OPUA|New Zealand|5|
+|2068|NEW PLYMOUTH|New Zealand|5|
+|2069|WAIRAU|New Zealand|2|
+|2070|MOUT MAUNGANUI|New Zealand|6|
+|2071|PLAMERSTON NORTH|New Zealand|5|
+|2072|PORT RUSSELL|New Zealand|5|
+|2073|AKALTYN|Uzbekistan|4|
+|2074|BUKHARA|Uzbekistan|5|
+|2075|KARSHI|Uzbekistan|3|
+|2076|KAKIR|Uzbekistan|5|
+|2077|MARGILAN|Uzbekistan|3|
+|2078|ANDIJAN|Uzbekistan|5|
+|2079|RAUSTAN|Uzbekistan|5|
+|2080|MELILLA|Melilla|1|
+|2081|GASMATA_ISLAND|Papua New Guinea|9|
+|2082|ANEWA_BAY|Papua New Guinea|11|
+|2083|RABAUL|Papua New Guinea|5|
+|2084|WOODLARK_ISLAND|Papua New Guinea|5|
+|2085|PORT_MORESBY|Papua New Guinea|5|
+|2086|DARU|Papua New Guinea|58|
+|2087|ORO_BAY|Papua New Guinea|4|
+|2088|KIMBE|Papua New Guinea|10|
+|2089|SALAMAUA|Papua New Guinea|10|
+|2090|FINSHCAVEN|Papua New Guinea|10|
+|2091|KIETA|Papua New Guinea|27|
+|2092|LAE|Papua New Guinea|10|
+|2093|SAMARAI|Papua New Guinea|5|
+|2094|MOROBE|Papua New Guinea|10|
+|2095|ALOTAU|Papua New Guinea|60|
+|2096|CAPE_HOSKINS|Papua New Guinea|10|
+|2097|KAVIENG|Papua New Guinea|38|
+|2098|WEWAK|Papua New Guinea|5|
+|2099|LORENGAU|Papua New Guinea|10|
+|2100|AITAPE|Papua New Guinea|16|
+|2101|BUNA|Papua New Guinea|14|
+|2102|MADANG|Papua New Guinea|5|
+|2103|BUKA|Papua New Guinea|15|
+|2104|OUAGADOUGOU|Burkina Faso|4|
+|2105|BOBO_DIOULASSO|Burkina Faso|0|
+|2106|BUJUMBURA|Burundi|2|
+|2107|BATUMI|Georgia|38|
+|2108|POTI|Georgia|5|
+|2109|LA_PAZ|Bolivia|5|
+|2110|SANTA_CRUZ|Bolivia|6|
+|2111|STANLEY|Malvinas|82|
+|2112|DUSHANBE|Tajikistan|3|
+|2113|KHUJAND|Tajikistan|5|
+|2114|GAYA|Niger|12|
+|2115|NIAMGY|Niger|16|
+|2116|DOSSO|Niger|5|
+|2117|MATARA|Sri Lanka|5|
+|2118|TRINCOMALEE|Sri Lanka|16|
+|2119|KALUTARA|Sri Lanka|7|
+|2120|Hambanthota|Sri Lanka|32|
+|2121|COLOMBO|Sri Lanka|213|
+|2122|BATTICALOA|Sri Lanka|7|
+|2123|KAYTS|Sri Lanka|10|
+|2124|JAFFNA|Sri Lanka|5|
+|2125|GALLE|Sri Lanka|3|
+|2126|KANKESANTURAI|Sri Lanka|3|
+|2127|NEGOMBO|Sri Lanka|11|
+|2128|INNSBRUCK|Austria|7|
+|2129|LINZ|Austria|16|
+|2130|GRAZ|Austria|5|
+|2131|VIENNA|Austria|14|
+|2132|SALZBURG|Austria|15|
+|2133|XALAPA|Mexico|1|
+|2134|VERACRUZ|Mexico|11|
+|2135|ROSARITO_TERMINAL|Mexico|1|
+|2136|FRONTERA|Mexico|1|
+|2137|ALTAMIRA|Mexico|75|
+|2138|QUERETARO|Mexico|1|
+|2139|NAUTLA|Mexico|1|
+|2140|MEXICO_CITY|Mexico|1|
+|2141|MONTERREY|Mexico|4|
+|2142|MINATITLAN|Mexico|1|
+|2143|CAMPECHE|Mexico|2|
+|2144|PUERTO_MADERO|Mexico|1|
+|2145|COZUMEL_ISLAND|Mexico|1|
+|2146|SAN_LOUIS_POTOSI|Mexico|1|
+|2147|MORRO_REDONDO|Mexico|1|
+|2148|GUADALAJARA|Mexico|2|
+|2149|TOPOLOBAMPO|Mexico|1|
+|2150|TOLUCA|Mexico|1|
+|2151|GUAYMAS|Mexico|1|
+|2152|ACAPULCO|Mexico|2|
+|2153|SALINA_CRUZ|Mexico|1|
+|2154|CAYOS_ARCAS_TERMINAL|Mexico|18|
+|2155|ENSENADA|Mexico|1|
+|2156|TAMPICO|Mexico|1|
+|2157|LAZARO_CARDENAS|Mexico|1|
+|2158|SANTA_ROSALIA|Mexico|1|
+|2159|APIZACO|Mexico|1|
+|2160|NANCHITAL|Mexico|0|
+|2161|DOS_BOCAS|Mexico|1|
+|2162|LEON|Mexico|4|
+|2163|MAZATLAN|Mexico|1|
+|2164|MANZANILLO|Mexico|1|
+|2165|PROGRESO|Mexico|1|
+|2166|TUXPAN|Mexico|1|
+|2167|COATZACOALCOS|Mexico|1|
+|2168|LERMA|Mexico|1|
+|2169|ALVARADO|Mexico|26|
+|2170|CIUDAD_DEL_CARMEN|Mexico|2|
+|2171|TORTOLA|British Virgin Islands|6|
+|2172|SINGAPORE|Singapore|491|
+|2173|TANJONG_PENJURU|Singapore|4|
+|2174|JURONG|Singapore|6|
+|2175|SEMBAWANG|Singapore|7|
+|2176|PULAU_BUKOM|Singapore|7|
+|2177|MASSAWA|Eritrea|15|
+|2178|ADAMSTOWN|Pitcairn Island|82|
+|2179|ASHKABAD|Turkmenistan|5|
+|2180|TURKMENBASHI|Turkmenistan|5|
+|2181|MONROVIA|Liberia|6|
+|2182|GRAND BASSA|Liberia|3|
+|2183|GREENVILLE|Liberia|2|
+|2184|RIVER CESS|Liberia|5|
+|2185|MARSHALL|Liberia|3|
+|2186|BUCHANAN|Liberia|8|
+|2187|CAPE PALMAS|Liberia|5|
+|2188|KORSAKOV|Russia|1|
+|2189|KRASNOAYRSK|Russia|2|
+|2190|SILIKATNAYA|Russia|1|
+|2191|BEZYMYANKA|Russia|1|
+|2192|CHEBOKSARY|Russia|4|
+|2193|BIYSK|Russia|2|
+|2194|ARCHANGEL|Russia|6|
+|2195|OKHA|Russia|7|
+|2196|TIKHONOVO|Russia|1|
+|2197|ALEXANDROVSK|Russia|526|
+|2198|PRIMORSK|Russia|27|
+|2199|KERTCH|Russia|13|
+|2200|VLADIVOSTOK|Russia|16|
+|2201|MAGO|Russia|6|
+|2202|PORONAISK|Russia|1|
+|2203|MURMANSK|Russia|17|
+|2204|NOVOROSSIYSK|Russia|5|
+|2205|BLOCHNAYA|Russia|1|
+|2206|LENINGRAD|Russia|2|
+|2207|BAZAIKHA|Russia|1|
+|2208|KHOLMSK|Russia|29|
+|2209|KALININGRAD|Russia|10|
+|2210|YEKATERINBURG|Russia|3|
+|2211|LAZAREV|Russia|2|
+|2212|OMSK|Russia|5|
+|2213|ANZHERSKAYA|Russia|3|
+|2214|NEVELSK|Russia|1|
+|2215|VYBORG|Russia|14|
+|2216|NARIAN_MAR|Russia|3|
+|2217|OKTYJABRJISKI|Russia|1|
+|2218|SVETLAYA_RIVER|Russia|1|
+|2219|TAGANROG|Russia|42|
+|2220|BATAREINAYA|Russia|2|
+|2221|KRASNODAR|Russia|4|
+|2222|IRKUTSK|Russia|4|
+|2223|UGLEGORSK|Russia|5|
+|2224|NAKHODKA|Russia|18|
+|2225|SHAKHTERSK|Russia|4|
+|2226|ONEGA|Russia|2|
+|2227|MAKAROV|Russia|10|
+|2228|BARNAUL|Russia|3|
+|2229|MAGADAN|Russia|6|
+|2230|KERET|Russia|1|
+|2231|UMBA|Russia|5|
+|2232|DEKASTRY|Russia|1|
+|2233|SOCHI|Russia|27|
+|2234|VYSOTSK|Russia|7|
+|2235|IGARKA|Russia|6|
+|2236|MESANE|Russia|1|
+|2237|PETROPAVLOVSK,RU|Russia|13|
+|2238|TUAPSE|Russia|6|
+|2239|VOSTOCHNY|Russia|14|
+|2240|NOGLIKI|Russia|3|
+|2241|OKHOTSK|Russia|8|
+|2242|KEMEROVO|Russia|1|
+|2243|MOSCOW|Russia|13|
+|2244|SOVETSKAYA_GAVAN|Russia|14|
+|2245|KLESCHIKHA|Russia|4|
+|2246|ZHIGULEVSKOE|Russia|1|
+|2247|ST.PETERSBURG|Russia|0|
+|2248|ZLOBINO|Russia|1|
+|2249|DAKHLA|Western Sahara|36|
+|2250|LAAYOUNE|Western Sahara|14|
+|2251|PANGANI|Tanzania|2|
+|2252|MTWARA|Tanzania|3|
+|2253|KILWA_MASOKO|Tanzania|1|
+|2254|DAR_ES_SALAAM|Tanzania|269|
+|2255|TANGA|Tanzania|3|
+|2256|PEMBA_ISLAND|Tanzania|1|
+|2257|ZANZIBAR|Tanzania|6|
+|2258|LINDI|Tanzania|24|
+|2259|KILWA_KIVINJE|Tanzania|1|
+|2260|ANGUILLA|Anguilla|7|
+|2261|ROAD_BAY|Anguilla|8|
+|2262|ABU_DHABI|United Arab Emirates|10|
+|2263|DUBAI|United Arab Emirates|6|
+|2264|SHARJAH|United Arab Emirates|14|
+|2265|KHOR_FAKKAN|United Arab Emirates|5|
+|2266|AJMAN|United Arab Emirates|11|
+|2267|MINA_SAQR|United Arab Emirates|5|
+|2268|ABU_AL_BUKHOOSH|United Arab Emirates|10|
+|2269|MINA_ZAYED|United Arab Emirates|11|
+|2270|MUBARRAS_ISLAND|United Arab Emirates|0|
+|2271|JEBEL_ALI|United Arab Emirates|8|
+|2272|HAMRIYA|United Arab Emirates|3|
+|2273|FUJAIRAH|United Arab Emirates|4|
+|2274|PORT KHALID|United Arab Emirates|6|
+|2275|UMM_AL_QUWAIN|United Arab Emirates|0|
+|2276|FATEH_TERMINAL|United Arab Emirates|6|
+|2277|RAS_AL_KHAIMAH|United Arab Emirates|5|
+|2278|JEBEL_DHANNA|United Arab Emirates|5|
+|2279|DAS_ISLAND|United Arab Emirates|8|
+|2280|PORT RASHID|United Arab Emirates|5|
+|2281|GEORGETOWN_GY|Guyana|28|
+|2282|BARTICA|Guyana|69|
+|2283|NEW_AMSTERDAM|Guyana|41|
+|2284|AMPENAN|Indonesia|3|
+|2285|BULELENG|Indonesia|4|
+|2286|KOTA_BARU|Indonesia|4|
+|2287|MALILI|Indonesia|1|
+|2288|MACASSAR|Indonesia|3|
+|2289|TARAKAN_ISLAND|Indonesia|9|
+|2290|BANYUWANGI|Indonesia|8|
+|2291|POMALAA|Indonesia|0|
+|2292|BITUNG|Indonesia|5|
+|2293|TANJUNG_PNANG|Indonesia|6|
+|2294|SAMBAS|Indonesia|5|
+|2295|SORONG|Indonesia|6|
+|2296|KUMAI|Indonesia|2|
+|2297|MERAUKE|Indonesia|2|
+|2298|JAKARTA UTC2|Indonesia|5|
+|2299|DUMAI|Indonesia|4|
+|2300|TERNATE_ISLAND|Indonesia|3|
+|2301|TEGAL|Indonesia|2|
+|2302|SALAWATI|Indonesia|3|
+|2303|BENGKALIS|Indonesia|4|
+|2304|ARDJUNA_TERMINAL|Indonesia|5|
+|2305|TANJUNG_PANDAN|Indonesia|3|
+|2306|GUNUNG_SITOLI|Indonesia|2|
+|2307|PANGKAL_BALAM|Indonesia|4|
+|2308|PASARUAN|Indonesia|2|
+|2309|TOLI_TOLI|Indonesia|24|
+|2310|GRESIK|Indonesia|3|
+|2311|PROBOLINGGO|Indonesia|14|
+|2312|BELAWAN|Indonesia|7|
+|2313|SIBOLGA|Indonesia|3|
+|2314|SAMARINDA|Indonesia|5|
+|2315|PANJANG|Indonesia|12|
+|2316|CINTA_TERMINAL|Indonesia|1|
+|2317|MENADO|Indonesia|2|
+|2318|SUNGEI_KOLAK|Indonesia|1|
+|2319|KALIANGET|Indonesia|4|
+|2320|SEMARANG|Indonesia|4|
+|2321|TANJUNG_PRIOK|Indonesia|2|
+|2322|BENGKULU|Indonesia|5|
+|2323|SABANG|Indonesia|34|
+|2324|CIREBON|Indonesia|5|
+|2325|DONGGALA|Indonesia|2|
+|2326|PALOPO|Indonesia|5|
+|2327|JAKARTA_UTC1|Indonesia|3|
+|2328|PANGKALAN_SUSU|Indonesia|1|
+|2329|MEULABOH|Indonesia|4|
+|2330|MAKASSAR|Indonesia|5|
+|2331|CIGADING|Indonesia|5|
+|2332|JAKARTA UTC3|Indonesia|5|
+|2333|PULAU_SAMBU|Indonesia|5|
+|2334|KENDARI|Indonesia|6|
+|2335|PALU|Indonesia|2|
+|2336|AMBON_ISLAND|Indonesia|6|
+|2337|SANTAN_TERMINAL|Indonesia|4|
+|2338|SANKULIRANG|Indonesia|4|
+|2339|CILACAP|Indonesia|3|
+|2340|MANOKWARI|Indonesia|1|
+|2341|BANJARMASIN|Indonesia|1|
+|2342|PAREPARE|Indonesia|1|
+|2343|PEKAN BARU|Indonesia|3|
+|2344|MAMUJU|Indonesia|2|
+|2345|FAK_FAK|Indonesia|2|
+|2346|TOBOALI|Indonesia|1|
+|2347|PAMANUKAN|Indonesia|1|
+|2348|TANJUNG_REDEB|Indonesia|5|
+|2349|MUNTOK|Indonesia|1|
+|2350|TANJUNG_SOFA|Indonesia|1|
+|2351|PEMANGKAT|Indonesia|3|
+|2352|BENOA|Indonesia|5|
+|2353|POSO|Indonesia|3|
+|2354|KUALA_KAPUAS|Indonesia|2|
+|2355|JAKARTA|Indonesia|55|
+|2356|PONTIANAK|Indonesia|10|
+|2357|SUNGEI_GERONG|Indonesia|7|
+|2358|MEDAN|Indonesia|3|
+|2359|SAMPIT|Indonesia|4|
+|2360|TELUKBETUNG|Indonesia|2|
+|2361|GORONTALO|Indonesia|5|
+|2362|KASIM|Indonesia|3|
+|2363|TANJUNG_UBAN|Indonesia|2|
+|2364|KETAPANG|Indonesia|7|
+|2365|KUPANG|Indonesia|4|
+|2366|MERAK|Indonesia|10|
+|2367|SUNGEI_PAKNING|Indonesia|4|
+|2368|PEKALONGAN|Indonesia|5|
+|2369|BATAM|Indonesia|5|
+|2370|BIMA|Indonesia|5|
+|2371|PADANG|Indonesia|5|
+|2372|SURABAYA|Indonesia|6|
+|2373|KRU|Indonesia|1|
+|2374|BALIKPAPAN|Indonesia|5|
+|2375|PANGKAL_PINANG|Indonesia|7|
+|2376|BAGAN_SI_API_API|Indonesia|2|
+|2377|PALEMBANG|Indonesia|5|
+|2378|SENIPAH_TERMINAL|Indonesia|1|
+|2379|TUBAN|Indonesia|3|
+|2380|PANARUKAN|Indonesia|2|
+|2381|JAMBI|Indonesia|4|
+|2382|DABO|Indonesia|1|
+|2383|JAYAPURA|Indonesia|6|
+|2384|JAMESTOWN|ST. HELENA|2|
+|2385|ASCENSION ISLAND|ST. HELENA|3|
+|2386|BANABA|Kiribati|5|
+|2387|FANNING_ISLAND|Kiribati|4|
+|2388|TARAWA_ISLAND|Kiribati|4|
+|2389|CHRISTMAS_ISLAND|Kiribati|3|
+|2390|FORCADOS|Nigeria|1|
+|2391|TIN CAN|Nigeria|1|
+|2392|BADAGRI|Nigeria|2|
+|2393|OPOBO|Nigeria|3|
+|2394|KOKO|Nigeria|0|
+|2395|BURUTU|Nigeria|7|
+|2396|ONNE|Nigeria|6|
+|2397|LAGOS|Nigeria|2|
+|2398|PENNINGTON TERMINAL|Nigeria|3|
+|2399|BONNY|Nigeria|8|
+|2400|CALABAR|Nigeria|1|
+|2401|AKASSA|Nigeria|6|
+|2402|DEGEMA|Nigeria|3|
+|2403|ESCRAVOS|Nigeria|3|
+|2404|OKRIKA|Nigeria|1|
+|2405|APAPA|Nigeria|11|
+|2406|SAPELE|Nigeria|2|
+|2407|QUA IBOE|Nigeria|5|
+|2408|PORT HARCOURT|Nigeria|3|
+|2409|BRASS|Nigeria|0|
+|2410|WARRI|Nigeria|1|
+|2411|MINA_AL_FAHAL|Oman|11|
+|2412|MUSCAT|Oman|19|
+|2413|SALALAH|Oman|18|
+|2414|MUTTRAH|Oman|24|
+|2415|MINA QABOOS|Oman|14|
+|2416|SOHAR|Oman|24|
+|2417|LE_VERDON|France|1|
+|2418|CAMMARET|France|12|
+|2419|DONGES|France|9|
+|2420|BOULOGNE|France|12|
+|2421|CAEN|France|12|
+|2422|PAIMPOL|France|0|
+|2423|LE_GUIDO|France|0|
+|2424|LA_NOUVELLE|France|3|
+|2425|GRANVILLE|France|1|
+|2426|QUIMPER|France|0|
+|2427|ST.LOUIS_DU_RHONE|France|0|
+|2428|LA_PALLICE|France|0|
+|2429|DEAUVILLE|France|5|
+|2430|ANTIBES|France|12|
+|2431|CANCALE|France|13|
+|2432|FOS_SUR_MER|France|10|
+|2433|BASSENS|France|12|
+|2434|CALAIS|France|11|
+|2435|LA_ROCHELLE|France|28|
+|2436|PROPRIANO|France|0|
+|2437|ILE_ROUSSE|France|11|
+|2438|ST.MALO|France|9|
+|2439|GRAVELINES|France|11|
+|2440|PORT_VENDRES|France|3|
+|2441|BREST|France|12|
+|2442|LA_CIOTAT|France|5|
+|2443|PARIS|France|0|
+|2444|ARCACHON|France|11|
+|2445|PORT_DE_BOUC|France|1|
+|2446|ANTIFER|France|12|
+|2447|LORIENT|France|15|
+|2448|ABBEVILLE|France|650|
+|2449|NANTES|France|2|
+|2450|PORT_JEROME|France|6|
+|2451|BONIFACIO|France|11|
+|2452|PAIMBOEUF|France|3|
+|2453|PAUILLAC|France|0|
+|2454|LE_HAVRE|France|8|
+|2455|ST.SERVAN|France|0|
+|2456|MARSEILLES|France|68|
+|2457|CARONTE|France|2|
+|2458|HAVRE|France|0|
+|2459|LANDERNEAU|France|0|
+|2460|MARTIGUES|France|0|
+|2461|ST.NAZAIRE|France|10|
+|2462|MONTOIR|France|10|
+|2463|ROUEN|France|7|
+|2464|FOS|France|10|
+|2465|FECAMP|France|9|
+|2466|LIBOURNE|France|0|
+|2467|LOCTUDY|France|0|
+|2468|BASTIA|France|8|
+|2469|DOUAMENEZ|France|0|
+|2470|OUISTREHAM|France|0|
+|2471|SETE|France|24|
+|2472|CANNES|France|12|
+|2473|FUTUNA|France|2|
+|2474|BLAYE|France|0|
+|2475|LE_CHATEAU|France|0|
+|2476|ROSCOFF|France|0|
+|2477|DAHOUET|France|12|
+|2478|MARANS|France|0|
+|2479|PORTO_VECCHIO|France|0|
+|2480|GONFREVILLE|France|15|
+|2481|ETAPLES|France|0|
+|2482|BORDEAUX|France|12|
+|2483|CONCARNEAU|France|9|
+|2484|AJACCIO|France|12|
+|2485|DIEPPE|France|6|
+|2486|ROCHEFORT|France|0|
+|2487|CHERBOURG|France|8|
+|2488|NICE|France|10|
+|2489|LYON|France|6|
+|2490|HONFLEUR|France|13|
+|2491|ST.JEAN_DE_LUZ|France|0|
+|2492|ST.BRIEUC|France|0|
+|2493|MORLAIX|France|0|
+|2494|CALVI|France|10|
+|2495|BAYONNE|France|12|
+|2496|LAVERA|France|52|
+|2497|WAHRAN|Algeria|1|
+|2498|JIJEL|Algeria|1|
+|2499|MESTGHANEM|Algeria|3|
+|2500|DELLYS|Algeria|1|
+|2501|GHAZAWET|Algeria|0|
+|2502|BEJAIA|Algeria|1|
+|2503|ORAN|Algeria|1|
+|2504|ALGIERS|Algeria|38|
+|2505|SKIKDA|Algeria|1|
+|2506|TENES|Algeria|1|
+|2507|EL_DJAZAIR|Algeria|1|
+|2508|CHERCHELL|Algeria|1|
+|2509|BENISAF|Algeria|1|
+|2510|ARZIW|Algeria|1|
+|2511|COLLO|Algeria|5|
+|2512|ANNABA|Algeria|1|
+|2513|GEORGETOWN_VC|ST. Pierre and Miquelon|5|
+|2514|ST_VINCENT|ST. Pierre and Miquelon|5|
+|2515|ST.PIERRE|ST. Pierre and Miquelon|5|
+|2516|KINGSTOWN|ST. Pierre and Miquelon|5|
+|2517|LEGHORN|Italy|8|
+|2518|CIVITAVECCHIA|Italy|6|
+|2519|NAPLES|Italy|92|
+|2520|REGGIO|Italy|6|
+|2521|RAVENNA|Italy|6|
+|2522|IMPERIA|Italy|8|
+|2523|PORTIGLIONE|Italy|0|
+|2524|PALERMO|Italy|41|
+|2525|CARLOFORTE|Italy|8|
+|2526|MOLFETTA|Italy|6|
+|2527|PADOVA|Italy|1|
+|2528|PORTO_SANTO_STEFANO|Italy|8|
+|2529|BOLOGNA|Italy|10|
+|2530|MONFALCONE|Italy|7|
+|2531|CAGLIARI|Italy|8|
+|2532|PESCARA|Italy|6|
+|2533|TORINO|Italy|3|
+|2534|GIOIA_TAURO|Italy|7|
+|2535|BRINDISI|Italy|14|
+|2536|LA_SPEZIA|Italy|114|
+|2537|FIUMICINO|Italy|7|
+|2538|SAVONA|Italy|7|
+|2539|MESSINA|Italy|6|
+|2540|FIRENZE|Italy|4|
+|2541|MELILLI|Italy|6|
+|2542|TRAPANI|Italy|8|
+|2543|PESARO|Italy|6|
+|2544|MARINA_DI_CARRARA|Italy|7|
+|2545|TARANTO|Italy|5|
+|2546|ANZIO|Italy|13|
+|2547|TORRE_ANNUNZIATA|Italy|13|
+|2548|GALLIPOLI|Italy|6|
+|2549|ARBATAX|Italy|14|
+|2550|CATANZARO|Italy|4|
+|2551|VENICE|Italy|14|
+|2552|BARLETTA|Italy|10|
+|2553|GAETA|Italy|8|
+|2554|CHIOGGIA|Italy|6|
+|2555|MANFREDONIA|Italy|7|
+|2556|AUGUSTA|Italy|12|
+|2557|PORTO_EMPEDOCLE|Italy|6|
+|2558|RIO_MARINA|Italy|5|
+|2559|FOLLONICA|Italy|6|
+|2560|ORISTANO|Italy|6|
+|2561|COMO|Italy|9|
+|2562|ORTONA|Italy|2|
+|2563|PORTO_VESME|Italy|8|
+|2564|MONOPOLI|Italy|6|
+|2565|MARSALA|Italy|6|
+|2566|SAN_REMO|Italy|7|
+|2567|VIAREGGIO|Italy|7|
+|2568|ROME|Italy|2|
+|2569|ALGHERO|Italy|625|
+|2570|CATANIA|Italy|7|
+|2571|LICATA|Italy|6|
+|2572|PORTOSCUSO|Italy|7|
+|2573|GENOVA|Italy|133|
+|2574|PORTO_AZZURRO|Italy|7|
+|2575|TRIESTE|Italy|2|
+|2576|PORTOFERRAIO|Italy|8|
+|2577|POZZUOLI|Italy|4|
+|2578|SALERNO|Italy|52|
+|2579|PRIOLO|Italy|3|
+|2580|OLBIA|Italy|5|
+|2581|PORTO_MARGHERA|Italy|8|
+|2582|MILAN|Italy|5|
+|2583|GELA|Italy|7|
+|2584|PIOMBINO|Italy|6|
+|2585|CROTONE|Italy|8|
+|2586|SIRACUSA|Italy|5|
+|2587|PORTO_TORRES|Italy|6|
+|2588|TALAMONE|Italy|7|
+|2589|LA_MADDALENA|Italy|5|
+|2590|PORTICI|Italy|7|
+|2591|MODENA|Italy|1|
+|2592|TORRE_DEL_GRECO|Italy|3|
+|2593|POZZALLO|Italy|6|
+|2594|SARROCH|Italy|6|
+|2595|VASTO|Italy|8|
+|2596|CASTELLAMMARE_DI_STABIA|Italy|8|
+|2597|MAZARA_DEL_VALLO|Italy|7|
+|2598|LIVORNO|Italy|6|
+|2599|ANCONA|Italy|1|
+|2600|FORMIA|Italy|7|
+|2601|AVOLA|Italy|10|
+|2602|BAGNOLI|Italy|11|
+|2603|HAIKOU|China|469|
+|2604|AOJIANG|China|393|
+|2605|ZHUHAI|China|9799|
+|2606|ZHOUSHAN|China|301|
+|2607|DANDONG|China|445|
+|2608|RIZHAO|China|1043|
+|2609|QINZHOU|China|682|
+|2610|YANGZHOU|China|79|
+|2611|WANGTAN|China|5|
+|2612|ANCHING|China|657|
+|2613|NANMENGANG|China|6|
+|2614|HONG_KONG|China|64|
+|2615|SANDU|China|547|
+|2616|JINZHOU|China|317|
+|2617|HUMEN|China|726|
+|2618|GUANGZHOU_HUANGPU|China|679|
+|2619|WEIHAI|China|413|
+|2620|SHENZHEN_DACHANWAN|China|1037|
+|2621|BEIJIN|China|278|
+|2622|CHANGSHU|China|5|
+|2623|LONGKOU|China|220|
+|2624|WUXI|China|555|
+|2625|ZHENJIANG|China|247|
+|2626|BEIHAI|China|715|
+|2627|DINGHAI|China|371|
+|2628|NANJING|China|1067|
+|2629|SHANWEI|China|882|
+|2630|FUZHOU|China|560|
+|2631|TAIWAN_SUAO|China|9|
+|2632|MAANSHAN|China|674|
+|2633|NANCHANG|China|631|
+|2634|PENGLAI|China|339|
+|2635|TAIWAN_KEELUNG|China|20|
+|2636|BOHE|China|44|
+|2637|DALIANXINGANG|China|381|
+|2638|LAIZHOU|China|635|
+|2639|ZHANGJIAGANG|China|744|
+|2640|MACAO|China|28|
+|2641|ZHANGGANG|China|487|
+|2642|BAOSHANMATOU|China|756|
+|2643|ZHUANGHE|China|520|
+|2644|PANSHI|China|416|
+|2645|RUSHANKOU|China|707|
+|2646|TAIZHOU|China|5|
+|2647|LONGYAN|China|678|
+|2648|SHENZHEN|China|5|
+|2649|LIANYUNGANG|China|573|
+|2650|SHENZHEN_YANTIAN|China|1033|
+|2651|JIUJIANG|China|717|
+|2652|SHANTOU|China|650|
+|2653|WENZHOU|China|1064|
+|2654|TAIWAN_TAICHUNG|China|9|
+|2655|QINHUANGDAO|China|264|
+|2656|BEILUNGANG|China|468|
+|2657|NANTONG|China|130|
+|2658|LUSHUN|China|526|
+|2659|SHENGSI|China|635|
+|2660|RUIAN|China|604|
+|2661|TAIZHOU_CN|China|64|
+|2662|PUTUO|China|1035|
+|2663|JIANGMEN|China|423|
+|2664|HAIAN|China|495|
+|2665|SHENZHEN_MAWAN|China|1090|
+|2666|SHENJIANMEN|China|388|
+|2667|QINGLAN|China|463|
+|2668|CHENJIAGANG|China|533|
+|2669|ZHENHAI|China|634|
+|2670|YANGPUGANG|China|1060|
+|2671|DONGSHAN|China|535|
+|2672|SHUNDE|China|582|
+|2673|SHUIDONG|China|686|
+|2674|TIANJINXINGANG|China|1217|
+|2675|DALIAN|China|783|
+|2676|NANBAO|China|750|
+|2677|DAQINGHE|China|1585|
+|2678|ZHANJIANG|China|631|
+|2679|QUANZHOU|China|445|
+|2680|SHIPU|China|401|
+|2681|LANSHAN|China|203|
+|2682|HUANGDAO|China|346|
+|2683|CHANGZHOU|China|688|
+|2684|HEFEI|China|1124|
+|2685|ZHAPU|China|3|
+|2686|YINGKOU|China|458|
+|2687|SHANGHAI|China|805|
+|2688|ZHANGWAN|China|753|
+|2689|JIANGYIN|China|454|
+|2690|ZHANGJIABU|China|726|
+|2691|TAIWAN_HUALIAN|China|11|
+|2692|FANGCHENG|China|690|
+|2693|SHIJIUGANG|China|5|
+|2694|ZHANGZHOU|China|685|
+|2695|YANWEIGANG|China|44|
+|2696|TIANJIN|China|6|
+|2697|TAICANG|China|525|
+|2698|QINGDAO|China|1313|
+|2699|SAIQI|China|492|
+|2700|SHANHAIGUNA|China|191|
+|2701|SHEYANG|China|16|
+|2702|SHENZHEN_SHEKOU|China|1080|
+|2703|TONGLING|China|423|
+|2704|PINGTAN|China|1018|
+|2705|XIUYUGANG|China|382|
+|2706|DIAOKOUZHEN|China|39|
+|2707|TANGGU|China|3|
+|2708|YINGKOUXINGANG|China|512|
+|2709|WUHAN|China|436|
+|2710|CHONGQING|China|464|
+|2711|JINGTANG|China|461|
+|2712|BASUO|China|408|
+|2713|SANYA|China|1060|
+|2714|TAIWAN_TAIPEI|China|18|
+|2715|HAIMEN|China|840|
+|2716|LUHUASHAN|China|382|
+|2717|NINGBO|China|395|
+|2718|GUANGZHOU_NANSHA|China|739|
+|2719|GUANGZHOU|China|708|
+|2720|FOSHAN|China|1248|
+|2721|ZHONGSHAN|China|681|
+|2722|WUHU|China|186|
+|2723|SHIDAO|China|747|
+|2724|JIUZHOU|China|5|
+|2725|PENGHU|China|833|
+|2726|LUOJING|China|70|
+|2727|XIAMEN|China|536|
+|2728|TAIWAN_KAOHSIUNG|China|13|
+|2729|YANTAI|China|935|
+|2730|CHENSHANMATOU|China|53|
+|2731|CHANGSHA|China|298|
+|2732|TAIWAN_TAOYUAN|China|6|
+|2733|MALDONADO|Uruguay|5|
+|2734|JOSE_IGNACIO|Uruguay|6|
+|2735|PAYSANDU|Uruguay|6|
+|2736|FRAY_BENTOS|Uruguay|4|
+|2737|COLONIA|Uruguay|6|
+|2738|PUNTA_DEL_ESTE|Uruguay|4|
+|2739|MONTEVIDEO|Uruguay|6|
+|2740|NUEVA_PALMIRA|Uruguay|6|
+|2741|CHISINAU|Moldova|4|
+|2742|COLUMBUS_OH|USA|22|
+|2743|PORTSMOUTH|USA|6|
+|2744|east of American_HOUSTON_TX|USA|442|
+|2745|PROVIDENCE|USA|143|
+|2746|ORANGE|USA|159|
+|2747|MEMPHIS|USA|14|
+|2748|ST_LOUIS|USA|21|
+|2749|east of American_BALTIMORE_MD|USA|383|
+|2750|ALAMEDA|USA|901|
+|2751|TOLEDO|USA|213|
+|2752|ASTORIA|USA|29|
+|2753|HUENEME|USA|365|
+|2754|PENSACOLA|USA|238|
+|2755|WEEHAWKEN|USA|5|
+|2756|ALEXANDRIA|USA|5|
+|2757|east of American_PORT EVERGLADES|USA|506|
+|2758|SAN_DIEGO|USA|299|
+|2759|HAMPTON_ROADS|USA|264|
+|2760|BATH|USA|23|
+|2761|BELLINGHAM|USA|30|
+|2762|DESTREHAN|USA|117|
+|2763|KETCHIKAN|USA|83|
+|2764|SAN FRANCISCO|USA|690|
+|2765|BERKELEY|USA|25|
+|2766|CHICAGO_IL|USA|98|
+|2767|ALBANY|USA|31|
+|2768|LONG BEACH|USA|488|
+|2769|GREEN_BAY|USA|59|
+|2770|PORT_TOWNSEND|USA|61|
+|2771|CONNEAUT_HARBOUR|USA|167|
+|2772|JERSEY_CITY|USA|299|
+|2773|KENDALLVILLE|USA|5|
+|2774|TACONITE_HARBOUR|USA|213|
+|2775|PORT_SULPHUR|USA|10|
+|2776|RIVERHEAD|USA|6|
+|2777|CHARLOTTE_NC|USA|25|
+|2778|RICHMOND_CAL|USA|68|
+|2779|ONTARIO|USA|14|
+|2780|CINCINNATI_OH|USA|27|
+|2781|VALDEZ|USA|113|
+|2782|EUREKA|USA|168|
+|2783|OMAHA|USA|13|
+|2784|RICHMOND|USA|9|
+|2785|GALVESTON|USA|12|
+|2786|ELIZABETH|USA|10|
+|2787|east of American_PHILADELPHIA|USA|354|
+|2788|ATRECO|USA|28|
+|2789|CORDOVA|USA|362|
+|2790|KANSAS_CITY|USA|14|
+|2791|PINEY_POINT|USA|89|
+|2792|GEORGETOWN|USA|9|
+|2793|NIKISKI|USA|261|
+|2794|CHESAPEAKE_CITY|USA|245|
+|2795|ATHENS|USA|25|
+|2796|LONGIVEW|USA|14|
+|2797|PORT_ANGELES|USA|191|
+|2798|METLAKATLA|USA|9|
+|2799|PETERSBURG|USA|545|
+|2800|DETROIT|USA|201|
+|2801|east of American_SAVANNAH|USA|261|
+|2802|NORFOLK|USA|302|
+|2803|ANACORTES|USA|22|
+|2804|BROWNSVILLE|USA|247|
+|2805|east of American_NEW YORK|USA|1318|
+|2806|GLOUCESTER|USA|152|
+|2807|LOUISVILLE|USA|12|
+|2808|DALLAS|USA|14|
+|2809|EVANSVILLE|USA|15|
+|2810|CAMDEN|USA|225|
+|2811|GOOD_HOPE|USA|421|
+|2812|SAN_ANTONIO|USA|6|
+|2813|BURNSIDE|USA|233|
+|2814|JUNEAU|USA|387|
+|2815|NEWPORT_NEWS|USA|13|
+|2816|PORT_ISABEL|USA|53|
+|2817|SAINT_LOUIS|USA|4|
+|2818|BUCHANAN_US|USA|237|
+|2819|east of American_JACKSONVILLE_FL|USA|442|
+|2820|PORT_ARTHUR|USA|337|
+|2821|HIDALGO|USA|10|
+|2822|SANTA_CRUZ|USA|223|
+|2823|OLYMPIA|USA|132|
+|2824|BRUNSWICK|USA|222|
+|2825|TAMPA|USA|253|
+|2826|BARNSTAPLE|USA|84|
+|2827|NEW_BEDFORD|USA|6|
+|2828|BIRMINGHAM_AL|USA|25|
+|2829|HOPEWELL|USA|66|
+|2830|RACINE|USA|2|
+|2831|BAYTOWN|USA|15|
+|2832|STOCKTON|USA|198|
+|2833|DELAWARE_BAY|USA|390|
+|2834|PASADENA|USA|85|
+|2835|WORCESTER|USA|5|
+|2836|PALM_BEACH|USA|177|
+|2837|NEW_CASTLE_DEL|USA|8|
+|2838|MOREHEAD_CITY|USA|5|
+|2839|EVERETT|USA|231|
+|2840|FERNANDINA|USA|12|
+|2841|PORT_LAVACA|USA|2|
+|2842|NEWPORT_RI|USA|188|
+|2843|NOME|USA|154|
+|2844|OAKLAND|USA|325|
+|2845|ALEXANDRIA(US)|USA|25|
+|2846|KODIAK|USA|126|
+|2847|DUTCH_HARBOUR|USA|241|
+|2848|HUNTSVILLE|USA|7|
+|2849|BOCA_GRANDE|USA|228|
+|2850|MONROE|USA|5|
+|2851|east of American_BOSTON_MA|USA|183|
+|2852|EI_PASO_TX|USA|8|
+|2853|SANTA_BARBARA|USA|198|
+|2854|BUCKSPORT|USA|241|
+|2855|OSWEGO|USA|176|
+|2856|NEW_ORLEANS|USA|5|
+|2857|east of American_MIAMI|USA|396|
+|2858|KEY_WEST|USA|225|
+|2859|DONALDSONVILLE|USA|79|
+|2860|BRIDGEPORT|USA|224|
+|2861|east of American_MOBILE_AL|USA|173|
+|2862|PANAMA_CITY|USA|184|
+|2863|HONOLULU|USA|142|
+|2864|SAVANNAH|USA|5|
+|2865|SEATTLE_WA|USA|588|
+|2866|SITKA|USA|165|
+|2867|LORAIN|USA|11|
+|2868|CANAVERAL|USA|140|
+|2869|HURON|USA|175|
+|2870|KENAI|USA|33|
+|2871|SEARSPORT|USA|183|
+|2872|SABINE|USA|121|
+|2873|FORT_WORTH|USA|15|
+|2874|NEWPORT_OREG|USA|6|
+|2875|CARRABELLE|USA|223|
+|2876|MILWAUKEE|USA|9|
+|2877|PLYMOUTH_US|USA|326|
+|2878|GULFPORT|USA|107|
+|2879|TRENTON|USA|213|
+|2880|HOMER|USA|13|
+|2881|ANCHORAGE|USA|25|
+|2882|ALPENA|USA|19|
+|2883|BEAUMONT|USA|28|
+|2884|KINGS_BAY|USA|83|
+|2885|LAREDO|USA|14|
+|2886|GRAYS_HARBOUR|USA|179|
+|2887|HOME|USA|13|
+|2888|DENVER|USA|9|
+|2889|LOS ANGELES|USA|315|
+|2890|CHESTER|USA|87|
+|2891|TEXAS_CITY|USA|81|
+|2892|OSTRICA|USA|93|
+|2893|WILLAPA|USA|4|
+|2894|PORTLAND_OR|USA|324|
+|2895|NEWARK|USA|14|
+|2896|WRANGELL|USA|2|
+|2897|VANCOUVER|USA|172|
+|2898|MYRTLE_GROVE|USA|4|
+|2899|GEISMAR|USA|8|
+|2900|NEW_HAVEN|USA|8|
+|2901|ROCHESTER|USA|842|
+|2902|KALAMA|USA|79|
+|2903|ST_PAUL_MN|USA|10|
+|2904|PAULSBORO|USA|98|
+|2905|PORT_SAN_LUIS|USA|12|
+|2906|PORT_ROYAL|USA|12|
+|2907|east of American_CHARLESTON_SC|USA|1203|
+|2908|ABERDEEN_US|USA|2167|
+|2909|PORT_ST.JOE|USA|12|
+|2910|USEVE|USA|4|
+|2911|CLEVELAND|USA|14|
+|2912|FERNDALE|USA|11|
+|2913|MINNEAPOLIS_MN|USA|3|
+|2914|CHEBOYGAN|USA|222|
+|2915|LAVACA|USA|2|
+|2916|TACOMA_WA|USA|318|
+|2917|WILMER_TX|USA|6|
+|2918|EL_SEGUNDO|USA|13|
+|2919|EI_PASO|USA|12|
+|2920|MANITOWOC|USA|14|
+|2921|SEWARD|USA|230|
+|2922|GRAMERCY|USA|75|
+|2923|BURNS_HARBOUR|USA|238|
+|2924|GRAND_HAVEN|USA|152|
+|2925|PORT ADAMS|USA|313|
+|2926|FALL_RIVER|USA|10|
+|2927|FREEPORT|USA|8|
+|2928|KENOSHA|USA|90|
+|2929|PORT_NECHES|USA|111|
+|2930|ASHLAND|USA|29|
+|2931|BUFFALO|USA|229|
+|2932|WILMINGTON|USA|126|
+|2933|NORTH_BEN|USA|119|
+|2934|CAMBRIDGE|USA|283|
+|2935|PHOENIX|USA|14|
+|2936|APALACHICOLA|USA|27|
+|2937|MUSKEGON|USA|11|
+|2938|SACRAMENTO|USA|227|
+|2939|ASHTABULA|USA|24|
+|2940|WASHINGTON|USA|145|
+|2941|PITTSBURGH|USA|14|
+|2942|DULUTH|USA|490|
+|2943|SAN_PEDRO|USA|222|
+|2944|CORPUS_CHRISTI|USA|401|
+|2945|ERIE|USA|15|
+|2946|east of American_ATLANTA_GA|USA|477|
+|2947|INDIANAPOLIS|USA|14|
+|2948|NASHVILLE|USA|14|
+|2949|NEW_LONDON(CONN.)|USA|10|
+|2950|PASCAGOULA|USA|7|
+|2951|BANGOR|USA|87|
+|2952|BATON_ROUGE|USA|24|
+|2953|SKAGWAY|USA|187|
+|2954|BREMERTON|USA|217|
+|2955|LAKE_CHARLES|USA|72|
+|2956|ANTONIO_ENES|Mozambique|28|
+|2957|MOMA|Mozambique|20|
+|2958|NACALA|Mozambique|31|
+|2959|MOCIMBOA|Mozambique|9|
+|2960|PEMBA|Mozambique|55|
+|2961|BEIRA|Mozambique|27|
+|2962|IBO|Mozambique|1|
+|2963|MAPUTO|Mozambique|31|
+|2964|MOZAMBIQUE|Mozambique|21|
+|2965|QUELIMANE|Mozambique|15|
+|2966|SAN_PEDRO|Mozambique|1|
+|2967|INHAMBANE|Mozambique|7|
+|2968|BASEL|Switzerland|9|
+|2969|GENEVA|Switzerland|10|
+|2970|ZURICH|Switzerland|9|
+|2971|DORDRECHT|Netherlands|48|
+|2972|HOOK_OF_HOLLAND|Netherlands|4|
+|2973|GRONINGEN|Netherlands|3|
+|2974|EUROPOORT|Netherlands|11|
+|2975|EEMSHAVEN|Netherlands|1102|
+|2976|MAASSLUIS|Netherlands|6|
+|2977|KAMPEN|Netherlands|6|
+|2978|BROUWERSHAVEN|Netherlands|1|
+|2979|LEEUWARDEN|Netherlands|2|
+|2980|AMSTERDAM|Netherlands|124|
+|2981|HANSWEERT|Netherlands|2|
+|2982|MEPPEL|Netherlands|17|
+|2983|HARLINGEN|Netherlands|6|
+|2984|ROTTERDAM|Netherlands|215|
+|2985|BRATISLAVA|Slovakia|4|
+|2986|DURRES|Albania|27|
+|2987|REUNION|Reunion|2|
+|2988|POINTE_DES_GALETS|Reunion|4|
+|2989|LE_PORT|Reunion|0|
+|2990|MONTE_CARLO|Monaco|6|
+|2991|LIEPAJA|Latvia|7|
+|2992|VENTSPILS|Latvia|5|
+|2993|RIGA|Latvia|96|
+|2994|VICTORIA_POINT|Myanmar|10|
+|2995|TAVOY|Myanmar|4|
+|2996|AKYAB|Myanmar|59|
+|2997|MERGUI|Myanmar|5|
+|2998|TENASSERIM|Myanmar|4|
+|2999|KYAUKPYU|Myanmar|5|
+|3000|YANGON|Myanmar|5|
+|3001|BASSEIN|Myanmar|5|
+|3002|SANDOWAY|Myanmar|4|
+|3003|MOULMEIN|Myanmar|5|
+|3004|MICHURIN|Bulgaria|2|
+|3005|VARNA|Bulgaria|135|
+|3006|BALCHIK|Bulgaria|11|
+|3007|NESSEBAR|Bulgaria|5|
+|3008|BURGAS|Bulgaria|5|
+|3009|KAVARNA|Bulgaria|4|
+|3010|PLOVDIV|Bulgaria|5|
+|3011|BOURGAS|Bulgaria|6|
+|3012|SOFIA|Bulgaria|6|
+|3013|HAMILTON_BM|Bermuda|33|
+|3014|ASUNCION|Paraguay|3|
+|3015|CAACUPEMI|Paraguay|4|
+|3016|VILLETA|Paraguay|4|
+|3017|TERPORT|Paraguay|7|
+|3018|FENIX|Paraguay|5|
+|3019|SELEBI PIKWE|Botswana|2|
+|3020|FRANCISTOWN|Botswana|2|
+|3021|GABORONE|Botswana|1|
+|3022|KAUNAS|Lithuania|4|
+|3023|KLAIPEDA|Lithuania|118|
+|3024|VILNIUS|Lithuania|6|
+|3025|PIETARSAARI|Finland|7|
+|3026|NYSTAD|Finland|0|
+|3027|RAUMA|Finland|15|
+|3028|RAAHE|Finland|2|
+|3029|TOPPILA|Finland|6|
+|3030|WALKOM|Finland|0|
+|3031|YKSPIHLAJA|Finland|11|
+|3032|MARIEHAMN|Finland|15|
+|3033|ISNAS|Finland|0|
+|3034|UUSIKAUPUNKI|Finland|7|
+|3035|KOVERHAR|Finland|0|
+|3036|LAPALUOTO|Finland|1|
+|3037|PORKKALA|Finland|2|
+|3038|OULU|Finland|12|
+|3039|PORVOO|Finland|13|
+|3040|MERIKARVIA|Finland|0|
+|3041|PARGAS|Finland|5|
+|3042|HAMINA|Finland|9|
+|3043|KRISTIINA|Finland|0|
+|3044|VASKILUOTO|Finland|0|
+|3045|KOTKA|Finland|11|
+|3046|TURKU|Finland|1|
+|3047|KEMI|Finland|6|
+|3048|MANTYLUOTO|Finland|8|
+|3049|NAANTALI|Finland|12|
+|3050|KASKINEN|Finland|7|
+|3051|SAIMAA_CANAL|Finland|5|
+|3052|DEGERBY|Finland|5|
+|3053|HELSINKI|Finland|138|
+|3054|PATENIEMI|Finland|0|
+|3055|LOVIISA|Finland|3|
+|3056|INKOO|Finland|9|
+|3057|TOIKIS|Finland|0|
+|3058|REPOSAARI|Finland|8|
+|3059|BAROSUND|Finland|0|
+|3060|KOKKOLA|Finland|13|
+|3061|HANKO|Finland|8|
+|3062|VAASA|Finland|6|
+|3063|TAMMISAARI|Finland|3|
+|3064|PORI|Finland|38|
+|3065|TORNIO|Finland|6|
+|3066|VEITSILUOTO|Finland|5|
+|3067|KO_SICHANG|Thailand|20|
+|3068|PATTANI|Thailand|8|
+|3069|BANGKOK PAT|Thailand|19|
+|3070|KANTANG|Thailand|16|
+|3071|SIRACHA|Thailand|6|
+|3072|BANGKOK SCT|Thailand|18|
+|3073|SATTAHIP|Thailand|5|
+|3074|SONGKHLA|Thailand|4|
+|3075|PHUKET|Thailand|8|
+|3076|PAKNAM|Thailand|4|
+|3077|NARATHIWAT|Thailand|8|
+|3078|KLONG_TOEY|Thailand|20|
+|3079|LAT_KRABANG|Thailand|6|
+|3080|BANGKOK_ECT|Thailand|175|
+|3081|LAEM_CHABANG|Thailand|7|
+|3082|GRAND_TURK|Turks and Caicos Islands|5|
+|3083|PROVO|Turks and Caicos Islands|5|
+|3084|SIHANOUKVILLE|Kampuchea|39|
+|3085|KOMPONG_SOM|Kampuchea|4|
+|3086|PHNOM_PENH|Kampuchea|9|
+|3087|PORLAMAR|Venezuela|13|
+|3088|GUANTA|Venezuela|5|
+|3089|PUERTO_CARDON|Venezuela|4|
+|3090|GUIRIA|Venezuela|5|
+|3091|CABIMAS|Venezuela|5|
+|3092|PUERTO_MIRANDA|Venezuela|13|
+|3093|BAJO_GRANCDE|Venezuela|6|
+|3094|PAMPATAR|Venezuela|13|
+|3095|LA_GUAIRA|Venezuela|6|
+|3096|CHICHIRIVICHI|Venezuela|6|
+|3097|PAMATACUAL|Venezuela|5|
+|3098|COLONCHA|Venezuela|5|
+|3099|MATANZAS_VE|Venezuela|6|
+|3100|EL_PALITO|Venezuela|4|
+|3101|LA_SALINA|Venezuela|5|
+|3102|PUNTA_CUCHILLO|Venezuela|13|
+|3103|PUERTO_LA_CRUZ|Venezuela|13|
+|3104|CARUPANO|Venezuela|5|
+|3105|GUARAGUAO|Venezuela|5|
+|3106|CIUDAD_BOLIVAR|Venezuela|5|
+|3107|MARACAIBO|Venezuela|6|
+|3108|MORON|Venezuela|5|
+|3109|BACHAQUERO|Venezuela|5|
+|3110|TUCACAS|Venezuela|13|
+|3111|CUMANA|Venezuela|5|
+|3112|EL_TABLAZO|Venezuela|5|
+|3113|ARAYA|Venezuela|7|
+|3114|PERTIGALETE|Venezuela|5|
+|3115|PUERTO_CABELLO|Venezuela|4|
+|3116|EL_CHAURE|Venezuela|5|
+|3117|PALUA|Venezuela|5|
+|3118|PUERTO_ORDAZ|Venezuela|12|
+|3119|EL_GUAMACHE|Venezuela|5|
+|3120|PUERTO_DE_HIERRO|Venezuela|5|
+|3121|SAN_FELIX|Venezuela|13|
+|3122|AMUAY_BAY|Venezuela|5|
+|3123|TURIAMO|Venezuela|13|
+|3124|LA_ESTACADA|Venezuela|5|
+|3125|CARIPITO|Venezuela|5|
+|3126|RICHARDS_BAY|South Africa|2|
+|3127|PRETORIA|South Africa|2|
+|3128|DURBAN|South Africa|54|
+|3129|POINT_GENTIL|South Africa|3|
+|3130|SALDANHA_BAY|South Africa|2|
+|3131|JOHANNESBURG|South Africa|1|
+|3132|CAPE_TOWN|South Africa|186|
+|3133|PORT_ELIZABETH|South Africa|3|
+|3134|MOSSEL_BAY|South Africa|1|
+|3135|EAST_LONDON|South Africa|1|
+|3136|SIMONSTOWN|South Africa|2|
+|3137|PORT_ALFRED|South Africa|1|
+|3138|CHALNA ANCHORAGE|Bangladesh|1392|
+|3139|MONGLA|Bangladesh|196|
+|3140|DHAKA|Bangladesh|200|
+|3141|CHITTAGONG|Bangladesh|290|
+|3142|KHULNA|Bangladesh|196|
+|3143|KABUL|Afghan|3|
+|3144|AKTOBE|Kasakhstan|13|
+|3145|ALMATY|Kasakhstan|54|
+|3146|ATYRAU|Kasakhstan|55|
+|3147|PETROPAVLOVSK|Kasakhstan|64|
+|3148|CHIMKENT|Kasakhstan|25|
+|3149|PAVLODAR|Kasakhstan|18|
+|3150|KARAGANDA|Kasakhstan|6|
+|3151|TASHKENT|Kasakhstan|18|
+|3152|SEMIPALATINSK|Kasakhstan|4|
+|3153|ASSAKE|Kasakhstan|13|
+|3154|ALMEDIN|Kasakhstan|7|
+|3155|KYZYLORDA|Kasakhstan|5|
+|3156|MEDEU|Kasakhstan|4|
+|3157|KUSTANAI|Kasakhstan|30|
+|3158|AKTAU|Kasakhstan|64|
+|3159|TALDYKORGAN|Kasakhstan|3|
+|3160|KOKSHETAU|Kasakhstan|27|
+|3161|ZASHITA|Kasakhstan|5|
+|3162|ZHEZKAZGAN|Kasakhstan|18|
+|3163|LUXEMBOURG|Luxembourg|15|
+|3164|ROSARIO|Argentina|5|
+|3165|SAN_SEBASTIAN_BAY|Argentina|4|
+|3166|ZARATE|Argentina|5|
+|3167|IBICUY|Argentina|5|
+|3168|SAN_LPRENZ0|Argentina|5|
+|3169|MONDOZA|Argentina|5|
+|3170|QUEQUEN|Argentina|4|
+|3171|DIAMANTE|Argentina|5|
+|3172|PUERTO_DESEADO|Argentina|5|
+|3173|VILLA_CONSTITUCION|Argentina|5|
+|3174|SAN_ANTONIO_ESTE|Argentina|5|
+|3175|CAMPANA|Argentina|20|
+|3176|SANTA_CRUZ|Argentina|5|
+|3177|NOCOCHEA|Argentina|5|
+|3178|LA_PLATA|Argentina|5|
+|3179|RECALADA|Argentina|5|
+|3180|SAN_NICOLAS|Argentina|5|
+|3181|PUNTA_QUILLA|Argentina|5|
+|3182|MAR_DEL_PLATA|Argentina|5|
+|3183|RAMALLO|Argentina|5|
+|3184|BUENOS_AIRES|Argentina|54|
+|3185|PUERTO_ACEVEDO|Argentina|4|
+|3186|PUNTA_COLORADA|Argentina|5|
+|3187|PUERTO_MADRYN|Argentina|5|
+|3188|SAN_FERNANDO|Argentina|5|
+|3189|CORNODORO_RIVADAVIA|Argentina|17|
+|3190|USHUAIA|Argentina|5|
+|3191|CONCEPCION|Argentina|17|
+|3192|SAN_LORENZO|Argentina|6|
+|3193|BAHIA_BLANCA|Argentina|18|
+|3194|SANTA_FE|Argentina|4|
+|3195|RIO_GALLEGOS|Argentina|5|
+|3196|SAN_PEDRO|Argentina|5|
+|3197|RIO_GRANDE|Argentina|5|
+|3198|OXELOSUND|Sweden|6|
+|3199|HALLSTAVIK|Sweden|10|
+|3200|TORE|Sweden|10|
+|3201|HELSINGBORG|Sweden|18|
+|3202|STOCKHOLM|Sweden|20|
+|3203|SUNDSVALL|Sweden|3|
+|3204|VIFSTAVARF|Sweden|9|
+|3205|SOLVESBORG|Sweden|4|
+|3206|UDDEVALLA|Sweden|2|
+|3207|VARBERG|Sweden|1|
+|3208|LYSEKIL|Sweden|7|
+|3209|BORGHOLM|Sweden|17|
+|3210|TROLLHATTAN|Sweden|4|
+|3211|UMEA|Sweden|3|
+|3212|TRELLEBORG|Sweden|7|
+|3213|SODERTALJE|Sweden|5|
+|3214|SANDARNE|Sweden|3|
+|3215|STROMSTAD|Sweden|8|
+|3216|MARSTRAND|Sweden|17|
+|3217|LULEA|Sweden|2|
+|3218|KARLSKRONA|Sweden|12|
+|3219|GEFLE|Sweden|4|
+|3220|WALLVIK|Sweden|12|
+|3221|SLITE|Sweden|16|
+|3222|RONEHAMN|Sweden|3|
+|3223|SIMRISHAMN|Sweden|21|
+|3224|PATAHOLM|Sweden|6|
+|3225|ORNSKOLDSVIK|Sweden|5|
+|3226|STORUGNS|Sweden|2|
+|3227|SODERKOPING|Sweden|5|
+|3228|VALDEMARSVIK|Sweden|2|
+|3229|ARBOGA|Sweden|21|
+|3230|LIDKOPING|Sweden|3|
+|3231|VISBY|Sweden|26|
+|3232|LIMHAMN|Sweden|11|
+|3233|STRANGNAS|Sweden|10|
+|3234|LANDSKRONA|Sweden|2|
+|3235|WALLHAMN|Sweden|10|
+|3236|SANDVIKEN|Sweden|6|
+|3237|STENUNGSUND|Sweden|9|
+|3238|SKELLEFTEA|Sweden|6|
+|3239|PASKALLAVIK|Sweden|10|
+|3240|UTANSJO|Sweden|1|
+|3241|MALMO|Sweden|2|
+|3242|WAIJA|Sweden|2|
+|3243|YSTAD|Sweden|15|
+|3244|ALA|Sweden|20|
+|3245|TUNADAL|Sweden|31|
+|3246|SKOGHALL|Sweden|3|
+|3247|SKREDSVIK|Sweden|1|
+|3248|VESTERAS|Sweden|5|
+|3249|DALARO|Sweden|8|
+|3250|NORRKOPING|Sweden|4|
+|3251|NORKOEPING|Sweden|3|
+|3252|SODERHAMN|Sweden|3|
+|3253|LJUSNE|Sweden|7|
+|3254|SKELLEFTEHAMN|Sweden|3|
+|3255|RONNEBYHAMN|Sweden|11|
+|3256|PITEA|Sweden|19|
+|3257|NAWILIWILI|Pacific Islands|37|
+|3258|SAIPAN_ISLAND|Pacific Islands|97|
+|3259|KAHULUI|Pacific Islands|40|
+|3260|TINIAN_ISLAND|Pacific Islands|14|
+|3261|TRUK_ISLAND|Pacific Islands|66|
+|3262|HILO|Pacific Islands|58|
+|3263|SMALKALDEN|Suriname|46|
+|3264|WAGENINGEN|Suriname|32|
+|3265|MOENGO|Suriname|24|
+|3266|PARAMARIBO|Suriname|77|
+|3267|PARANAM|Suriname|28|
+|3268|DZAOUDZI|Comoros|3|
+|3269|MORONI|Comoros|4|
+|3270|FOMBONI|Comoros|3|
+|3271|MUTSAMUDU|Comoros|4|
+|3272|VICTORIA,CM|Cameroon|15|
+|3273|KRIBI|Cameroon|17|
+|3274|TIKO|Cameroon|21|
+|3275|DOUALA|Cameroon|36|
+|3276|GIBRALTAR|Gibraltar|10|
+|3277|KUALA_SELANGOR|Malaysia|5|
+|3278|WALLACE_BAY|Malaysia|6|
+|3279|KUALA_TRENGGANU|Malaysia|3|
+|3280|SEMPORNA|Malaysia|2|
+|3281|PORT_DICKSON|Malaysia|5|
+|3282|TUMPAT|Malaysia|3|
+|3283|LUNDU|Malaysia|4|
+|3284|DUNGUN|Malaysia|5|
+|3285|KUANTAN|Malaysia|6|
+|3286|KOTA_BHARU|Malaysia|2|
+|3287|KUALA_PAHANG|Malaysia|3|
+|3288|LABUAN|Malaysia|3|
+|3289|PASIR_GUDANG|Malaysia|3|
+|3290|KUDAT|Malaysia|5|
+|3291|GEORGETOWN|Malaysia|6|
+|3292|ENDAU|Malaysia|3|
+|3293|BINTULU|Malaysia|6|
+|3294|TELOK_RAMUNIA|Malaysia|1|
+|3295|PORT_KELANG(N)|Malaysia|5|
+|3296|WESTON|Malaysia|4|
+|3297|BAGAN_DATOH|Malaysia|5|
+|3298|LUMUT|Malaysia|5|
+|3299|KUALA_LUMPUR|Malaysia|5|
+|3300|TANJONG_MANI|Malaysia|6|
+|3301|LAHAD_DATU|Malaysia|2|
+|3302|TELOK_ANSON|Malaysia|3|
+|3303|MYTPP|Malaysia|2|
+|3304|BUTTERWORTH|Malaysia|9|
+|3305|NIAH|Malaysia|2|
+|3306|PORT_WELD|Malaysia|4|
+|3307|BINATANG|Malaysia|3|
+|3308|KEMAMAN|Malaysia|5|
+|3309|KOTA_KINABALU|Malaysia|7|
+|3310|SUNGEI_MUAR|Malaysia|2|
+|3311|TAWAU|Malaysia|2|
+|3312|MIRI|Malaysia|9|
+|3313|KUNAK|Malaysia|4|
+|3314|KUALA_ROMPIN|Malaysia|4|
+|3315|SANDAKAN|Malaysia|4|
+|3316|KUCHING|Malaysia|6|
+|3317|LINGGA|Malaysia|10|
+|3318|MELAKA|Malaysia|5|
+|3319|SIBU|Malaysia|5|
+|3320|PRAI|Malaysia|5|
+|3321|SARIKEI|Malaysia|4|
+|3322|BATU_PAHAT|Malaysia|8|
+|3323|JOHOR|Malaysia|1|
+|3324|PENANG|Malaysia|4|
+|3325|KUALA_SUAI|Malaysia|1|
+|3326|PORT_KELANG(W)|Malaysia|11|
+|3327|KERTEH|Malaysia|3|
+|3328|BARAM|Malaysia|23|
+|3329|BUSHEHR|Iran|26|
+|3330|JASK|Iran|2|
+|3331|RAS_BAHREGAN|Iran|13|
+|3332|KISH|Iran|14|
+|3333|LINGAH|Iran|10|
+|3334|CYRUS_TERMINAL|Iran|11|
+|3335|BANDAR_MAHSHAHR|Iran|10|
+|3336|BANDAR_ASSALUYEH|Iran|8|
+|3337|BANDAR_ABBAS|Iran|28|
+|3338|BANDAR_IMAM_KHOMEINI|Iran|20|
+|3339|KHARG_ISLAND|Iran|23|
+|3340|LAVAN_ISLAND|Iran|5|
+|3341|NORWUZ_TERMINAL|Iran|14|
+|3342|TEHRAN|Iran|2|
+|3343|ABADAN|Iran|22|
+|3344|CHABAHAR|Iran|9|
+|3345|KHORRAMSHAHR|Iran|24|
+|3346|SHAHID_RAJAEE_SEZ|Iran|11|
+|3347|IZMIT|Turkey|17|
+|3348|HAYDARPASA|Turkey|5|
+|3349|FINIKE|Turkey|5|
+|3350|ANTALYA|Turkey|12|
+|3351|SINOP|Turkey|1|
+|3352|TIREBOLU|Turkey|2|
+|3353|INEBOLU|Turkey|4|
+|3354|MERSIN|Turkey|3|
+|3355|HADAPASA|Turkey|11|
+|3356|DORTYOL|Turkey|2|
+|3357|HEREKE|Turkey|4|
+|3358|MUDANYA|Turkey|1|
+|3359|ISKENDERUN|Turkey|4|
+|3360|AMASRA|Turkey|5|
+|3361|SAMSUN|Turkey|5|
+|3362|HOPA|Turkey|2|
+|3363|FATSA|Turkey|6|
+|3364|AMBARLI|Turkey|5|
+|3365|GORELE|Turkey|1|
+|3366|GOCEK|Turkey|11|
+|3367|ZONGULDAK|Turkey|4|
+|3368|FETHIYE|Turkey|10|
+|3369|GELIBOLU|Turkey|1|
+|3370|BANDIRMA|Turkey|3|
+|3371|ISTANBUL|Turkey|16|
+|3372|KAISAREIA|Turkey|3|
+|3373|CIDE|Turkey|1|
+|3374|DIKILI|Turkey|2|
+|3375|CANAKKALE|Turkey|10|
+|3376|TRABZON|Turkey|5|
+|3377|DERINCE|Turkey|4|
+|3378|ORDU|Turkey|2|
+|3379|EDINCIK|Turkey|1|
+|3380|MARPORT|Turkey|5|
+|3381|KUSADASI|Turkey|8|
+|3382|TASUCU|Turkey|3|
+|3383|KUMPORT|Turkey|4|
+|3384|YARIMCA|Turkey|6|
+|3385|RIZE|Turkey|5|
+|3386|UNYE|Turkey|1|
+|3387|TEKIRDAG|Turkey|4|
+|3388|IZMIR|Turkey|5|
+|3389|TUTUNCIFTLIK|Turkey|5|
+|3390|GULLUK|Turkey|1|
+|3391|USKUDAR|Turkey|6|
+|3392|EREGLI|Turkey|2|
+|3393|GOLCUK|Turkey|1|
+|3394|MARMARIS|Turkey|22|
+|3395|AYVALIK|Turkey|7|
+|3396|ALANYA|Turkey|2|
+|3397|GIRESUN|Turkey|3|
+|3398|ALIAGA|Turkey|1|
+|3399|GEMLIK|Turkey|1|
+|3400|GEBZE|Turkey|5|
